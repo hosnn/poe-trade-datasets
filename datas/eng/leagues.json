@@ -1,0 +1,14 @@
+{
+    "result": [
+        {
+            "id": "Standard",
+            "realm": "poe2",
+            "text": "Standard"
+        },
+        {
+            "id": "Hardcore",
+            "realm": "poe2",
+            "text": "Hardcore"
+        }
+    ]
+}

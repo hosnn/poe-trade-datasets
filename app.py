@@ -19,8 +19,8 @@ def main():
     "filters": "/api/trade2/data/filters"
   }
 
-  # save_folder = "datas"  # 저장 폴더 이름
-  # fetch_and_save_data(DOMAIN, URI, save_folder)
+  save_folder = "datas"  # 저장 폴더 이름
+  fetch_and_save_data(DOMAIN, URI, save_folder)
 
   filters_merged()
   items_merged()

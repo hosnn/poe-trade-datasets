@@ -35,13 +35,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3917489142",
-                    "text": "#% increased [ItemRarity|Rarity of Items] found",
+                    "id": "explicit.stat_3261801346",
+                    "text": "# to [Dexterity|Dexterity]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3261801346",
-                    "text": "# to [Dexterity|Dexterity]",
+                    "id": "explicit.stat_3917489142",
+                    "text": "#% increased [ItemRarity|Rarity of Items] found",
                     "type": "explicit"
                 },
                 {
@@ -57,6 +57,11 @@
                 {
                     "id": "explicit.stat_789117908",
                     "text": "#% increased Mana Regeneration Rate",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1368271171",
+                    "text": "Gain # Mana per Enemy Killed",
                     "type": "explicit"
                 },
                 {
@@ -80,11 +85,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1368271171",
-                    "text": "Gain # Mana per Enemy Killed",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_4015621042",
                     "text": "#% increased [EnergyShield|Energy Shield]",
                     "type": "explicit"
@@ -105,6 +105,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3032590688",
+                    "text": "Adds # to # [Physical|Physical] Damage to [Attack|Attacks]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_691932474",
                     "text": "# to [Accuracy|Accuracy] Rating",
                     "type": "explicit"
@@ -115,18 +120,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3484657501",
-                    "text": "# to [Armour|Armour]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_2250533757",
                     "text": "#% increased Movement Speed",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_53045048",
-                    "text": "# to [Evasion] Rating",
+                    "id": "explicit.stat_3484657501",
+                    "text": "# to [Armour|Armour]",
                     "type": "explicit"
                 },
                 {
@@ -135,23 +135,23 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_53045048",
+                    "text": "# to [Evasion] Rating",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_124859000",
                     "text": "#% increased [Evasion|Evasion] Rating",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3032590688",
-                    "text": "Adds # to # [Physical|Physical] Damage to [Attack|Attacks]",
+                    "id": "explicit.stat_1062208444",
+                    "text": "#% increased [Armour|Armour]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_3981240776",
                     "text": "# to [Spirit|Spirit]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1062208444",
-                    "text": "#% increased [Armour|Armour]",
                     "type": "explicit"
                 },
                 {
@@ -185,8 +185,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1999113824",
+                    "text": "#% increased [Evasion] and [EnergyShield|Energy Shield]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1754445556",
                     "text": "Adds # to # [Lightning] damage to [Attack|Attacks]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4067062424",
+                    "text": "Adds # to # [Cold] damage to [Attack|Attacks]",
                     "type": "explicit"
                 },
                 {
@@ -195,13 +205,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1999113824",
-                    "text": "#% increased [Evasion] and [EnergyShield|Energy Shield]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4067062424",
-                    "text": "Adds # to # [Cold] damage to [Attack|Attacks]",
+                    "id": "explicit.stat_2231156303",
+                    "text": "#% increased [Lightning] Damage",
                     "type": "explicit"
                 },
                 {
@@ -230,11 +235,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2231156303",
-                    "text": "#% increased [Lightning] Damage",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_210067635",
                     "text": "#% increased [Attack] Speed",
                     "type": "explicit"
@@ -255,6 +255,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_736967255",
+                    "text": "#% increased [Chaos] Damage",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2106365538",
                     "text": "#% increased [Evasion|Evasion Rating]",
                     "type": "explicit"
@@ -265,13 +270,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1379411836",
-                    "text": "# to all [Attributes|Attributes]",
+                    "id": "explicit.stat_9187492",
+                    "text": "# to Level of all [Melee|Melee] Skills",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_9187492",
-                    "text": "# to Level of all [Melee|Melee] Skills",
+                    "id": "explicit.stat_737908626",
+                    "text": "#% increased [Critical|Critical Hit Chance] for [Spell|Spells]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1379411836",
+                    "text": "# to all [Attributes|Attributes]",
                     "type": "explicit"
                 },
                 {
@@ -290,8 +300,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_736967255",
-                    "text": "#% increased [Chaos] Damage",
+                    "id": "explicit.stat_681332047",
+                    "text": "#% increased [Attack] Speed",
                     "type": "explicit"
                 },
                 {
@@ -300,8 +310,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2162097452",
-                    "text": "# to Level of all [Minion|Minion] Skills",
+                    "id": "explicit.stat_2968503605",
+                    "text": "#% increased chance to [Ignite]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2306002879",
+                    "text": "#% increased [Rarity] of Items found in this Area",
                     "type": "explicit"
                 },
                 {
@@ -310,13 +325,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_387439868",
-                    "text": "#% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]",
+                    "id": "explicit.stat_2162097452",
+                    "text": "# to Level of all [Minion|Minion] Skills",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2968503605",
-                    "text": "#% increased chance to [Ignite]",
+                    "id": "explicit.stat_387439868",
+                    "text": "#% increased [ElementalDamage|Elemental] Damage with [Attack|Attacks]",
                     "type": "explicit"
                 },
                 {
@@ -325,13 +340,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_681332047",
-                    "text": "#% increased [Attack] Speed",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2306002879",
-                    "text": "#% increased [Rarity] of Items found in this Area",
+                    "id": "explicit.stat_669069897",
+                    "text": "[ManaLeech|Leeches] #% of [Physical|Physical] Damage as Mana",
                     "type": "explicit"
                 },
                 {
@@ -345,13 +355,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3793155082",
-                    "text": "#% increased number of [Rarity|Rare] Monsters",
+                    "id": "explicit.stat_707457662",
+                    "text": "[ManaLeech|Leech] #% of [Physical] [Attack] Damage as Mana",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_669069897",
-                    "text": "[ManaLeech|Leeches] #% of [Physical|Physical] Damage as Mana",
+                    "id": "explicit.stat_2557965901",
+                    "text": "[LifeLeech|Leech] #% of [Physical] [Attack] Damage as Life",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3793155082",
+                    "text": "#% increased number of [Rarity|Rare] Monsters",
                     "type": "explicit"
                 },
                 {
@@ -360,23 +375,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_737908626",
-                    "text": "#% increased [Critical|Critical Hit Chance] for [Spell|Spells]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_821021828",
                     "text": "Grants # Life per Enemy [HitDamage|Hit]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_707457662",
-                    "text": "[ManaLeech|Leech] #% of [Physical] [Attack] Damage as Mana",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2557965901",
-                    "text": "[LifeLeech|Leech] #% of [Physical] [Attack] Damage as Life",
+                    "id": "explicit.stat_748522257",
+                    "text": "#% increased [Stun|Stun] Duration",
                     "type": "explicit"
                 },
                 {
@@ -395,18 +400,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3759663284",
-                    "text": "#% increased [Projectile] Speed",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_748522257",
-                    "text": "#% increased [Stun|Stun] Duration",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_3015669065",
                     "text": "[Gain] #% of Damage as Extra [Fire] Damage",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3759663284",
+                    "text": "#% increased [Projectile] Speed",
                     "type": "explicit"
                 },
                 {
@@ -435,6 +435,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2390685262",
+                    "text": "#% increased Quantity of Items found in this Area",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_770672621",
                     "text": "[Minion|Minions] have #% increased maximum Life",
                     "type": "explicit"
@@ -450,11 +455,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2390685262",
-                    "text": "#% increased Quantity of Items found in this Area",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_473429811",
                     "text": "#% increased [Freeze|Freeze] Buildup",
                     "type": "explicit"
@@ -465,8 +465,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1241625305",
+                    "text": "#% increased Damage with Bow Skills",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1444556985",
                     "text": "#% of Damage taken [Recoup|Recouped] as Life",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_591105508",
+                    "text": "# to Level of all [Fire|Fire] [Spell|Spell] Skills",
                     "type": "explicit"
                 },
                 {
@@ -495,13 +505,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1241625305",
-                    "text": "#% increased Damage with Bow Skills",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_591105508",
-                    "text": "# to Level of all [Fire|Fire] [Spell|Spell] Skills",
+                    "id": "explicit.stat_1782086450",
+                    "text": "#% [FasterESRechargeStart|faster start of Energy Shield Recharge]",
                     "type": "explicit"
                 },
                 {
@@ -525,6 +530,16 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3196823591",
+                    "text": "#% increased Charges gained",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2624927319",
+                    "text": "#% increased number of Monster Packs",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1545858329",
                     "text": "# to Level of all [Lightning|Lightning] [Spell|Spell] Skills",
                     "type": "explicit"
@@ -540,13 +555,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2624927319",
-                    "text": "#% increased number of Monster Packs",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3196823591",
-                    "text": "#% increased Charges gained",
+                    "id": "explicit.stat_680068163",
+                    "text": "#% increased [StunThreshold|Stun Threshold]",
                     "type": "explicit"
                 },
                 {
@@ -560,23 +570,13 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1874553720",
+                    "text": "#% reduced [Chill|Chill] Duration on you",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_388617051",
                     "text": "#% increased Charges per use",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_680068163",
-                    "text": "#% increased [StunThreshold|Stun Threshold]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1782086450",
-                    "text": "#% [FasterESRechargeStart|faster start of Energy Shield Recharge]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3169585282",
-                    "text": "[Allies|Allies] in your [Presence|Presence] have # to [Accuracy|Accuracy] Rating",
                     "type": "explicit"
                 },
                 {
@@ -585,23 +585,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2174054121",
-                    "text": "#% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1874553720",
-                    "text": "#% reduced [Chill|Chill] Duration on you",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2160282525",
-                    "text": "#% reduced [Freeze|Freeze] Duration on you",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_644456512",
-                    "text": "#% reduced [Flask|Flask] Charges used",
+                    "id": "explicit.stat_3417711605",
+                    "text": "Damage [Penetration|Penetrates] #% [Resistances|Cold Resistance]",
                     "type": "explicit"
                 },
                 {
@@ -615,13 +600,38 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_239367161",
+                    "text": "#% increased [Stun] Buildup",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3169585282",
+                    "text": "[Allies|Allies] in your [Presence|Presence] have # to [Accuracy|Accuracy] Rating",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2174054121",
+                    "text": "#% chance to inflict [Bleeding|Bleeding] on [HitDamage|Hit]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2160282525",
+                    "text": "#% reduced [Freeze|Freeze] Duration on you",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_644456512",
+                    "text": "#% reduced [Flask|Flask] Charges used",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1589917703",
                     "text": "[Minion|Minions] deal #% increased Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3417711605",
-                    "text": "Damage [Penetration|Penetrates] #% [Resistances|Cold Resistance]",
+                    "id": "explicit.stat_1002362373",
+                    "text": "#% increased [Melee] Damage",
                     "type": "explicit"
                 },
                 {
@@ -635,8 +645,23 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1570770415",
+                    "text": "#% reduced [Charm] Charges used",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2112395885",
                     "text": "#% increased amount of Life [LifeLeech|Leeched]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1310194496",
+                    "text": "#% increased Global Physical Damage",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3791899485",
+                    "text": "#% increased [BuffMagnitude|Magnitude] of [Ignite|Ignite] you inflict",
                     "type": "explicit"
                 },
                 {
@@ -650,8 +675,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1002362373",
-                    "text": "#% increased [Melee] Damage",
+                    "id": "explicit.stat_2023107756",
+                    "text": "Recover #% of Life on Kill",
                     "type": "explicit"
                 },
                 {
@@ -665,18 +690,28 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3791899485",
-                    "text": "#% increased [BuffMagnitude|Magnitude] of [Ignite|Ignite] you inflict",
+                    "id": "explicit.stat_280731498",
+                    "text": "#% increased Area of Effect",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_427684353",
+                    "text": "#% increased Damage with [Crossbow|Crossbows]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4188894176",
+                    "text": "#% increased Damage with Bows",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2709367754",
+                    "text": "Gain # [Rage|Rage] on [Melee] [HitDamage|Hit]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_2748665614",
                     "text": "#% increased maximum Mana",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2023107756",
-                    "text": "Recover #% of Life on Kill",
                     "type": "explicit"
                 },
                 {
@@ -695,18 +730,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2709367754",
-                    "text": "Gain # [Rage|Rage] on [Melee] [HitDamage|Hit]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_280731498",
-                    "text": "#% increased Area of Effect",
+                    "id": "explicit.stat_1994551050",
+                    "text": "Monsters have #% increased Ailment Threshold",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_1873752457",
                     "text": "Gains # Charges per Second",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_828533480",
+                    "text": "#% Chance to gain a Charge when you Kill an Enemy",
                     "type": "explicit"
                 },
                 {
@@ -720,8 +755,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_828533480",
-                    "text": "#% Chance to gain a Charge when you Kill an Enemy",
+                    "id": "explicit.stat_4101943684",
+                    "text": "Monsters have #% increased Stun Threshold",
                     "type": "explicit"
                 },
                 {
@@ -730,68 +765,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_427684353",
-                    "text": "#% increased Damage with [Crossbow|Crossbows]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_1316278494",
                     "text": "#% increased [Warcry|Warcry] Speed",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1994551050",
-                    "text": "Monsters have #% increased Ailment Threshold",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_624954515",
-                    "text": "#% increased [Accuracy] Rating",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2254480358",
-                    "text": "# to Level of all [Cold|Cold] [Spell|Spell] Skills",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4188894176",
-                    "text": "#% increased Damage with Bows",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4226189338",
-                    "text": "# to Level of all [Chaos|Chaos] [Spell|Spell] Skills",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_821241191",
-                    "text": "#% increased Life Recovery from [Flask|Flasks]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1570770415",
-                    "text": "#% reduced [Charm] Charges used",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_983749596",
-                    "text": "#% increased maximum Life",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_95249895",
-                    "text": "#% more Monster Life",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_558910024",
-                    "text": "Players are [Curse|Cursed] with Elemental Weakness",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1054098949",
-                    "text": "+#% Monster Elemental Resistances",
                     "type": "explicit"
                 },
                 {
@@ -800,38 +775,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2753083623",
-                    "text": "Monsters have #% increased [Critical|Critical Hit] Chance",
+                    "id": "explicit.stat_95249895",
+                    "text": "#% more Monster Life",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3091578504",
-                    "text": "[Minion|Minions] have #% increased [Attack] and Cast Speed",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1310194496",
-                    "text": "#% increased Global Physical Damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1890519597",
-                    "text": "#% increased Monster Damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4101943684",
-                    "text": "Monsters have #% increased Stun Threshold",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3668351662",
-                    "text": "#% increased [Shock] Duration",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2898517796",
-                    "text": "#% increased amount of [Rarity|Magic] Chests",
+                    "id": "explicit.stat_57326096",
+                    "text": "#% to Monster [CriticalDamageBonus|Critical Damage Bonus]",
                     "type": "explicit"
                 },
                 {
@@ -840,13 +790,123 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2488361432",
-                    "text": "#% increased Monster Cast Speed",
+                    "id": "explicit.stat_624954515",
+                    "text": "#% increased [Accuracy] Rating",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_211727",
+                    "text": "Monsters deal #% of Damage as Extra Cold",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2254480358",
+                    "text": "# to Level of all [Cold|Cold] [Spell|Spell] Skills",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3091578504",
+                    "text": "[Minion|Minions] have #% increased [Attack] and Cast Speed",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_92381065",
+                    "text": "Monsters deal #% of Damage as Extra Fire",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4226189338",
+                    "text": "# to Level of all [Chaos|Chaos] [Spell|Spell] Skills",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4045894391",
+                    "text": "#% increased Damage with [Quarterstaff|Quarterstaves]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_821241191",
+                    "text": "#% increased Life Recovery from [Flask|Flasks]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_798469000",
                     "text": "#% increased amount of [Rarity|Rare] Chests",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_983749596",
+                    "text": "#% increased maximum Life",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1913583994",
+                    "text": "#% increased Monster [Attack] Speed",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3668351662",
+                    "text": "#% increased [Shock] Duration",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_416040624",
+                    "text": "Gain #% of maximum [EnergyShield|Energy Shield] as additional [StunThreshold|Stun Threshold]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2488361432",
+                    "text": "#% increased Monster Cast Speed",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_558910024",
+                    "text": "Players are [Curse|Cursed] with Elemental Weakness",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1135928777",
+                    "text": "#% increased [Attack] Speed with [Crossbow|Crossbows]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1054098949",
+                    "text": "+#% Monster Elemental Resistances",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2753083623",
+                    "text": "Monsters have #% increased [Critical|Critical Hit] Chance",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2306522833",
+                    "text": "#% increased Monster Movement Speed",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1890519597",
+                    "text": "#% increased Monster Damage",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3377888098",
+                    "text": "#% increased Skill Effect Duration",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2898517796",
+                    "text": "#% increased amount of [Rarity|Magic] Chests",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3374165039",
+                    "text": "#% increased [Totem|Totem] Placement speed",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1215155013",
+                    "text": "#% increased [Defences] from Equipped [Shield]",
                     "type": "explicit"
                 },
                 {
@@ -865,13 +925,33 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_211727",
-                    "text": "Monsters deal #% of Damage as Extra Cold",
+                    "id": "explicit.stat_2365392475",
+                    "text": "Recover # Life when Used",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1215155013",
-                    "text": "#% increased [Defences] from Equipped [Shield]",
+                    "id": "explicit.stat_173226756",
+                    "text": "#% increased Recovery rate",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_686254215",
+                    "text": "#% increased [Totem] Life",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1120862500",
+                    "text": "Recover # Mana when Used",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3544800472",
+                    "text": "#% increased [AilmentThreshold|Elemental Ailment Threshold]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2839066308",
+                    "text": "#% increased amount of Mana [ManaLeech|Leeched]",
                     "type": "explicit"
                 },
                 {
@@ -885,38 +965,28 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_872504239",
+                    "text": "#% increased [Stun|Stun Buildup] with [Mace|Maces]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2347036682",
                     "text": "[Allies|Allies] in your [Presence|Presence] deal # to # additional [Attack|Attack] [Cold|Cold] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1120862500",
-                    "text": "Recover # Mana when Used",
+                    "id": "explicit.stat_1574590649",
+                    "text": "[Allies|Allies] in your [Presence|Presence] deal # to # additional [Attack|Attack] [Physical|Physical] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_416040624",
-                    "text": "Gain #% of maximum [EnergyShield|Energy Shield] as additional [StunThreshold|Stun Threshold]",
+                    "id": "explicit.stat_3233599707",
+                    "text": "#% increased Weapon Swap Speed",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3544800472",
-                    "text": "#% increased [AilmentThreshold|Elemental Ailment Threshold]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_92381065",
-                    "text": "Monsters deal #% of Damage as Extra Fire",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4045894391",
-                    "text": "#% increased Damage with [Quarterstaff|Quarterstaves]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1913583994",
-                    "text": "#% increased Monster [Attack] Speed",
+                    "id": "explicit.stat_1898978455",
+                    "text": "Monster Damage Penetrates #% Elemental Resistances",
                     "type": "explicit"
                 },
                 {
@@ -925,18 +995,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2365392475",
-                    "text": "Recover # Life when Used",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_686254215",
-                    "text": "#% increased [Totem] Life",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2306522833",
-                    "text": "#% increased Monster Movement Speed",
+                    "id": "explicit.stat_1250712710",
+                    "text": "[Allies|Allies] in your [Presence|Presence] have #% increased [Critical|Critical Hit] Chance",
                     "type": "explicit"
                 },
                 {
@@ -945,8 +1005,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3119612865",
+                    "text": "[Minion|Minions] have #% additional [Physical] Damage Reduction",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_4181072906",
                     "text": "Players have #% less Recovery Rate of Life and [EnergyShield|Energy Shield]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3067892458",
+                    "text": "[Trigger|Triggered] [Spell|Spells] deal #% increased [Spell] Damage",
                     "type": "explicit"
                 },
                 {
@@ -965,18 +1035,28 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_872504239",
-                    "text": "#% increased [Stun|Stun Buildup] with [Mace|Maces]",
+                    "id": "explicit.stat_3741323227",
+                    "text": "#% increased [Flask|Flask] Effect Duration",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1135928777",
-                    "text": "#% increased [Attack] Speed with [Crossbow|Crossbows]",
+                    "id": "explicit.stat_2549889921",
+                    "text": "Players gain #% reduced [Flask] Charges",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_1829102168",
                     "text": "#% increased Duration of [DamagingAilments|Damaging Ailments] on Enemies",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_115425161",
+                    "text": "Monsters have #% increased Stun Buildup",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3283482523",
+                    "text": "#% increased [Attack] Speed with [Quarterstaff|Quarterstaves]",
                     "type": "explicit"
                 },
                 {
@@ -995,23 +1075,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1250712710",
-                    "text": "[Allies|Allies] in your [Presence|Presence] have #% increased [Critical|Critical Hit] Chance",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3067892458",
-                    "text": "[Trigger|Triggered] [Spell|Spells] deal #% increased [Spell] Damage",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_2653955271",
                     "text": "Damage [Penetration|Penetrates] #% [Resistances|Fire Resistance]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1898978455",
-                    "text": "Monster Damage Penetrates #% Elemental Resistances",
                     "type": "explicit"
                 },
                 {
@@ -1025,16 +1090,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2839066308",
-                    "text": "#% increased amount of Mana [ManaLeech|Leeched]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_239367161",
-                    "text": "#% increased [Stun] Buildup",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_2887760183",
                     "text": "Monsters gain #% of Maximum Life as Extra Maximum [EnergyShield|Energy Shield]",
                     "type": "explicit"
@@ -1042,11 +1097,6 @@
                 {
                     "id": "explicit.stat_1984618452",
                     "text": "Monsters have #% increased Shock Chance",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_115425161",
-                    "text": "Monsters have #% increased Stun Buildup",
                     "type": "explicit"
                 },
                 {
@@ -1060,23 +1110,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3233599707",
-                    "text": "#% increased Weapon Swap Speed",
+                    "id": "explicit.stat_1852872083",
+                    "text": "#% increased Damage with [HitDamage|Hits] against [Rarity|Rare and Unique] Enemies",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3377888098",
-                    "text": "#% increased Skill Effect Duration",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2549889921",
-                    "text": "Players gain #% reduced [Flask] Charges",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_173226756",
-                    "text": "#% increased Recovery rate",
+                    "id": "explicit.stat_21071013",
+                    "text": "[Herald] Skills deal #% increased Damage",
                     "type": "explicit"
                 },
                 {
@@ -1085,23 +1125,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1574590649",
-                    "text": "[Allies|Allies] in your [Presence|Presence] deal # to # additional [Attack|Attack] [Physical|Physical] Damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3119612865",
-                    "text": "[Minion|Minions] have #% additional [Physical] Damage Reduction",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_4159248054",
                     "text": "#% increased [Warcry|Warcry] Cooldown Recovery Rate",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3374165039",
-                    "text": "#% increased [Totem|Totem] Placement speed",
                     "type": "explicit"
                 },
                 {
@@ -1110,8 +1135,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_153777645",
+                    "text": "#% increased Area of Effect of [Curse|Curses]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_133340941",
                     "text": "Area has patches of Burning Ground",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4095671657",
+                    "text": "#% to [MaximumResistances|Maximum Fire Resistance]",
                     "type": "explicit"
                 },
                 {
@@ -1125,13 +1160,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2222186378",
-                    "text": "#% increased Mana Recovery from [Flask|Flasks]",
+                    "id": "explicit.stat_656461285",
+                    "text": "#% increased [Intelligence]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_21071013",
-                    "text": "[Herald] Skills deal #% increased Damage",
+                    "id": "explicit.stat_2222186378",
+                    "text": "#% increased Mana Recovery from [Flask|Flasks]",
                     "type": "explicit"
                 },
                 {
@@ -1140,8 +1175,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_57326096",
-                    "text": "#% to Monster [CriticalDamageBonus|Critical Damage Bonus]",
+                    "id": "explicit.stat_1303248024",
+                    "text": "#% increased [BuffMagnitude|Magnitude] of [Ailments] you inflict",
                     "type": "explicit"
                 },
                 {
@@ -1150,28 +1185,23 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1852872083",
-                    "text": "#% increased Damage with [HitDamage|Hits] against [Rarity|Rare and Unique] Enemies",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_3787460122",
                     "text": "[Offering|Offerings] have #% increased Maximum Life",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3741323227",
-                    "text": "#% increased [Flask|Flask] Effect Duration",
+                    "id": "explicit.stat_1200678966",
+                    "text": "#% increased bonuses gained from Equipped [Quiver]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_4095671657",
-                    "text": "#% to [MaximumResistances|Maximum Fire Resistance]",
+                    "id": "explicit.stat_2214228141",
+                    "text": "[Projectile|Projectiles] [Pierce] all [Ignite|Ignited] enemies",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1303248024",
-                    "text": "#% increased [BuffMagnitude|Magnitude] of [Ailments] you inflict",
+                    "id": "explicit.stat_2745845732",
+                    "text": "#% increased amount of Chests",
                     "type": "explicit"
                 },
                 {
@@ -1180,8 +1210,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2214228141",
-                    "text": "[Projectile|Projectiles] [Pierce] all [Ignite|Ignited] enemies",
+                    "id": "explicit.stat_627767961",
+                    "text": "#% increased Damage while you have an active [Charm|Charm]",
                     "type": "explicit"
                 },
                 {
@@ -1195,23 +1225,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_491450213",
+                    "text": "[Minion|Minions] have #% increased [Critical|Critical Hit Chance]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1049080093",
                     "text": "[Attack|Attacks] [Gain] #% of Damage as Extra [Fire|Fire] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1200678966",
-                    "text": "#% increased bonuses gained from Equipped [Quiver]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2745845732",
-                    "text": "#% increased amount of Chests",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3283482523",
-                    "text": "#% increased [Attack] Speed with [Quarterstaff|Quarterstaves]",
+                    "id": "explicit.stat_2527686725",
+                    "text": "#% increased [BuffMagnitude|Magnitude] of [Shock|Shock] you inflict",
                     "type": "explicit"
                 },
                 {
@@ -1220,18 +1245,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_627767961",
-                    "text": "#% increased Damage while you have an active [Charm|Charm]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_491450213",
-                    "text": "[Minion|Minions] have #% increased [Critical|Critical Hit Chance]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_153777645",
-                    "text": "#% increased Area of Effect of [Curse|Curses]",
+                    "id": "explicit.stat_3780644166",
+                    "text": "#% increased [FreezeThreshold|Freeze Threshold]",
                     "type": "explicit"
                 },
                 {
@@ -1250,13 +1265,28 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1594812856",
+                    "text": "#% increased Damage with [Warcry|Warcries]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_3376488707",
                     "text": "#% maximum Player Resistances",
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_335699483",
+                    "text": "[LifeLeech|Leeches] #% of maximum Life when you Cast a [Spell|Spell]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_4236566306",
                     "text": "[Meta] Skills gain #% increased [Energy]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3771516363",
+                    "text": "#% additional [Physical] Damage Reduction",
                     "type": "explicit"
                 },
                 {
@@ -1270,13 +1300,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3771516363",
-                    "text": "#% additional [Physical] Damage Reduction",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1594812856",
-                    "text": "#% increased Damage with [Warcry|Warcries]",
+                    "id": "explicit.stat_1315743832",
+                    "text": "#% increased [Thorns|Thorns] damage",
                     "type": "explicit"
                 },
                 {
@@ -1290,18 +1315,38 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2527686725",
-                    "text": "#% increased [BuffMagnitude|Magnitude] of [Shock|Shock] you inflict",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_826162720",
                     "text": "[Trigger] Ember Fusillade Skill on casting a [Spell|Spell]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1315743832",
-                    "text": "#% increased [Thorns|Thorns] damage",
+                    "id": "explicit.stat_1238227257",
+                    "text": "[Debuff|Debuffs] on you expire #% faster",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1879340377",
+                    "text": "Monsters [ArmourBreak|Break Armour] equal to #% of [Physical|Physical Damage] dealt",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_941368244",
+                    "text": "Players have #% more Cooldown Recovery Rate",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3222482040",
+                    "text": "Monsters have #% chance to steal Power, Frenzy and Endurance charges on Hit",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1697447343",
+                    "text": "#% increased [Freeze] Buildup with [Quarterstaff|Quarterstaves]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2011656677",
+                    "text": "#% increased [Poison] Duration",
                     "type": "explicit"
                 },
                 {
@@ -1312,21 +1357,6 @@
                 {
                     "id": "explicit.stat_1772247089",
                     "text": "#% increased chance to inflict [Ailments]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1697447343",
-                    "text": "#% increased [Freeze] Buildup with [Quarterstaff|Quarterstaves]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_941368244",
-                    "text": "Players have #% more Cooldown Recovery Rate",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1238227257",
-                    "text": "[Debuff|Debuffs] on you expire #% faster",
                     "type": "explicit"
                 },
                 {
@@ -1345,13 +1375,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3356155703",
+                    "text": "#% increased [Attack|Attack] Speed per 5 [Dexterity|Dexterity]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1708461270",
                     "text": "Monsters have #% increased Area of Effect",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3780644166",
-                    "text": "#% increased [FreezeThreshold|Freeze Threshold]",
+                    "id": "explicit.stat_924253255",
+                    "text": "#% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
                     "type": "explicit"
                 },
                 {
@@ -1360,8 +1395,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_335699483",
-                    "text": "[LifeLeech|Leeches] #% of maximum Life when you Cast a [Spell|Spell]",
+                    "id": "explicit.stat_2082207021",
+                    "text": "#% increased Area of Effect for [Attack|Attacks] per 5 [Intelligence|Intelligence]",
                     "type": "explicit"
                 },
                 {
@@ -1385,11 +1420,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_924253255",
-                    "text": "#% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_318953428",
                     "text": "#% chance to [Blind] Enemies on [HitDamage|Hit] with [Attack|Attacks]",
                     "type": "explicit"
@@ -1402,11 +1432,6 @@
                 {
                     "id": "explicit.stat_3485067555",
                     "text": "#% increased [Chill|Chill] Duration on Enemies",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1879340377",
-                    "text": "Monsters [ArmourBreak|Break Armour] equal to #% of [Physical|Physical Damage] dealt",
                     "type": "explicit"
                 },
                 {
@@ -1450,8 +1475,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2011656677",
-                    "text": "#% increased [Poison] Duration",
+                    "id": "explicit.stat_1261612903",
+                    "text": "[Cold] Damage from [HitDamage|Hits] [Contributes|Contributes] to [Ignite] Chance and Magnitude instead of [Chill] Magnitude",
                     "type": "explicit"
                 },
                 {
@@ -1475,11 +1500,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1261612903",
-                    "text": "[Cold] Damage from [HitDamage|Hits] [Contributes|Contributes] to [Ignite] Chance and Magnitude instead of [Chill] Magnitude",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_4189061307",
                     "text": "[Mark] Skills have #% increased Cast Speed",
                     "type": "explicit"
@@ -1495,18 +1515,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3222482040",
-                    "text": "Monsters have #% chance to steal Power, Frenzy and Endurance charges on Hit",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_656461285",
-                    "text": "#% increased [Intelligence]",
+                    "id": "explicit.stat_2639966148",
+                    "text": "[Minion|Minions] [Reviving|Revive] #% faster",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_1459321413",
                     "text": "#% increased Bleeding Duration",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3309089125",
+                    "text": "Area contains # additional packs of Bramble Monsters",
                     "type": "explicit"
                 },
                 {
@@ -1525,8 +1545,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2082207021",
-                    "text": "#% increased Area of Effect for [Attack|Attacks] per 5 [Intelligence|Intelligence]",
+                    "id": "explicit.stat_240445958",
+                    "text": "Area contains # additional packs of Undead",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4130878258",
+                    "text": "Area contains # additional packs of Faridun Monsters",
                     "type": "explicit"
                 },
                 {
@@ -1535,13 +1560,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3592067990",
-                    "text": "Area contains # additional packs of Plagued Monsters",
+                    "id": "explicit.stat_1689473577",
+                    "text": "Area contains # additional packs of Transcended Monsters",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1689473577",
-                    "text": "Area contains # additional packs of Transcended Monsters",
+                    "id": "explicit.stat_3592067990",
+                    "text": "Area contains # additional packs of Plagued Monsters",
                     "type": "explicit"
                 },
                 {
@@ -1565,16 +1590,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_4130878258",
-                    "text": "Area contains # additional packs of Faridun Monsters",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3309089125",
-                    "text": "Area contains # additional packs of Bramble Monsters",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_3473929743",
                     "text": "#% increased [Pinned|Pin] Buildup",
                     "type": "explicit"
@@ -1595,13 +1610,23 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3356155703",
-                    "text": "#% increased [Attack|Attack] Speed per 5 [Dexterity|Dexterity]",
+                    "id": "explicit.stat_2448633171",
+                    "text": "#% of Damage taken bypasses [EnergyShield|Energy Shield]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2639966148",
-                    "text": "[Minion|Minions] [Reviving|Revive] #% faster",
+                    "id": "explicit.stat_1468737867",
+                    "text": "Area contains an additional Shrine",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3464380325",
+                    "text": "Projectiles [Split] towards # targets",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_610276769",
+                    "text": "#% increased Movement Speed while affected by an [Ailments|Ailment]",
                     "type": "explicit"
                 },
                 {
@@ -1625,23 +1650,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_610276769",
-                    "text": "#% increased Movement Speed while affected by an [Ailments|Ailment]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_828179689",
                     "text": "#% increased [BuffMagnitude|Magnitude] of [Chill|Chill] you inflict",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_240445958",
-                    "text": "Area contains # additional packs of Undead",
+                    "id": "explicit.stat_2550456553",
+                    "text": "Rare Monsters have # additional Modifier",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3464380325",
-                    "text": "Projectiles [Split] towards # targets",
+                    "id": "explicit.stat_2154246560",
+                    "text": "#% increased Damage",
                     "type": "explicit"
                 },
                 {
@@ -1675,13 +1695,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_710476746",
+                    "text": "#% increased Reload Speed",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2091621414",
                     "text": "Causes [Bleeding|Bleeding] on [HitDamage|Hit]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_710476746",
-                    "text": "#% increased Reload Speed",
+                    "id": "explicit.stat_1210760818",
+                    "text": "[ContainsBreach|Breaches] have #% increased Monster density",
                     "type": "explicit"
                 },
                 {
@@ -1690,13 +1715,28 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_842299438",
-                    "text": "#% chance to not consume a bolt if you've Reloaded [Recently|Recently]",
+                    "id": "explicit.stat_769129523",
+                    "text": "Causes Double [Stun|Stun] Buildup",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_943702197",
                     "text": "[Minion|Minions] gain #% of their Maximum Life as Extra Maximum [EnergyShield|Energy Shield]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_842299438",
+                    "text": "#% chance to not consume a bolt if you've Reloaded [Recently|Recently]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_959641748",
+                    "text": "Removes #% of Mana Recovered from Life when used",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1811130680",
+                    "text": "#% increased Mana Recovered",
                     "type": "explicit"
                 },
                 {
@@ -1710,13 +1750,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_769129523",
-                    "text": "Causes Double [Stun|Stun] Buildup",
+                    "id": "explicit.stat_289540902",
+                    "text": "#% of [ElementalDamage|Elemental Damage] [Conversion|Converted] to [Lightning] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1468737867",
-                    "text": "Area contains an additional Shrine",
+                    "id": "explicit.stat_613752285",
+                    "text": "[Sacrifice] #% of Life to gain that much [EnergyShield|Energy Shield] when you Cast a [Spell]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_40154188",
+                    "text": "#% of [ElementalDamage|Elemental Damage] [Conversion|Converted] to [Fire] Damage",
                     "type": "explicit"
                 },
                 {
@@ -1725,13 +1770,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3612407781",
-                    "text": "# [Physical] damage taken from [Projectile] [Attack|Attacks]",
+                    "id": "explicit.stat_2416869319",
+                    "text": "Grants #% of Life Recovery to Minions",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2448633171",
-                    "text": "#% of Damage taken bypasses [EnergyShield|Energy Shield]",
+                    "id": "explicit.stat_3612407781",
+                    "text": "# [Physical] damage taken from [Projectile] [Attack|Attacks]",
                     "type": "explicit"
                 },
                 {
@@ -1745,18 +1790,23 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1210760818",
-                    "text": "[ContainsBreach|Breaches] have #% increased Monster density",
+                    "id": "explicit.stat_1631928082",
+                    "text": "Increases and Reductions to [Minion] Damage also affect you",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_40154188",
-                    "text": "#% of [ElementalDamage|Elemental Damage] [Conversion|Converted] to [Fire] Damage",
+                    "id": "explicit.stat_3398787959",
+                    "text": "[Gain] #% of Damage as Extra [Chaos] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1811130680",
-                    "text": "#% increased Mana Recovered",
+                    "id": "explicit.stat_423304126",
+                    "text": "You count as on Full Mana while at #% of maximum Mana or above",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2356156926",
+                    "text": "Drop [IgnitedGround|Ignited Ground] while moving, which lasts 8 seconds and [Ignite|Ignites] as though dealing [Fire] Damage equal to #% of your maximum Life",
                     "type": "explicit"
                 },
                 {
@@ -1765,18 +1815,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2416869319",
-                    "text": "Grants #% of Life Recovery to Minions",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_3761294489",
                     "text": "[DamageTypes|All Damage] from [HitDamage|Hits] with this Weapon [Contributes|Contributes] to [Freeze] Buildup",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2154246560",
-                    "text": "#% increased Damage",
+                    "id": "explicit.stat_1466716929",
+                    "text": "Gain # [Rage|Rage] when [Critical|Critically Hit] by an Enemy",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2224050171",
+                    "text": "Breaches in Area contain # additional Clasped Hand",
                     "type": "explicit"
                 },
                 {
@@ -1800,18 +1850,43 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2511217560",
+                    "text": "#% increased [StunRecovery|Stun Recovery]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_796381300",
+                    "text": "Gain 0% to #% increased Movement Speed at random when [HitDamage|Hit], until [HitDamage|Hit] again",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_3503160529",
                     "text": "#% of [Fire] Damage [Conversion|Converted] to [Cold] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_423304126",
-                    "text": "You count as on Full Mana while at #% of maximum Mana or above",
+                    "id": "explicit.stat_2412053423",
+                    "text": "#% increased [Spell] Damage per 10 [Spirit]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_2929867083",
                     "text": "#% increased [ItemRarity|Rarity] of Items found when on [LowLife|Low Life]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2905515354",
+                    "text": "You take #% of damage from [Block|Blocked] [HitDamage|Hits]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_381470861",
+                    "text": "Enemies are [CullingStrike|Culled] on [Block]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3439162551",
+                    "text": "Apply [Fire] [Exposure] when fully breaking enemy [Armour]",
                     "type": "explicit"
                 },
                 {
@@ -1830,13 +1905,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_613752285",
-                    "text": "[Sacrifice] #% of Life to gain that much [EnergyShield|Energy Shield] when you Cast a [Spell]",
+                    "id": "explicit.stat_1004468512",
+                    "text": "#% of [Physical|Physical] Damage taken as [Fire|Fire] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_796381300",
-                    "text": "Gain 0% to #% increased Movement Speed at random when [HitDamage|Hit], until [HitDamage|Hit] again",
+                    "id": "explicit.stat_98977150",
+                    "text": "[PainAttunement|Pain Attunement]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_289086688",
+                    "text": "Hits [ArmourBreak|Break] # [Armour|Armour]",
                     "type": "explicit"
                 },
                 {
@@ -1845,13 +1925,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2356156926",
-                    "text": "Drop [IgnitedGround|Ignited Ground] while moving, which lasts 8 seconds and [Ignite|Ignites] as though dealing [Fire] Damage equal to #% of your maximum Life",
+                    "id": "explicit.stat_2215233444",
+                    "text": "#% increased [ArmourBreak|Armour Break] Duration",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3439162551",
-                    "text": "Apply [Fire] [Exposure] when fully breaking enemy [Armour]",
+                    "id": "explicit.stat_3627052716",
+                    "text": "#% of [Lightning] Damage [Conversion|Converted] to [Cold] Damage",
                     "type": "explicit"
                 },
                 {
@@ -1870,53 +1950,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2905515354",
-                    "text": "You take #% of damage from [Block|Blocked] [HitDamage|Hits]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_289086688",
-                    "text": "Hits [ArmourBreak|Break] # [Armour|Armour]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1993950627",
-                    "text": "# to # [Fire|Fire] [Thorns|Thorns] damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_326965591",
-                    "text": "[IronReflexes|Iron Reflexes]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2592455368",
-                    "text": "You have a [SmokeCloud|Smoke Cloud] around you while stationary",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2511217560",
-                    "text": "#% increased [StunRecovery|Stun Recovery]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2480498143",
-                    "text": "#% of Skill Mana Costs [StatConversion|Converted] to Life Costs",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_98977150",
-                    "text": "[PainAttunement|Pain Attunement]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_215346464",
-                    "text": "You cannot be [Shock|Shocked] for # second after being [Shock|Shocked]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1466716929",
-                    "text": "Gain # [Rage|Rage] when [Critical|Critically Hit] by an Enemy",
+                    "id": "explicit.stat_4275855121",
+                    "text": "[Curse|Curses] you inflict are reflected back to you",
                     "type": "explicit"
                 },
                 {
@@ -1925,13 +1960,43 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2215233444",
-                    "text": "#% increased [ArmourBreak|Armour Break] Duration",
+                    "id": "explicit.stat_1993950627",
+                    "text": "# to # [Fire|Fire] [Thorns|Thorns] damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_959641748",
-                    "text": "Removes #% of Mana Recovered from Life when used",
+                    "id": "explicit.stat_1683578560",
+                    "text": "[UnwaveringStance|Unwavering Stance]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_326965591",
+                    "text": "[IronReflexes|Iron Reflexes]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1092987622",
+                    "text": "#% of [Melee] Physical Damage taken reflected to Attacker",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2592455368",
+                    "text": "You have a [SmokeCloud|Smoke Cloud] around you while stationary",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2480498143",
+                    "text": "#% of Skill Mana Costs [StatConversion|Converted] to Life Costs",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_215346464",
+                    "text": "You cannot be [Shock|Shocked] for # second after being [Shock|Shocked]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1686824704",
+                    "text": "#% of [Cold] Damage [Conversion|Converted] to [Lightning] Damage",
                     "type": "explicit"
                 },
                 {
@@ -1945,28 +2010,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_381470861",
-                    "text": "Enemies are [CullingStrike|Culled] on [Block]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4275855121",
-                    "text": "[Curse|Curses] you inflict are reflected back to you",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2224050171",
-                    "text": "Breaches in Area contain # additional Clasped Hand",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_4287671144",
                     "text": "#% of your Life Regeneration is granted to [Allies] in your [Presence]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3398787959",
-                    "text": "[Gain] #% of Damage as Extra [Chaos] Damage",
                     "type": "explicit"
                 },
                 {
@@ -1975,13 +2020,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3627052716",
-                    "text": "#% of [Lightning] Damage [Conversion|Converted] to [Cold] Damage",
+                    "id": "explicit.stat_3423694372",
+                    "text": "#% chance to be inflicted with [Bleeding|Bleeding] when Hit",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3423694372",
-                    "text": "#% chance to be inflicted with [Bleeding|Bleeding] when Hit",
+                    "id": "explicit.stat_3308030688",
+                    "text": "#% increased Mana Regeneration Rate while stationary",
                     "type": "explicit"
                 },
                 {
@@ -2000,23 +2045,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_289540902",
-                    "text": "#% of [ElementalDamage|Elemental Damage] [Conversion|Converted] to [Lightning] Damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3308030688",
-                    "text": "#% increased Mana Regeneration Rate while stationary",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1092987622",
-                    "text": "#% of [Melee] Physical Damage taken reflected to Attacker",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_2894895028",
                     "text": "Damage over Time bypasses your [EnergyShield|Energy Shield]\nWhile not on Full Life, [Sacrifice|Sacrifice] #% of Mana per Second to Recover that much Life",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3841984913",
+                    "text": "Gain # Fragile Regrowth each second",
                     "type": "explicit"
                 },
                 {
@@ -2025,23 +2060,23 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1683578560",
-                    "text": "[UnwaveringStance|Unwavering Stance]",
+                    "id": "explicit.stat_1200347828",
+                    "text": "Life [Flask|Flasks] used while on [LowLife|Low Life] apply Recovery Instantly",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2412053423",
-                    "text": "#% increased [Spell] Damage per 10 [Spirit]",
+                    "id": "explicit.stat_2006107135",
+                    "text": "[Freeze] as though dealing [Cold] damage equal to #% of your maximum Mana when [HitDamage|Hit]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1453197917",
+                    "text": "#% chance to gain a [Charges|Power Charge] on [HitDamage|Hit]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_2635559734",
                     "text": "Base [Critical|Critical Hit] Chance for [Attack|Attacks] with [MartialWeapon|Weapons] is #%",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1631928082",
-                    "text": "Increases and Reductions to [Minion] Damage also affect you",
                     "type": "explicit"
                 },
                 {
@@ -2060,18 +2095,23 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3175722882",
-                    "text": "#% of Life Regenerated per second per Fragile Regrowth",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_1306791873",
                     "text": "Lose all Fragile Regrowth when [HitDamage|Hit]",
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3175722882",
+                    "text": "#% of Life Regenerated per second per Fragile Regrowth",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_4256314560",
                     "text": "[Shock|Shocks] you when you reach maximum [Charges|Power Charges]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1839832419",
+                    "text": "Mana [Flask|Flasks] used while on [LowMana|Low Mana] apply Recovery Instantly",
                     "type": "explicit"
                 },
                 {
@@ -2090,23 +2130,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2550456553",
-                    "text": "Rare Monsters have # additional Modifier",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1004468512",
-                    "text": "#% of [Physical|Physical] Damage taken as [Fire|Fire] Damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1839832419",
-                    "text": "Mana [Flask|Flasks] used while on [LowMana|Low Mana] apply Recovery Instantly",
+                    "id": "explicit.stat_1289045485",
+                    "text": "[Critical|Critical Hits] [IgnoreResistances|Ignore] Enemy Monster [Resistances|Lightning Resistance]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_573347393",
                     "text": "[IronGrip|Iron Grip]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2118708619",
+                    "text": "#% increased Damage if you have Consumed a [Corpse] [Recently]",
                     "type": "explicit"
                 },
                 {
@@ -2125,13 +2160,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1200347828",
-                    "text": "Life [Flask|Flasks] used while on [LowLife|Low Life] apply Recovery Instantly",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1453197917",
-                    "text": "#% chance to gain a [Charges|Power Charge] on [HitDamage|Hit]",
+                    "id": "explicit.stat_939832726",
+                    "text": "Recover #% of Life for each [Charges|Endurance Charge] consumed",
                     "type": "explicit"
                 },
                 {
@@ -2145,8 +2175,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1478653032",
+                    "text": "#% reduced Effect of [Chill|Chill] on you",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_88817332",
                     "text": "#% increased [Evasion|Evasion Rating] when on Full Life",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_38301299",
+                    "text": "#% to [Resistances|Fire Resistance] while on [LowLife|Low Life]",
                     "type": "explicit"
                 },
                 {
@@ -2170,8 +2210,23 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3942946753",
+                    "text": "Regenerate #% of Life per second while on [LowLife|Low Life]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2875218423",
+                    "text": "Damage [Block|Blocked] is [Recoup|Recouped] as Mana",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_67637087",
                     "text": "#% less Damage taken if you have not been [HitDamage|Hit] [Recently|Recently]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_836936635",
+                    "text": "Regenerate #% of Life per second",
                     "type": "explicit"
                 },
                 {
@@ -2195,23 +2250,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2006107135",
-                    "text": "[Freeze] as though dealing [Cold] damage equal to #% of your maximum Mana when [HitDamage|Hit]",
+                    "id": "explicit.stat_2995914769",
+                    "text": "Every [Rage] also grants #% increased [Armour]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2118708619",
-                    "text": "#% increased Damage if you have Consumed a [Corpse] [Recently]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3841984913",
-                    "text": "Gain # Fragile Regrowth each second",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_836936635",
-                    "text": "Regenerate #% of Life per second",
+                    "id": "explicit.stat_352044736",
+                    "text": "Every [Rage] also grants #% increased [StunThreshold|Stun Threshold]",
                     "type": "explicit"
                 },
                 {
@@ -2220,28 +2265,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2995914769",
-                    "text": "Every [Rage] also grants #% increased [Armour]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1478653032",
-                    "text": "#% reduced Effect of [Chill|Chill] on you",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_841429130",
                     "text": "[Bleeding] you inflict is [Aggravate|Aggravated]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2875218423",
-                    "text": "Damage [Block|Blocked] is [Recoup|Recouped] as Mana",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_352044736",
-                    "text": "Every [Rage] also grants #% increased [StunThreshold|Stun Threshold]",
+                    "id": "explicit.stat_2545584555",
+                    "text": "#% increased Effect of [Withered|Withered]",
                     "type": "explicit"
                 },
                 {
@@ -2255,8 +2285,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1289045485",
-                    "text": "[Critical|Critical Hits] [IgnoreResistances|Ignore] Enemy Monster [Resistances|Lightning Resistance]",
+                    "id": "explicit.stat_3605721598",
+                    "text": "When you [LifeLeech|Leech] Life from a [HitDamage|Hit], Allies in your [Presence] also Leech the [LeechSameAmount|same amount] of Life",
                     "type": "explicit"
                 },
                 {
@@ -2275,8 +2305,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_38301299",
-                    "text": "#% to [Resistances|Fire Resistance] while on [LowLife|Low Life]",
+                    "id": "explicit.stat_2930706364",
+                    "text": "Permanently [Intimidate] enemies on [Block]",
                     "type": "explicit"
                 },
                 {
@@ -2285,13 +2315,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3414243317",
-                    "text": "[Thorns] damage is triggered by all [HitDamage|Hits]",
+                    "id": "explicit.stat_2353576063",
+                    "text": "#% increased Effect of your [Curse|Curses]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3942946753",
-                    "text": "Regenerate #% of Life per second while on [LowLife|Low Life]",
+                    "id": "explicit.stat_3414243317",
+                    "text": "[Thorns] damage is triggered by all [HitDamage|Hits]",
                     "type": "explicit"
                 },
                 {
@@ -2300,8 +2330,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_939832726",
-                    "text": "Recover #% of Life for each [Charges|Endurance Charge] consumed",
+                    "id": "explicit.stat_3003542304",
+                    "text": "Projectiles have #% chance for an additional Projectile when [Fork|Forking]",
                     "type": "explicit"
                 },
                 {
@@ -2310,23 +2340,23 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3605721598",
-                    "text": "When you [LifeLeech|Leech] Life from a [HitDamage|Hit], Allies in your [Presence] also Leech the [LeechSameAmount|same amount] of Life",
+                    "id": "explicit.stat_1069772386",
+                    "text": "Enemies in your [Presence|Presence] have [Exposure|Fire Exposure]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2353576063",
-                    "text": "#% increased Effect of your [Curse|Curses]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3003542304",
-                    "text": "Projectiles have #% chance for an additional Projectile when [Fork|Forking]",
+                    "id": "explicit.stat_356835700",
+                    "text": "You count as on [LowLife|Low Life] while at #% of maximum Life or below",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_185580205",
                     "text": "[Charm|Charms] gain # charges per Second",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3891355829",
+                    "text": "Upgrades Radius to Medium",
                     "type": "explicit"
                 },
                 {
@@ -2345,6 +2375,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1104825894",
+                    "text": "#% faster [Curse] Activation",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2310741722",
                     "text": "#% increased Life and Mana Recovery from [Flask|Flasks]",
                     "type": "explicit"
@@ -2355,23 +2390,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2545584555",
-                    "text": "#% increased Effect of [Withered|Withered]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3891355829",
-                    "text": "Upgrades Radius to Medium",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_1816894864",
                     "text": "Enemies [Chill|Chilled] by your [HitDamage|Hits] increase damage taken by [Chill] [BuffMagnitude|Magnitude]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1686824704",
-                    "text": "#% of [Cold] Damage [Conversion|Converted] to [Lightning] Damage",
                     "type": "explicit"
                 },
                 {
@@ -2385,23 +2405,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_356835700",
-                    "text": "You count as on [LowLife|Low Life] while at #% of maximum Life or below",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2930706364",
-                    "text": "Permanently [Intimidate] enemies on [Block]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_3837707023",
                     "text": "[Minion|Minions] have #% to [Chaos] [Resistances|Resistance]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1104825894",
-                    "text": "#% faster [Curse] Activation",
                     "type": "explicit"
                 },
                 {
@@ -2412,11 +2417,6 @@
                 {
                     "id": "explicit.stat_3450276548",
                     "text": "[Blind] [Chill|Chilled] enemies on [HitDamage|Hit]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1069772386",
-                    "text": "Enemies in your [Presence|Presence] have [Exposure|Fire Exposure]",
                     "type": "explicit"
                 },
                 {
@@ -2435,6 +2435,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_4009879772",
+                    "text": "#% increased Life [Flask|Flask] Charges gained",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_315791320",
                     "text": "#% increased [BuffEffect|Effect] of [Aura|Auras] from your Skills",
                     "type": "explicit"
@@ -2442,11 +2447,6 @@
                 {
                     "id": "explicit.stat_712554801",
                     "text": "#% increased Effect of your [Mark] Skills",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4009879772",
-                    "text": "#% increased Life [Flask|Flask] Charges gained",
                     "type": "explicit"
                 },
                 {
@@ -2460,18 +2460,13 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3276271783",
+                    "text": "Regenerate # Life per second per Maximum [EnergyShield|Energy Shield]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_4176970656",
                     "text": "# [Physical] Damage taken on [Minion] Death",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1039380318",
-                    "text": "Loads an additional bolt",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3590792340",
-                    "text": "#% increased Mana [Flask|Flask] Charges gained",
                     "type": "explicit"
                 },
                 {
@@ -2480,8 +2475,28 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1039380318",
+                    "text": "Loads an additional bolt",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1978899297",
                     "text": "#% to all [MaximumResistances|Maximum Elemental Resistances]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3590792340",
+                    "text": "#% increased Mana [Flask|Flask] Charges gained",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2315177528",
+                    "text": "[Chaos] Damage from [HitDamage|Hits] also [Contributes|Contributes] to [Electrocute] Buildup",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4224965099",
+                    "text": "[Lightning] Damage of Enemies [HitDamage|Hitting] you is [Lucky]",
                     "type": "explicit"
                 },
                 {
@@ -2497,16 +2512,6 @@
                 {
                     "id": "explicit.stat_2293111154",
                     "text": "Increases and Reductions to [Minion] [Attack] Speed also affect you",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2315177528",
-                    "text": "[Chaos] Damage from [HitDamage|Hits] also [Contributes|Contributes] to [Electrocute] Buildup",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3276271783",
-                    "text": "Regenerate # Life per second per Maximum [EnergyShield|Energy Shield]",
                     "type": "explicit"
                 },
                 {
@@ -2540,11 +2545,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_4224965099",
-                    "text": "[Lightning] Damage of Enemies [HitDamage|Hitting] you is [Lucky]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_1086147743",
                     "text": "#% increased Ignite Duration on Enemies",
                     "type": "explicit"
@@ -2562,6 +2562,11 @@
                 {
                     "id": "explicit.stat_3947672598",
                     "text": "Life Recovery from Regeneration is not applied",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1301765461",
+                    "text": "#% to [MaximumResistances|Maximum Chaos Resistance]",
                     "type": "explicit"
                 },
                 {
@@ -2585,11 +2590,6 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1301765461",
-                    "text": "#% to [MaximumResistances|Maximum Chaos Resistance]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_1755296234",
                     "text": "Targets can be affected by # of your [Poison|Poisons] at the same time",
                     "type": "explicit"
@@ -2597,6 +2597,16 @@
                 {
                     "id": "explicit.stat_78985352",
                     "text": "#% chance to [Intimidate] Enemies for 4 seconds on [HitDamage|Hit]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1658498488",
+                    "text": "[CorruptedBlood|Corrupted Blood] cannot be inflicted on you",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3384885789",
+                    "text": "This Weapon's [Critical|Critical Hit] Chance is #%",
                     "type": "explicit"
                 },
                 {
@@ -2615,6 +2625,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_265717301",
+                    "text": "Life [Flask|Flasks] do not recover Life",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_3642528642",
                     "text": "Only affects Passives in Very Small Ring",
                     "type": "explicit"
@@ -2630,6 +2645,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1910743684",
+                    "text": "All damage with this Weapon causes [Electrocute|Electrocution] buildup",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2369960685",
                     "text": "#% of charges used by [Charm|Charms] granted to your [Flask|Life Flasks]",
                     "type": "explicit"
@@ -2640,8 +2660,23 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_4012215578",
+                    "text": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Poison] Magnitude",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_258119672",
                     "text": "# metre to Dodge Roll distance",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1195849808",
+                    "text": "You gain [Onslaught] for # seconds on Kill",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3679696791",
+                    "text": "Modifiers to Maximum [Block] Chance instead apply to [MaximumResistances|Maximum Resistances]",
                     "type": "explicit"
                 },
                 {
@@ -2650,13 +2685,28 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2524254339",
+                    "text": "[CullingStrike|Culling Strike]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_227523295",
                     "text": "# to Maximum [Charges|Power Charges]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1910743684",
-                    "text": "All damage with this Weapon causes [Electrocute|Electrocution] buildup",
+                    "id": "explicit.stat_3162258068",
+                    "text": "You cannot [Block]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3999959974",
+                    "text": "[Resistances|Lightning Resistance] does not affect [Lightning] damage taken",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1546580830",
+                    "text": "Enemies in your [Presence] have [Lightning|Lightning Resistance] equal to yours",
                     "type": "explicit"
                 },
                 {
@@ -2670,18 +2720,13 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1520059289",
+                    "text": "[Onslaught]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1023752508",
                     "text": "No Chance to [Block]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3999959974",
-                    "text": "[Resistances|Lightning Resistance] does not affect [Lightning] damage taken",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4012215578",
-                    "text": "[DamageTypes|All Damage] from [HitDamage|Hits] [Contributes|Contributes] to [Poison] Magnitude",
                     "type": "explicit"
                 },
                 {
@@ -2695,23 +2740,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1658498488",
-                    "text": "[CorruptedBlood|Corrupted Blood] cannot be inflicted on you",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_2134207902",
                     "text": "[Armour] also applies to [Lightning] damage taken from [HitDamage|Hits]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3384885789",
-                    "text": "This Weapon's [Critical|Critical Hit] Chance is #%",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1520059289",
-                    "text": "[Onslaught]",
                     "type": "explicit"
                 },
                 {
@@ -2720,18 +2750,13 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2301852600",
+                    "text": "Deal #% of [Overkill] damage to enemies within 2 metres of the enemy killed",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_3971919056",
                     "text": "Life [LifeRecharge|Recharges]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3679696791",
-                    "text": "Modifiers to Maximum [Block] Chance instead apply to [MaximumResistances|Maximum Resistances]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_265717301",
-                    "text": "Life [Flask|Flasks] do not recover Life",
                     "type": "explicit"
                 },
                 {
@@ -2760,6 +2785,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2402413437",
+                    "text": "[ESRecharge|Energy Shield Recharge] starts when you use a Mana [Flask]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2439129490",
                     "text": "[Resistances|Chaos Resistance] is Zero",
                     "type": "explicit"
@@ -2770,13 +2800,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2524254339",
-                    "text": "[CullingStrike|Culling Strike]",
+                    "id": "explicit.stat_4294267596",
+                    "text": "Take no Extra Damage from [Critical|Critical Hits]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_2333085568",
                     "text": "# to all [Attributes] per Level",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3362812763",
+                    "text": "#% of [Armour|Armour] applies to [ElementalDamage|Elemental Damage]",
                     "type": "explicit"
                 },
                 {
@@ -2810,8 +2845,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3362812763",
-                    "text": "#% of [Armour|Armour] applies to [ElementalDamage|Elemental Damage]",
+                    "id": "explicit.stat_3826125995",
+                    "text": "[Projectile|Projectiles] from [Spell|Spells] cannot [Pierce]",
                     "type": "explicit"
                 },
                 {
@@ -2825,18 +2860,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_4294267596",
-                    "text": "Take no Extra Damage from [Critical|Critical Hits]",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_4283407333",
                     "text": "# to Level of all Skills",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3162258068",
-                    "text": "You cannot [Block]",
+                    "id": "explicit.stat_2437476305",
+                    "text": "Left ring slot: [Projectile|Projectiles] from [Spell|Spells] [Fork]",
                     "type": "explicit"
                 },
                 {
@@ -2850,23 +2880,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1195849808",
-                    "text": "You gain [Onslaught] for # seconds on Kill",
+                    "id": "explicit.stat_2812872407",
+                    "text": "Life Recovery from [Flask|Flasks] also applies to [EnergyShield|Energy Shield]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4195198267",
+                    "text": "[Block|Blocking] Damage [Poison|Poisons] the Enemy as though dealing # Base [Chaos] Damage",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_65133983",
                     "text": "Drop [ShockedGround|Shocked Ground] while moving, lasting 8 seconds",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2402413437",
-                    "text": "[ESRecharge|Energy Shield Recharge] starts when you use a Mana [Flask]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2301852600",
-                    "text": "Deal #% of [Overkill] damage to enemies within 2 metres of the enemy killed",
                     "type": "explicit"
                 },
                 {
@@ -2885,8 +2910,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2241560081",
+                    "text": "#% increased [Attack] Speed per 25 [Dexterity]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_65135897",
                     "text": "Cannot use [Shield] Skills",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1361645249",
+                    "text": "[Allies] in your [Presence] have [Block] Chance equal to yours",
                     "type": "explicit"
                 },
                 {
@@ -2900,13 +2935,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1546580830",
-                    "text": "Enemies in your [Presence] have [Lightning|Lightning Resistance] equal to yours",
+                    "id": "explicit.stat_793801176",
+                    "text": "[Energy] Generation is doubled",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_793801176",
-                    "text": "[Energy] Generation is doubled",
+                    "id": "explicit.stat_3563080185",
+                    "text": "#% increased [CullingStrike|Culling Strike] Threshold",
                     "type": "explicit"
                 },
                 {
@@ -2915,13 +2950,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2812872407",
-                    "text": "Life Recovery from [Flask|Flasks] also applies to [EnergyShield|Energy Shield]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3826125995",
-                    "text": "[Projectile|Projectiles] from [Spell|Spells] cannot [Pierce]",
+                    "id": "explicit.stat_480796730",
+                    "text": "#% to maximum [Block] chance",
                     "type": "explicit"
                 },
                 {
@@ -2930,8 +2960,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3563080185",
-                    "text": "#% increased [CullingStrike|Culling Strike] Threshold",
+                    "id": "explicit.stat_911712882",
+                    "text": "#% increased Maximum Mana per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
                     "type": "explicit"
                 },
                 {
@@ -2942,16 +2972,6 @@
                 {
                     "id": "explicit.stat_588512487",
                     "text": "Map has # additional random Modifier",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4195198267",
-                    "text": "[Block|Blocking] Damage [Poison|Poisons] the Enemy as though dealing # Base [Chaos] Damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2437476305",
-                    "text": "Left ring slot: [Projectile|Projectiles] from [Spell|Spells] [Fork]",
                     "type": "explicit"
                 },
                 {
@@ -2975,8 +2995,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1361645249",
-                    "text": "[Allies] in your [Presence] have [Block] Chance equal to yours",
+                    "id": "explicit.stat_2942704390",
+                    "text": "Skills have +# to [Limit]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1225174187",
+                    "text": "#% increased Global [Defences|Defences] per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
                     "type": "explicit"
                 },
                 {
@@ -2990,23 +3015,23 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_491899612",
+                    "text": "Cannot be [Shock|Shocked]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1539368271",
                     "text": "#% increased Explosive Placement Range",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2942704390",
-                    "text": "Skills have +# to [Limit]",
+                    "id": "explicit.stat_2702182380",
+                    "text": "#% increased Maximum Life per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_4219583418",
                     "text": "#% increased quantity of Artifacts dropped by Monsters",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_491899612",
-                    "text": "Cannot be [Shock|Shocked]",
                     "type": "explicit"
                 },
                 {
@@ -3020,13 +3045,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2241560081",
-                    "text": "#% increased [Attack] Speed per 25 [Dexterity]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3647242059",
-                    "text": "Left ring slot: [Projectile|Projectiles] from [Spell|Spells] cannot [Chain]",
+                    "id": "explicit.stat_2129352930",
+                    "text": "[Armour] is increased by [OvercappedResist|Overcapped] [Resistances|Fire Resistance]",
                     "type": "explicit"
                 },
                 {
@@ -3035,83 +3055,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1555918911",
-                    "text": "Right ring slot: [Projectile|Projectiles] from [Spell|Spells] [Chain] +# times",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_4163415912",
-                    "text": "+# to [Spirit|Spirit] per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3168149399",
-                    "text": "Adds # to # Lightning Damage to [Attack|Attacks] per 10 [Intelligence]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3924187855",
-                    "text": "[Evasion] Rating is increased by [OvercappedResist|Overcapped] [Resistances|Lightning Resistance]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3289828378",
-                    "text": "#% increased Explosive Radius",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_83828836",
-                    "text": "[AilmentThreshold|Elemental Ailment Threshold] is increased by [OvercappedResist|Overcapped] [Resistances|Chaos Resistance]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1563503803",
-                    "text": "#% chance to Avoid [Chaos] Damage from [HitDamage|Hits]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2129352930",
-                    "text": "[Armour] is increased by [OvercappedResist|Overcapped] [Resistances|Fire Resistance]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_911712882",
-                    "text": "#% increased Maximum Mana per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2415497478",
-                    "text": "#% chance to Avoid [Physical] Damage from [HitDamage|Hits]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_599749213",
-                    "text": "# to Level of all [Fire] Skills",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_898131228",
-                    "text": "You can use two copies of the same [SupportGem|Support Gem] in different Skills",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2933024469",
-                    "text": "Right ring slot: [Projectile|Projectiles] from [Spell|Spells] cannot [Fork]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2518598473",
-                    "text": "Take # [Fire] Damage when you [Ignite] an Enemy",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_258955603",
-                    "text": "Alternating every 5 seconds:\nTake #% more Damage from [HitDamage|Hits]\nTake #% more Damage over time",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3491722585",
-                    "text": "Enemies in your [Presence|Presence] are [Intimidate|Intimidated]",
+                    "id": "explicit.stat_3647242059",
+                    "text": "Left ring slot: [Projectile|Projectiles] from [Spell|Spells] cannot [Chain]",
                     "type": "explicit"
                 },
                 {
@@ -3180,8 +3125,83 @@
                     }
                 },
                 {
+                    "id": "explicit.stat_1555918911",
+                    "text": "Right ring slot: [Projectile|Projectiles] from [Spell|Spells] [Chain] +# times",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4163415912",
+                    "text": "+# to [Spirit|Spirit] per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3168149399",
+                    "text": "Adds # to # Lightning Damage to [Attack|Attacks] per 10 [Intelligence]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3924187855",
+                    "text": "[Evasion] Rating is increased by [OvercappedResist|Overcapped] [Resistances|Lightning Resistance]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3289828378",
+                    "text": "#% increased Explosive Radius",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1630111277",
                     "text": "On [HitDamage|Hitting] an enemy, gains maximum added [Lightning] damage equal to\nthe enemy's [Power] for 6 seconds, up to a total of #",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_83828836",
+                    "text": "[AilmentThreshold|Elemental Ailment Threshold] is increased by [OvercappedResist|Overcapped] [Resistances|Chaos Resistance]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1563503803",
+                    "text": "#% chance to Avoid [Chaos] Damage from [HitDamage|Hits]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_1555237944",
+                    "text": "#% chance when you gain a [Charges|Charge] to gain an additional [Charges|Charge]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_599749213",
+                    "text": "# to Level of all [Fire] Skills",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2415497478",
+                    "text": "#% chance to Avoid [Physical] Damage from [HitDamage|Hits]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_898131228",
+                    "text": "You can use two copies of the same [SupportGem|Support Gem] in different Skills",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2933024469",
+                    "text": "Right ring slot: [Projectile|Projectiles] from [Spell|Spells] cannot [Fork]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2518598473",
+                    "text": "Take # [Fire] Damage when you [Ignite] an Enemy",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_258955603",
+                    "text": "Alternating every 5 seconds:\nTake #% more Damage from [HitDamage|Hits]\nTake #% more Damage over time",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3491722585",
+                    "text": "Enemies in your [Presence|Presence] are [Intimidate|Intimidated]",
                     "type": "explicit"
                 },
                 {
@@ -3190,18 +3210,13 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_64726306",
+                    "text": "Can't use other Rings",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2593651571",
                     "text": "+#% to all [Resistances|Elemental Resistances] per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_480796730",
-                    "text": "#% to maximum [Block] chance",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_2702182380",
-                    "text": "#% increased Maximum Life per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
                     "type": "explicit"
                 },
                 {
@@ -3210,8 +3225,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1225174187",
-                    "text": "#% increased Global [Defences|Defences] per Socketed [Rune|Rune] or [SoulCore|Soul Core]",
+                    "id": "explicit.stat_1469179771",
+                    "text": "[Block] chance is [Lucky]",
                     "type": "explicit"
                 },
                 {
@@ -3220,8 +3235,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1469179771",
-                    "text": "[Block] chance is [Lucky]",
+                    "id": "explicit.stat_1083387327",
+                    "text": "#% increased Quantity of [ContainsExpedition|Expedition] [Logbook|Logbooks] dropped by [Runic] Monsters",
                     "type": "explicit"
                 },
                 {
@@ -3230,28 +3245,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3851480592",
-                    "text": "Lose all [Rage|Rage] on reaching Maximum [Rage]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_64726306",
-                    "text": "Can't use other Rings",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_2906384323",
                     "text": "Gain # random [Charges|Charge] on reaching Maximum [Rage|Rage]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3518087336",
-                    "text": "Dodge Roll avoids all [HitDamage|Hits]",
+                    "id": "explicit.stat_3851480592",
+                    "text": "Lose all [Rage|Rage] on reaching Maximum [Rage]",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1083387327",
-                    "text": "#% increased Quantity of [ContainsExpedition|Expedition] [Logbook|Logbooks] dropped by [Runic] Monsters",
+                    "id": "explicit.stat_3518087336",
+                    "text": "Dodge Roll avoids all [HitDamage|Hits]",
                     "type": "explicit"
                 },
                 {
@@ -3265,6 +3270,11 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2793222406",
+                    "text": "#% increased bonuses gained from Equipped Rings",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1640965354",
                     "text": "Area contains #% increased number of [Runic] Monster Markers",
                     "type": "explicit"
@@ -3272,11 +3282,6 @@
                 {
                     "id": "explicit.stat_4117005593",
                     "text": "Skills gain #% of Damage as [Chaos|Chaos Damage] per 3 Life Cost",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1555237944",
-                    "text": "#% chance when you gain a [Charges|Charge] to gain an additional [Charges|Charge]",
                     "type": "explicit"
                 },
                 {
@@ -3295,23 +3300,28 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2793222406",
-                    "text": "#% increased bonuses gained from Equipped Rings",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_2620375641",
                     "text": "[Charm|Charms] use no Charges",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_824024007",
-                    "text": "Your [CriticalDamageBonus|Critical Damage Bonus] is 300%",
+                    "id": "explicit.stat_2786852525",
+                    "text": "Enemies in your [Presence|Presence] Resist [ElementalDamage|Elemental Damage] based on their Lowest [Resistances|Resistance]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2173791158",
+                    "text": "[Allies|Allies] in your [Presence|Presence] [Gain|Gain] #% of Damage as Extra Fire Damage",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_782941180",
                     "text": "#% of [Spell] Damage [LifeLeech|Leeched as Life]",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_824024007",
+                    "text": "Your [CriticalDamageBonus|Critical Damage Bonus] is 300%",
                     "type": "explicit"
                 },
                 {
@@ -3325,8 +3335,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2173791158",
-                    "text": "[Allies|Allies] in your [Presence|Presence] [Gain|Gain] #% of Damage as Extra Fire Damage",
+                    "id": "explicit.stat_332217711",
+                    "text": "#% increased Maximum Life per socketed Grand Spectrum",
                     "type": "explicit"
                 },
                 {
@@ -3337,11 +3347,6 @@
                 {
                     "id": "explicit.stat_3605834869",
                     "text": "Skills gain a Base Life Cost equal to #% of Base Mana Cost",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_332217711",
-                    "text": "#% increased Maximum Life per socketed Grand Spectrum",
                     "type": "explicit"
                 },
                 {
@@ -3370,8 +3375,23 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_3587857709",
+                    "text": "Enemies in your [Presence|Presence] gain [CriticalWeakness|Critical Weakness] every second",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_1298316550",
                     "text": "Dodge Roll passes through Enemies",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_4031148736",
+                    "text": "You can only Socket Ruby Jewels in this item",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_3247805335",
+                    "text": "[Fire|Fire] Resistance is unaffected by [Resistances|Area Penalties]",
                     "type": "explicit"
                 },
                 {
@@ -3380,13 +3400,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2786852525",
-                    "text": "Enemies in your [Presence|Presence] Resist [ElementalDamage|Elemental Damage] based on their Lowest [Resistances|Resistance]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_461663422",
-                    "text": "#% increased Effect of [Jewel] Socket Passive Skills\ncontaining [Corrupted] [ItemRarity|Magic] [Jewel|Jewels]",
+                    "id": "explicit.stat_3631920880",
+                    "text": "[Lightning|Lightning] Resistance is unaffected by [Resistances|Area Penalties]",
                     "type": "explicit"
                 },
                 {
@@ -3395,18 +3410,13 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3587857709",
-                    "text": "Enemies in your [Presence|Presence] gain [CriticalWeakness|Critical Weakness] every second",
+                    "id": "explicit.stat_461663422",
+                    "text": "#% increased Effect of [Jewel] Socket Passive Skills\ncontaining [Corrupted] [ItemRarity|Magic] [Jewel|Jewels]",
                     "type": "explicit"
                 },
                 {
                     "id": "explicit.stat_3389184522",
                     "text": "[Leech] from [Critical|Critical Hits] is instant",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3631920880",
-                    "text": "[Lightning|Lightning] Resistance is unaffected by [Resistances|Area Penalties]",
                     "type": "explicit"
                 },
                 {
@@ -3430,13 +3440,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_4031148736",
-                    "text": "You can only Socket Ruby Jewels in this item",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3247805335",
-                    "text": "[Fire|Fire] Resistance is unaffected by [Resistances|Area Penalties]",
+                    "id": "explicit.stat_3881997959",
+                    "text": "1% increased Movement Speed per # [Evasion] Rating\nOther Modifiers to Movement Speed do not apply",
                     "type": "explicit"
                 },
                 {
@@ -3455,13 +3460,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_1310597900",
+                    "text": "Players have #% more Recovery Rate of Life, Mana and [EnergyShield|Energy Shield]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_3029185248",
                     "text": "#% more maximum [Physical] [Attack] Damage",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2068415277",
-                    "text": "Players have #% more [Defences]",
+                    "id": "explicit.stat_3314536008",
+                    "text": "Inflict Cold [Exposure|Exposure] on [Ignite|Igniting] an Enemy",
                     "type": "explicit"
                 },
                 {
@@ -3470,18 +3480,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2068415277",
+                    "text": "Players have #% more [Defences]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_3588388638",
                     "text": "Monster Damage penetrates #% of Fire Resistance",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_1310597900",
-                    "text": "Players have #% more Recovery Rate of Life, Mana and [EnergyShield|Energy Shield]",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_3314536008",
-                    "text": "Inflict Cold [Exposure|Exposure] on [Ignite|Igniting] an Enemy",
+                    "id": "explicit.stat_166883716",
+                    "text": "Monsters have #% increased [Defences]",
                     "type": "explicit"
                 },
                 {
@@ -3495,18 +3505,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3881997959",
-                    "text": "1% increased Movement Speed per # [Evasion] Rating\nOther Modifiers to Movement Speed do not apply",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_1430165758",
                     "text": "#% increased [Spirit|Spirit] per socketed Grand Spectrum",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_166883716",
-                    "text": "Monsters have #% increased [Defences]",
                     "type": "explicit"
                 },
                 {
@@ -3530,13 +3530,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2295988214",
-                    "text": "#% of [ElementalDamage|Elemental Damage] [Conversion|Converted] to [Chaos] Damage",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_242161915",
-                    "text": "#% to all [Resistances|Elemental Resistances] per socketed Grand Spectrum",
+                    "id": "explicit.stat_3311259821",
+                    "text": "Deals #% of current Mana as [Chaos|Chaos Damage] to you when Effect ends",
                     "type": "explicit"
                 },
                 {
@@ -3545,13 +3540,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_2295988214",
+                    "text": "#% of [ElementalDamage|Elemental Damage] [Conversion|Converted] to [Chaos] Damage",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_3969608626",
                     "text": "Effect is not removed when Unreserved Mana is Filled",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_3311259821",
-                    "text": "Deals #% of current Mana as [Chaos|Chaos Damage] to you when Effect ends",
+                    "id": "explicit.stat_242161915",
+                    "text": "#% to all [Resistances|Elemental Resistances] per socketed Grand Spectrum",
                     "type": "explicit"
                 },
                 {
@@ -3595,13 +3595,18 @@
                     "type": "explicit"
                 },
                 {
+                    "id": "explicit.stat_4246007234",
+                    "text": "#% increased [Attack|Attack] Damage when on [LowLife|Low Life]",
+                    "type": "explicit"
+                },
+                {
                     "id": "explicit.stat_2260055669",
                     "text": "[Freeze|Freezes] Enemies that are on Full Life",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_4246007234",
-                    "text": "#% increased [Attack|Attack] Damage when on [LowLife|Low Life]",
+                    "id": "explicit.stat_2462683918",
+                    "text": "#% increased [Attack|Attack] Damage while not on [LowMana|Low Mana]",
                     "type": "explicit"
                 },
                 {
@@ -3610,18 +3615,8 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_398335579",
-                    "text": "Cannot be used while Manifested",
-                    "type": "explicit"
-                },
-                {
                     "id": "explicit.stat_3885634897",
                     "text": "#% chance to Poison on Hit",
-                    "type": "explicit"
-                },
-                {
-                    "id": "explicit.stat_1414945937",
-                    "text": "Manifested Dancing Dervishes die when Rampage ends",
                     "type": "explicit"
                 },
                 {
@@ -3630,13 +3625,18 @@
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2889807051",
-                    "text": "[Melee] Hits count as Rampage Kills\nRampage",
+                    "id": "explicit.stat_1414945937",
+                    "text": "Manifested Dancing Dervishes die when Rampage ends",
                     "type": "explicit"
                 },
                 {
-                    "id": "explicit.stat_2462683918",
-                    "text": "#% increased [Attack|Attack] Damage while not on [LowMana|Low Mana]",
+                    "id": "explicit.stat_398335579",
+                    "text": "Cannot be used while Manifested",
+                    "type": "explicit"
+                },
+                {
+                    "id": "explicit.stat_2889807051",
+                    "text": "[Melee] Hits count as Rampage Kills\nRampage",
                     "type": "explicit"
                 }
             ]
@@ -3646,13 +3646,13 @@
             "label": "Implicit",
             "entries": [
                 {
-                    "id": "implicit.stat_275498888",
-                    "text": "Maximum [Quality] is #%",
+                    "id": "implicit.stat_3917489142",
+                    "text": "#% increased [ItemRarity|Rarity of Items] found",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_3917489142",
-                    "text": "#% increased [ItemRarity|Rarity of Items] found",
+                    "id": "implicit.stat_275498888",
+                    "text": "Maximum [Quality] is #%",
                     "type": "implicit"
                 },
                 {
@@ -3671,13 +3671,18 @@
                     "type": "implicit"
                 },
                 {
+                    "id": "implicit.stat_1671376347",
+                    "text": "#% to [Resistances|Lightning Resistance]",
+                    "type": "implicit"
+                },
+                {
                     "id": "implicit.stat_789117908",
                     "text": "#% increased Mana Regeneration Rate",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_1671376347",
-                    "text": "#% to [Resistances|Lightning Resistance]",
+                    "id": "implicit.stat_3299347043",
+                    "text": "# to maximum Life",
                     "type": "implicit"
                 },
                 {
@@ -3691,23 +3696,28 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_3299347043",
-                    "text": "# to maximum Life",
-                    "type": "implicit"
-                },
-                {
                     "id": "implicit.stat_3489782002",
                     "text": "# to maximum [EnergyShield|Energy Shield]",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_1379411836",
-                    "text": "# to all [Attributes|Attributes]",
+                    "id": "implicit.stat_4080418644",
+                    "text": "# to [Strength|Strength]",
                     "type": "implicit"
                 },
                 {
                     "id": "implicit.stat_3261801346",
                     "text": "# to [Dexterity|Dexterity]",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_328541901",
+                    "text": "# to [Intelligence|Intelligence]",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_1379411836",
+                    "text": "# to all [Attributes|Attributes]",
                     "type": "implicit"
                 },
                 {
@@ -3721,16 +3731,6 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_4080418644",
-                    "text": "# to [Strength|Strength]",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_803737631",
-                    "text": "# to [Accuracy|Accuracy] Rating",
-                    "type": "implicit"
-                },
-                {
                     "id": "implicit.stat_3885405204",
                     "text": "Bow [Attack|Attacks] fire # additional Arrows",
                     "type": "implicit"
@@ -3741,13 +3741,13 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2219129443",
-                    "text": "# Maps in Range contain [ContainsBreach|Breaches]",
+                    "id": "implicit.stat_803737631",
+                    "text": "# to [Accuracy|Accuracy] Rating",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_328541901",
-                    "text": "# to [Intelligence|Intelligence]",
+                    "id": "implicit.stat_2219129443",
+                    "text": "# Maps in Range contain [ContainsBreach|Breaches]",
                     "type": "implicit"
                 },
                 {
@@ -3776,18 +3776,28 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_1980802737",
-                    "text": "[Grenade] Skills Fire an additional [Projectile|Projectile]",
-                    "type": "implicit"
-                },
-                {
                     "id": "implicit.stat_1702195217",
                     "text": "#% to [Block] chance",
                     "type": "implicit"
                 },
                 {
+                    "id": "implicit.stat_1980802737",
+                    "text": "[Grenade] Skills Fire an additional [Projectile|Projectile]",
+                    "type": "implicit"
+                },
+                {
                     "id": "implicit.stat_809229260",
                     "text": "# to [Armour]",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_1836676211",
+                    "text": "#% increased [Flask|Flask] Charges gained",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_2222186378",
+                    "text": "#% increased Mana Recovery from [Flask|Flasks]",
                     "type": "implicit"
                 },
                 {
@@ -3806,13 +3816,8 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_1836676211",
-                    "text": "#% increased [Flask|Flask] Charges gained",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_462041840",
-                    "text": "#% of [Flask|Flask] Recovery applied Instantly",
+                    "id": "implicit.stat_644456512",
+                    "text": "#% reduced [Flask|Flask] Charges used",
                     "type": "implicit"
                 },
                 {
@@ -3821,33 +3826,8 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2222186378",
-                    "text": "#% increased Mana Recovery from [Flask|Flasks]",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_644456512",
-                    "text": "#% reduced [Flask|Flask] Charges used",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_924253255",
-                    "text": "#% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_1039380318",
-                    "text": "Loads an additional bolt",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_731781020",
-                    "text": "[Flask|Flasks] gain # charges per Second",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_1389754388",
-                    "text": "#% increased [Charm] Effect Duration",
+                    "id": "implicit.stat_462041840",
+                    "text": "#% of [Flask|Flask] Recovery applied Instantly",
                     "type": "implicit"
                 },
                 {
@@ -3856,8 +3836,28 @@
                     "type": "implicit"
                 },
                 {
+                    "id": "implicit.stat_1389754388",
+                    "text": "#% increased [Charm] Effect Duration",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_924253255",
+                    "text": "#% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_731781020",
+                    "text": "[Flask|Flasks] gain # charges per Second",
+                    "type": "implicit"
+                },
+                {
                     "id": "implicit.stat_1803308202",
                     "text": "#% increased Bolt Speed",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_1039380318",
+                    "text": "Loads an additional bolt",
                     "type": "implicit"
                 },
                 {
@@ -3881,13 +3881,13 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2194114101",
-                    "text": "#% increased [Critical|Critical Hit Chance] for [Attack|Attacks]",
+                    "id": "implicit.stat_2016937536",
+                    "text": "Used when you take [Lightning] damage from a [HitDamage|Hit]",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2016937536",
-                    "text": "Used when you take [Lightning] damage from a [HitDamage|Hit]",
+                    "id": "implicit.stat_2194114101",
+                    "text": "#% increased [Critical|Critical Hit Chance] for [Attack|Attacks]",
                     "type": "implicit"
                 },
                 {
@@ -3898,6 +3898,11 @@
                 {
                     "id": "implicit.stat_1028592286",
                     "text": "#% chance to [Chain] an additional time",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_3544800472",
+                    "text": "#% increased [AilmentThreshold|Elemental Ailment Threshold]",
                     "type": "implicit"
                 },
                 {
@@ -3916,6 +3921,11 @@
                     "type": "implicit"
                 },
                 {
+                    "id": "implicit.stat_1207554355",
+                    "text": "#% increased Arrow Speed",
+                    "type": "implicit"
+                },
+                {
                     "id": "implicit.stat_791928121",
                     "text": "Causes #% increased [Stun|Stun] Buildup",
                     "type": "implicit"
@@ -3923,16 +3933,6 @@
                 {
                     "id": "implicit.stat_1570770415",
                     "text": "#% reduced [Charm] Charges used",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_3544800472",
-                    "text": "#% increased [AilmentThreshold|Elemental Ailment Threshold]",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_1207554355",
-                    "text": "#% increased Arrow Speed",
                     "type": "implicit"
                 },
                 {
@@ -3956,13 +3956,13 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2778646494",
-                    "text": "Used when you are affected by a [Slow]",
+                    "id": "implicit.stat_624954515",
+                    "text": "#% increased [Accuracy] Rating",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2797971005",
-                    "text": "Gain # Life per Enemy Hit with [Attack|Attacks]",
+                    "id": "implicit.stat_2778646494",
+                    "text": "Used when you are affected by a [Slow]",
                     "type": "implicit"
                 },
                 {
@@ -3971,18 +3971,8 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_3676540188",
-                    "text": "Used when you start [Bleeding]",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_585126960",
-                    "text": "Used when you become [Ignite|Ignited]",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_624954515",
-                    "text": "#% increased [Accuracy] Rating",
+                    "id": "implicit.stat_2797971005",
+                    "text": "Gain # Life per Enemy Hit with [Attack|Attacks]",
                     "type": "implicit"
                 },
                 {
@@ -3991,8 +3981,13 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_3699444296",
-                    "text": "Used when you become [Shock|Shocked]",
+                    "id": "implicit.stat_3166002380",
+                    "text": "# Maps in Range contain [ContainsRitual|Ritual Altars]",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_3676540188",
+                    "text": "Used when you start [Bleeding]",
                     "type": "implicit"
                 },
                 {
@@ -4001,13 +3996,18 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2694482655",
-                    "text": "#% to [CriticalDamageBonus|Critical Damage Bonus]",
+                    "id": "implicit.stat_585126960",
+                    "text": "Used when you become [Ignite|Ignited]",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_3166002380",
-                    "text": "# Maps in Range contain [ContainsRitual|Ritual Altars]",
+                    "id": "implicit.stat_3699444296",
+                    "text": "Used when you become [Shock|Shocked]",
+                    "type": "implicit"
+                },
+                {
+                    "id": "implicit.stat_2694482655",
+                    "text": "#% to [CriticalDamageBonus|Critical Damage Bonus]",
                     "type": "implicit"
                 },
                 {
@@ -4046,13 +4046,13 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_2991413918",
-                    "text": "Area contains #% increased number of Remnants",
+                    "id": "implicit.stat_1871805225",
+                    "text": "Remnants have #% chance to have an additional Suffix Modifier",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_1871805225",
-                    "text": "Remnants have #% chance to have an additional Suffix Modifier",
+                    "id": "implicit.stat_4160330571",
+                    "text": "Area contains # additional Chest Marker",
                     "type": "implicit"
                 },
                 {
@@ -4061,13 +4061,13 @@
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_1640965354",
-                    "text": "Area contains #% increased number of [Runic] Monster Markers",
+                    "id": "implicit.stat_2991413918",
+                    "text": "Area contains #% increased number of Remnants",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_4160330571",
-                    "text": "Area contains # additional Chest Marker",
+                    "id": "implicit.stat_1640965354",
+                    "text": "Area contains #% increased number of [Runic] Monster Markers",
                     "type": "implicit"
                 },
                 {
@@ -4086,13 +4086,18 @@
                     "type": "implicit"
                 },
                 {
+                    "id": "implicit.stat_669069897",
+                    "text": "[ManaLeech|Leeches] #% of [Physical|Physical] Damage as Mana",
+                    "type": "implicit"
+                },
+                {
                     "id": "implicit.stat_1725749947",
                     "text": "Gain # [Rage|Rage] on [HitDamage|Hit]",
                     "type": "implicit"
                 },
                 {
-                    "id": "implicit.stat_669069897",
-                    "text": "[ManaLeech|Leeches] #% of [Physical|Physical] Damage as Mana",
+                    "id": "implicit.stat_2763429652",
+                    "text": "#% chance to [Maim|Maim] on [HitDamage|Hit]",
                     "type": "implicit"
                 },
                 {
@@ -4103,11 +4108,6 @@
                 {
                     "id": "implicit.stat_535217483",
                     "text": "#% increased [Projectile|Projectile] Speed when thrown",
-                    "type": "implicit"
-                },
-                {
-                    "id": "implicit.stat_2763429652",
-                    "text": "#% chance to [Maim|Maim] on [HitDamage|Hit]",
                     "type": "implicit"
                 },
                 {
@@ -4132,6 +4132,11 @@
                     "type": "enchant"
                 },
                 {
+                    "id": "enchant.stat_328541901",
+                    "text": "# to [Intelligence|Intelligence]",
+                    "type": "enchant"
+                },
+                {
                     "id": "enchant.stat_3261801346",
                     "text": "# to [Dexterity|Dexterity]",
                     "type": "enchant"
@@ -4142,18 +4147,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_328541901",
-                    "text": "# to [Intelligence|Intelligence]",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_4220027924",
                     "text": "#% to [Resistances|Cold Resistance]",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_1671376347",
-                    "text": "#% to [Resistances|Lightning Resistance]",
                     "type": "enchant"
                 },
                 {
@@ -4162,8 +4157,18 @@
                     "type": "enchant"
                 },
                 {
+                    "id": "enchant.stat_1671376347",
+                    "text": "#% to [Resistances|Lightning Resistance]",
+                    "type": "enchant"
+                },
+                {
                     "id": "enchant.stat_2923486259",
                     "text": "#% to [Resistances|Chaos Resistance]",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_2017682521",
+                    "text": "#% increased Pack size",
                     "type": "enchant"
                 },
                 {
@@ -4177,18 +4182,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_2017682521",
-                    "text": "#% increased Pack size",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_3299347043",
                     "text": "# to maximum Life",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_4015621042",
-                    "text": "#% increased [EnergyShield|Energy Shield]",
                     "type": "enchant"
                 },
                 {
@@ -4197,13 +4192,48 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_1315743832",
-                    "text": "#% increased [Thorns|Thorns] damage",
+                    "id": "enchant.stat_4015621042",
+                    "text": "#% increased [EnergyShield|Energy Shield]",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_3793155082",
+                    "text": "#% increased number of [Rarity|Rare] Monsters",
                     "type": "enchant"
                 },
                 {
                     "id": "enchant.stat_836936635",
                     "text": "Regenerate #% of Life per second",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_1315743832",
+                    "text": "#% increased [Thorns|Thorns] damage",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_3732878551",
+                    "text": "[Rarity|Rare] Monsters have a #% chance to have an additional Modifier",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_2694482655",
+                    "text": "#% to [CriticalDamageBonus|Critical Damage Bonus]",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_3371085671",
+                    "text": "[Rarity|Unique] Monsters have # additional [MonsterModifiers|Modifier]",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_3336890334",
+                    "text": "Adds # to # [Lightning|Lightning] Damage",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_1509134228",
+                    "text": "#% increased [Physical] Damage",
                     "type": "enchant"
                 },
                 {
@@ -4217,23 +4247,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3336890334",
-                    "text": "Adds # to # [Lightning|Lightning] Damage",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_3732878551",
-                    "text": "[Rarity|Rare] Monsters have a #% chance to have an additional Modifier",
+                    "id": "enchant.stat_210067635",
+                    "text": "#% increased [Attack] Speed",
                     "type": "enchant"
                 },
                 {
                     "id": "enchant.stat_1037193709",
                     "text": "Adds # to # [Cold|Cold] Damage",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_210067635",
-                    "text": "#% increased [Attack] Speed",
                     "type": "enchant"
                 },
                 {
@@ -4244,6 +4264,11 @@
                 {
                     "id": "enchant.stat_3138466258",
                     "text": "#% increased [PrecursorTablet|Precursor Tablets] found in Area",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_1050105434",
+                    "text": "# to maximum Mana",
                     "type": "enchant"
                 },
                 {
@@ -4262,11 +4287,6 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_2694482655",
-                    "text": "#% to [CriticalDamageBonus|Critical Damage Bonus]",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_3981240776",
                     "text": "# to [Spirit|Spirit]",
                     "type": "enchant"
@@ -4277,8 +4297,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_1050105434",
-                    "text": "# to maximum Mana",
+                    "id": "enchant.stat_3771516363",
+                    "text": "#% additional [Physical] Damage Reduction",
                     "type": "enchant"
                 },
                 {
@@ -4292,8 +4312,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_1509134228",
-                    "text": "#% increased [Physical] Damage",
+                    "id": "enchant.stat_970213192",
+                    "text": "#% increased [SkillSpeed|Skill Speed]",
                     "type": "enchant"
                 },
                 {
@@ -4312,13 +4332,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_970213192",
-                    "text": "#% increased [SkillSpeed|Skill Speed]",
+                    "id": "enchant.stat_818778753",
+                    "text": "Damage [Penetration|Penetrates] #% [Resistances|Lightning Resistance]",
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_818778753",
-                    "text": "Damage [Penetration|Penetrates] #% [Resistances|Lightning Resistance]",
+                    "id": "enchant.stat_3429557654",
+                    "text": "Immune to Maim",
                     "type": "enchant"
                 },
                 {
@@ -4332,13 +4352,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3676141501",
-                    "text": "#% to [MaximumResistances|Maximum Cold Resistance]",
+                    "id": "enchant.stat_1436284579",
+                    "text": "Cannot be Blinded",
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3429557654",
-                    "text": "Immune to Maim",
+                    "id": "enchant.stat_3676141501",
+                    "text": "#% to [MaximumResistances|Maximum Cold Resistance]",
                     "type": "enchant"
                 },
                 {
@@ -4362,8 +4382,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3371085671",
-                    "text": "[Rarity|Unique] Monsters have # additional [MonsterModifiers|Modifier]",
+                    "id": "enchant.stat_3321629045",
+                    "text": "#% increased [Armour|Armour] and [EnergyShield|Energy Shield]",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_1978899297",
+                    "text": "#% to all [MaximumResistances|Maximum Elemental Resistances]",
                     "type": "enchant"
                 },
                 {
@@ -4382,8 +4407,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3771516363",
-                    "text": "#% additional [Physical] Damage Reduction",
+                    "id": "enchant.stat_2301191210",
+                    "text": "#% chance to Blind Enemies on hit",
                     "type": "enchant"
                 },
                 {
@@ -4407,8 +4432,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_1978899297",
-                    "text": "#% to all [MaximumResistances|Maximum Elemental Resistances]",
+                    "id": "enchant.stat_3650992555",
+                    "text": "[Debuff|Debuffs] you inflict have #% increased [SlowMagnitudeModifier|Slow Magnitude]",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_791928121",
+                    "text": "Causes #% increased [Stun|Stun] Buildup",
                     "type": "enchant"
                 },
                 {
@@ -4422,23 +4452,18 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3321629045",
-                    "text": "#% increased [Armour|Armour] and [EnergyShield|Energy Shield]",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_2301191210",
-                    "text": "#% chance to Blind Enemies on hit",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_791928121",
-                    "text": "Causes #% increased [Stun|Stun] Buildup",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_3233599707",
                     "text": "#% increased Weapon Swap Speed",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_9187492",
+                    "text": "# to Level of all [Melee|Melee] Skills",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_1368271171",
+                    "text": "Gain # Mana per Enemy Killed",
                     "type": "enchant"
                 },
                 {
@@ -4452,21 +4477,6 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3650992555",
-                    "text": "[Debuff|Debuffs] you inflict have #% increased [SlowMagnitudeModifier|Slow Magnitude]",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_1436284579",
-                    "text": "Cannot be Blinded",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_1368271171",
-                    "text": "Gain # Mana per Enemy Killed",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_2481353198",
                     "text": "#% increased [Block] chance",
                     "type": "enchant"
@@ -4477,18 +4487,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_9187492",
-                    "text": "# to Level of all [Melee|Melee] Skills",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_3695891184",
                     "text": "Gain # Life per Enemy Killed",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_3793155082",
-                    "text": "#% increased number of [Rarity|Rare] Monsters",
                     "type": "enchant"
                 },
                 {
@@ -4497,13 +4497,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_924253255",
-                    "text": "#% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
+                    "id": "enchant.stat_2557965901",
+                    "text": "[LifeLeech|Leech] #% of [Physical] [Attack] Damage as Life",
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_2557965901",
-                    "text": "[LifeLeech|Leech] #% of [Physical] [Attack] Damage as Life",
+                    "id": "enchant.stat_924253255",
+                    "text": "#% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
                     "type": "enchant"
                 },
                 {
@@ -4512,8 +4512,18 @@
                     "type": "enchant"
                 },
                 {
+                    "id": "enchant.stat_1798257884",
+                    "text": "[Allies|Allies] in your [Presence|Presence] deal #% increased Damage",
+                    "type": "enchant"
+                },
+                {
                     "id": "enchant.stat_1011760251",
                     "text": "#% to [MaximumResistances|Maximum Lightning Resistance]",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_737908626",
+                    "text": "#% increased [Critical|Critical Hit Chance] for [Spell|Spells]",
                     "type": "enchant"
                 },
                 {
@@ -4542,23 +4552,18 @@
                     "type": "enchant"
                 },
                 {
+                    "id": "enchant.stat_2106365538",
+                    "text": "#% increased [Evasion|Evasion Rating]",
+                    "type": "enchant"
+                },
+                {
                     "id": "enchant.stat_2891184298",
                     "text": "#% increased Cast Speed",
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_737908626",
-                    "text": "#% increased [Critical|Critical Hit Chance] for [Spell|Spells]",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_3057012405",
                     "text": "[Allies] in your [Presence] have #% increased [CriticalDamageBonus|Critical Damage Bonus]",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_2106365538",
-                    "text": "#% increased [Evasion|Evasion Rating]",
                     "type": "enchant"
                 },
                 {
@@ -4572,8 +4577,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_1798257884",
-                    "text": "[Allies|Allies] in your [Presence|Presence] deal #% increased Damage",
+                    "id": "enchant.stat_2122183138",
+                    "text": "# Mana gained when you [Block|Block]",
                     "type": "enchant"
                 },
                 {
@@ -4587,11 +4592,6 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_2122183138",
-                    "text": "# Mana gained when you [Block|Block]",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_762600725",
                     "text": "# Life gained when you [Block|Block]",
                     "type": "enchant"
@@ -4602,6 +4602,11 @@
                     "type": "enchant"
                 },
                 {
+                    "id": "enchant.stat_1515657623",
+                    "text": "# to Maximum [Charges|Endurance Charges]",
+                    "type": "enchant"
+                },
+                {
                     "id": "enchant.stat_3353051436",
                     "text": "Allocates #",
                     "type": "enchant"
@@ -4609,11 +4614,6 @@
                 {
                     "id": "enchant.stat_293638271",
                     "text": "#% increased chance to [Shock]",
-                    "type": "enchant"
-                },
-                {
-                    "id": "enchant.stat_1515657623",
-                    "text": "# to Maximum [Charges|Endurance Charges]",
                     "type": "enchant"
                 },
                 {
@@ -4637,18 +4637,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_2321178454",
-                    "text": "#% chance to [Pierce|Pierce] an Enemy",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_591105508",
                     "text": "# to Level of all [Fire|Fire] [Spell|Spell] Skills",
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_1545858329",
-                    "text": "# to Level of all [Lightning|Lightning] [Spell|Spell] Skills",
+                    "id": "enchant.stat_2321178454",
+                    "text": "#% chance to [Pierce|Pierce] an Enemy",
                     "type": "enchant"
                 },
                 {
@@ -4657,18 +4652,23 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_2254480358",
-                    "text": "# to Level of all [Cold|Cold] [Spell|Spell] Skills",
-                    "type": "enchant"
-                },
-                {
                     "id": "enchant.stat_1600707273",
                     "text": "# to Level of all [Physical|Physical] [Spell|Spell] Skills",
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_289128254",
-                    "text": "[Allies|Allies] in your [Presence|Presence] have #% increased Cast Speed",
+                    "id": "enchant.stat_1545858329",
+                    "text": "# to Level of all [Lightning|Lightning] [Spell|Spell] Skills",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_2254480358",
+                    "text": "# to Level of all [Cold|Cold] [Spell|Spell] Skills",
+                    "type": "enchant"
+                },
+                {
+                    "id": "enchant.stat_3885405204",
+                    "text": "Bow [Attack|Attacks] fire # additional Arrows",
                     "type": "enchant"
                 },
                 {
@@ -4677,8 +4677,8 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_3885405204",
-                    "text": "Bow [Attack|Attacks] fire # additional Arrows",
+                    "id": "enchant.stat_289128254",
+                    "text": "[Allies|Allies] in your [Presence|Presence] have #% increased Cast Speed",
                     "type": "enchant"
                 },
                 {
@@ -4717,13 +4717,13 @@
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_1316278494",
-                    "text": "#% increased [Warcry|Warcry] Speed",
+                    "id": "enchant.stat_4283407333",
+                    "text": "# to Level of all Skills",
                     "type": "enchant"
                 },
                 {
-                    "id": "enchant.stat_4283407333",
-                    "text": "# to Level of all Skills",
+                    "id": "enchant.stat_1316278494",
+                    "text": "#% increased [Warcry|Warcry] Speed",
                     "type": "enchant"
                 },
                 {
@@ -4793,6 +4793,11 @@
                     "type": "rune"
                 },
                 {
+                    "id": "rune.stat_789117908",
+                    "text": "#% increased Mana Regeneration Rate",
+                    "type": "rune"
+                },
+                {
                     "id": "rune.stat_3299347043",
                     "text": "# to maximum Life",
                     "type": "rune"
@@ -4800,11 +4805,6 @@
                 {
                     "id": "rune.stat_2901986750",
                     "text": "#% to all [ElementalDamage|Elemental] [Resistances]",
-                    "type": "rune"
-                },
-                {
-                    "id": "rune.stat_789117908",
-                    "text": "#% increased Mana Regeneration Rate",
                     "type": "rune"
                 },
                 {
@@ -4853,6 +4853,11 @@
                     "type": "rune"
                 },
                 {
+                    "id": "rune.stat_3917489142",
+                    "text": "#% increased [ItemRarity|Rarity of Items] found",
+                    "type": "rune"
+                },
+                {
                     "id": "rune.stat_791928121",
                     "text": "Causes #% increased [Stun|Stun] Buildup",
                     "type": "rune"
@@ -4860,11 +4865,6 @@
                 {
                     "id": "rune.stat_4064396395",
                     "text": "[Attack|Attacks] with this Weapon Penetrate #% Elemental Resistances",
-                    "type": "rune"
-                },
-                {
-                    "id": "rune.stat_3917489142",
-                    "text": "#% increased [ItemRarity|Rarity of Items] found",
                     "type": "rune"
                 },
                 {
@@ -4878,6 +4878,11 @@
                     "type": "rune"
                 },
                 {
+                    "id": "rune.stat_4095671657",
+                    "text": "#% to [MaximumResistances|Maximum Fire Resistance]",
+                    "type": "rune"
+                },
+                {
                     "id": "rune.stat_2310741722",
                     "text": "#% increased Life and Mana Recovery from [Flask|Flasks]",
                     "type": "rune"
@@ -4888,18 +4893,13 @@
                     "type": "rune"
                 },
                 {
-                    "id": "rune.stat_915769802",
-                    "text": "# to [StunThreshold|Stun Threshold]",
-                    "type": "rune"
-                },
-                {
                     "id": "rune.stat_1368271171",
                     "text": "Gain # Mana per Enemy Killed",
                     "type": "rune"
                 },
                 {
-                    "id": "rune.stat_4095671657",
-                    "text": "#% to [MaximumResistances|Maximum Fire Resistance]",
+                    "id": "rune.stat_915769802",
+                    "text": "# to [StunThreshold|Stun Threshold]",
                     "type": "rune"
                 },
                 {
@@ -4918,13 +4918,13 @@
                     "type": "rune"
                 },
                 {
-                    "id": "rune.stat_1496740334",
-                    "text": "[StatConversion|Convert] #% of Requirements to [Dexterity|Dexterity]",
+                    "id": "rune.stat_293638271",
+                    "text": "#% increased chance to [Shock]",
                     "type": "rune"
                 },
                 {
-                    "id": "rune.stat_293638271",
-                    "text": "#% increased chance to [Shock]",
+                    "id": "rune.stat_1496740334",
+                    "text": "[StatConversion|Convert] #% of Requirements to [Dexterity|Dexterity]",
                     "type": "rune"
                 },
                 {
@@ -4948,11 +4948,6 @@
                     "type": "rune"
                 },
                 {
-                    "id": "rune.stat_3885634897",
-                    "text": "#% chance to Poison on Hit",
-                    "type": "rune"
-                },
-                {
                     "id": "rune.stat_1011760251",
                     "text": "#% to [MaximumResistances|Maximum Lightning Resistance]",
                     "type": "rune"
@@ -4963,13 +4958,18 @@
                     "type": "rune"
                 },
                 {
-                    "id": "rune.stat_3676141501",
-                    "text": "#% to [MaximumResistances|Maximum Cold Resistance]",
+                    "id": "rune.stat_3885634897",
+                    "text": "#% chance to Poison on Hit",
                     "type": "rune"
                 },
                 {
                     "id": "rune.stat_924253255",
                     "text": "#% increased [Slow|Slowing] Potency of [Debuff|Debuffs] on You",
+                    "type": "rune"
+                },
+                {
+                    "id": "rune.stat_3676141501",
+                    "text": "#% to [MaximumResistances|Maximum Cold Resistance]",
                     "type": "rune"
                 },
                 {

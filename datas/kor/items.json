@@ -5503,16 +5503,16 @@
                     }
                 },
                 {
-                    "type": "노파 단도",
-                    "text": "미완성 노파 단도",
+                    "type": "부식된 장검",
+                    "text": "미완성 부식된 장검",
                     "name": "미완성",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "부식된 장검",
-                    "text": "미완성 부식된 장검",
+                    "type": "노파 단도",
+                    "text": "미완성 노파 단도",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5543,6 +5543,14 @@
                     }
                 },
                 {
+                    "type": "파문 대검",
+                    "text": "미완성 파문 대검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "신성한 도리깨",
                     "text": "미완성 신성한 도리깨",
                     "name": "미완성",
@@ -5561,6 +5569,14 @@
                 {
                     "type": "수염 도끼",
                     "text": "미완성 수염 도끼",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "분할의 대도끼",
+                    "text": "미완성 분할의 대도끼",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5617,14 +5633,6 @@
                 {
                     "type": "사슬 도리깨",
                     "text": "미완성 사슬 도리깨",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "파문 대검",
-                    "text": "미완성 파문 대검",
                     "name": "미완성",
                     "flags": {
                         "unique": true

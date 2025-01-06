@@ -4843,6 +4843,9 @@
                     "type": "Weathered Crisis Fragment"
                 },
                 {
+                    "type": "Test of Strength Barya"
+                },
+                {
                     "type": "Test of Will Barya"
                 },
                 {
@@ -4903,13 +4906,28 @@
                     "type": "Moon Dagger"
                 },
                 {
+                    "type": "Engraved Knife"
+                },
+                {
+                    "type": "Obsidian Dagger"
+                },
+                {
+                    "type": "Splintered Flail"
+                },
+                {
                     "type": "Chain Flail"
                 },
                 {
                     "type": "Holy Flail"
                 },
                 {
+                    "type": "Iron Flail"
+                },
+                {
                     "type": "Twin Flail"
+                },
+                {
+                    "type": "Slender Flail"
                 },
                 {
                     "type": "Dull Hatchet"
@@ -5257,6 +5275,9 @@
                     "type": "Light Halberd"
                 },
                 {
+                    "type": "Executioner Greataxe"
+                },
+                {
                     "type": "Arched Greataxe"
                 },
                 {
@@ -5450,104 +5471,8 @@
                     }
                 },
                 {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Ironhead Spear",
                     "text": "INCOMPLETE Ironhead Spear",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Iron Greatsword",
-                    "text": "INCOMPLETE Iron Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Blessed Claymore",
-                    "text": "INCOMPLETE Blessed Claymore",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Rippled Greatsword",
-                    "text": "INCOMPLETE Rippled Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Chain Flail",
-                    "text": "INCOMPLETE Chain Flail",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Bearded Axe",
-                    "text": "INCOMPLETE Bearded Axe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Bandit Hatchet",
-                    "text": "INCOMPLETE Bandit Hatchet",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Vampiric Blade",
-                    "text": "INCOMPLETE Vampiric Blade",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5562,40 +5487,32 @@
                     }
                 },
                 {
-                    "type": "Elegant Glaive",
-                    "text": "INCOMPLETE Elegant Glaive",
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Moon Dagger",
-                    "text": "INCOMPLETE Moon Dagger",
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Holy Flail",
-                    "text": "INCOMPLETE Holy Flail",
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Twin Flail",
-                    "text": "INCOMPLETE Twin Flail",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Extended Cleaver",
-                    "text": "INCOMPLETE Extended Cleaver",
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5610,6 +5527,46 @@
                     }
                 },
                 {
+                    "type": "Executioner Greataxe",
+                    "text": "INCOMPLETE Executioner Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Iron Greatsword",
+                    "text": "INCOMPLETE Iron Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Holy Flail",
+                    "text": "INCOMPLETE Holy Flail",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Bearded Axe",
+                    "text": "INCOMPLETE Bearded Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "War Spear",
                     "text": "INCOMPLETE War Spear",
                     "name": "INCOMPLETE",
@@ -5618,8 +5575,88 @@
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
+                    "type": "Blessed Claymore",
+                    "text": "INCOMPLETE Blessed Claymore",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Twin Flail",
+                    "text": "INCOMPLETE Twin Flail",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Broad Greatsword",
+                    "text": "INCOMPLETE Broad Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Moon Dagger",
+                    "text": "INCOMPLETE Moon Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Chain Flail",
+                    "text": "INCOMPLETE Chain Flail",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Rippled Greatsword",
+                    "text": "INCOMPLETE Rippled Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Bandit Hatchet",
+                    "text": "INCOMPLETE Bandit Hatchet",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Vampiric Blade",
+                    "text": "INCOMPLETE Vampiric Blade",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Elegant Glaive",
+                    "text": "INCOMPLETE Elegant Glaive",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Extended Cleaver",
+                    "text": "INCOMPLETE Extended Cleaver",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

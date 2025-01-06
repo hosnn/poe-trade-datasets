@@ -4843,6 +4843,9 @@
                     "type": "풍화된 위기 조각"
                 },
                 {
+                    "type": "힘의 시험 바리야"
+                },
+                {
                     "type": "의지의 시험 바리야"
                 },
                 {
@@ -4903,13 +4906,28 @@
                     "type": "달의 단검"
                 },
                 {
+                    "type": "아로새긴 단도"
+                },
+                {
+                    "type": "흑요석 단검"
+                },
+                {
+                    "type": "쪼개진 도리깨"
+                },
+                {
                     "type": "사슬 도리깨"
                 },
                 {
                     "type": "신성한 도리깨"
                 },
                 {
+                    "type": "철 도리깨"
+                },
+                {
                     "type": "쌍둥이 도리깨"
+                },
+                {
+                    "type": "날씬한 도리깨"
                 },
                 {
                     "type": "무딘 손도끼"
@@ -5257,6 +5275,9 @@
                     "type": "경량 미늘창"
                 },
                 {
+                    "type": "사형 집행자 대도끼"
+                },
+                {
                     "type": "아치형 대도끼"
                 },
                 {
@@ -5450,104 +5471,8 @@
                     }
                 },
                 {
-                    "type": "노파 단도",
-                    "text": "미완성 노파 단도",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "철창날 창",
                     "text": "미완성 철창날 창",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "철 대검",
-                    "text": "미완성 철 대검",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "축복받은 클레이모어",
-                    "text": "미완성 축복받은 클레이모어",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "파문 대검",
-                    "text": "미완성 파문 대검",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "단순한 단검",
-                    "text": "미완성 단순한 단검",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "사슬 도리깨",
-                    "text": "미완성 사슬 도리깨",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "무딘 손도끼",
-                    "text": "미완성 무딘 손도끼",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "갈고리 도끼",
-                    "text": "미완성 갈고리 도끼",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "수염 도끼",
-                    "text": "미완성 수염 도끼",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "도적 손도끼",
-                    "text": "미완성 도적 손도끼",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "넓적검",
-                    "text": "미완성 넓적검",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "흡혈 칼날",
-                    "text": "미완성 흡혈 칼날",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5562,40 +5487,32 @@
                     }
                 },
                 {
-                    "type": "고상한 글레이브",
-                    "text": "미완성 고상한 글레이브",
+                    "type": "단순한 단검",
+                    "text": "미완성 단순한 단검",
                     "name": "미완성",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "달의 단검",
-                    "text": "미완성 달의 단검",
+                    "type": "갈고리 도끼",
+                    "text": "미완성 갈고리 도끼",
                     "name": "미완성",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "신성한 도리깨",
-                    "text": "미완성 신성한 도리깨",
+                    "type": "노파 단도",
+                    "text": "미완성 노파 단도",
                     "name": "미완성",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "쌍둥이 도리깨",
-                    "text": "미완성 쌍둥이 도리깨",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "연장 가로날도끼",
-                    "text": "미완성 연장 가로날도끼",
+                    "type": "부식된 장검",
+                    "text": "미완성 부식된 장검",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5610,6 +5527,46 @@
                     }
                 },
                 {
+                    "type": "사형 집행자 대도끼",
+                    "text": "미완성 사형 집행자 대도끼",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "철 대검",
+                    "text": "미완성 철 대검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "신성한 도리깨",
+                    "text": "미완성 신성한 도리깨",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "무딘 손도끼",
+                    "text": "미완성 무딘 손도끼",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "수염 도끼",
+                    "text": "미완성 수염 도끼",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "전쟁 창",
                     "text": "미완성 전쟁 창",
                     "name": "미완성",
@@ -5618,8 +5575,88 @@
                     }
                 },
                 {
-                    "type": "부식된 장검",
-                    "text": "미완성 부식된 장검",
+                    "type": "축복받은 클레이모어",
+                    "text": "미완성 축복받은 클레이모어",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "쌍둥이 도리깨",
+                    "text": "미완성 쌍둥이 도리깨",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "넓적검",
+                    "text": "미완성 넓적검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "넓은날 대검",
+                    "text": "미완성 넓은날 대검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "달의 단검",
+                    "text": "미완성 달의 단검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "사슬 도리깨",
+                    "text": "미완성 사슬 도리깨",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "파문 대검",
+                    "text": "미완성 파문 대검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "도적 손도끼",
+                    "text": "미완성 도적 손도끼",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "흡혈 칼날",
+                    "text": "미완성 흡혈 칼날",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "고상한 글레이브",
+                    "text": "미완성 고상한 글레이브",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "연장 가로날도끼",
+                    "text": "미완성 연장 가로날도끼",
                     "name": "미완성",
                     "flags": {
                         "unique": true

@@ -5359,6 +5359,9 @@
                     "type": "Rippled Greatsword"
                 },
                 {
+                    "type": "Arced Longsword"
+                },
+                {
                     "type": "Shortsword",
                     "text": "Bluetongue Shortsword",
                     "name": "Bluetongue",
@@ -5487,6 +5490,14 @@
                     }
                 },
                 {
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Simple Dagger",
                     "text": "INCOMPLETE Simple Dagger",
                     "name": "INCOMPLETE",
@@ -5503,6 +5514,22 @@
                     }
                 },
                 {
+                    "type": "Bearded Axe",
+                    "text": "INCOMPLETE Bearded Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Splitting Greataxe",
+                    "text": "INCOMPLETE Splitting Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Corroded Longsword",
                     "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
@@ -5511,8 +5538,16 @@
                     }
                 },
                 {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
+                    "type": "Rippled Greatsword",
+                    "text": "INCOMPLETE Rippled Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5543,40 +5578,8 @@
                     }
                 },
                 {
-                    "type": "Rippled Greatsword",
-                    "text": "INCOMPLETE Rippled Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Holy Flail",
                     "text": "INCOMPLETE Holy Flail",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Bearded Axe",
-                    "text": "INCOMPLETE Bearded Axe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Splitting Greataxe",
-                    "text": "INCOMPLETE Splitting Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

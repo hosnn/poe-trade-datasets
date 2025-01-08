@@ -5482,8 +5482,8 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5506,8 +5506,16 @@
                     }
                 },
                 {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5530,8 +5538,8 @@
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5540,6 +5548,14 @@
                 {
                     "type": "Rippled Greatsword",
                     "text": "INCOMPLETE Rippled Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Moon Dagger",
+                    "text": "INCOMPLETE Moon Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5620,14 +5636,6 @@
                 {
                     "type": "Broad Greatsword",
                     "text": "INCOMPLETE Broad Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Moon Dagger",
-                    "text": "INCOMPLETE Moon Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

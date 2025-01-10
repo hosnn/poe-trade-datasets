@@ -5284,6 +5284,12 @@
                     "type": "Elegant Glaive"
                 },
                 {
+                    "type": "Savage Greataxe"
+                },
+                {
+                    "type": "Rending Halberd"
+                },
+                {
                     "type": "Felled Greatclub"
                 },
                 {
@@ -5498,14 +5504,6 @@
                     }
                 },
                 {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Executioner Greataxe",
                     "text": "INCOMPLETE Executioner Greataxe",
                     "name": "INCOMPLETE",
@@ -5530,8 +5528,8 @@
                     }
                 },
                 {
-                    "type": "Bearded Axe",
-                    "text": "INCOMPLETE Bearded Axe",
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5554,6 +5552,14 @@
                     }
                 },
                 {
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Arched Greataxe",
                     "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
@@ -5570,16 +5576,16 @@
                     }
                 },
                 {
-                    "type": "Moon Dagger",
-                    "text": "INCOMPLETE Moon Dagger",
+                    "type": "Bearded Axe",
+                    "text": "INCOMPLETE Bearded Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
+                    "type": "Moon Dagger",
+                    "text": "INCOMPLETE Moon Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

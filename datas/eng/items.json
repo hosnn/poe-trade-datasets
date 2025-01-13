@@ -5488,16 +5488,16 @@
                     }
                 },
                 {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5528,22 +5528,6 @@
                     }
                 },
                 {
-                    "type": "Splitting Greataxe",
-                    "text": "INCOMPLETE Splitting Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Rippled Greatsword",
-                    "text": "INCOMPLETE Rippled Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Broadsword",
                     "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
@@ -5552,8 +5536,24 @@
                     }
                 },
                 {
+                    "type": "Splitting Greataxe",
+                    "text": "INCOMPLETE Splitting Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Simple Dagger",
                     "text": "INCOMPLETE Simple Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Rippled Greatsword",
+                    "text": "INCOMPLETE Rippled Greatsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

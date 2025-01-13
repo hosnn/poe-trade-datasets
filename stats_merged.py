@@ -8,16 +8,23 @@ def load_json(file_path):
 
 # JSON 데이터 병합
 def merge_json(kor_data, eng_data):
+    kor_dict = {item["id"]: item for item in kor_data["result"]}
+    eng_dict = {item["id"]: item for item in eng_data["result"]}
+    
     merged_result = []
 
-    for kor_item, eng_item in zip(kor_data["result"], eng_data["result"]):
-        if kor_item["id"] != eng_item["id"]:
-            raise ValueError(f"Mismatched IDs: {kor_item['id']} vs {eng_item['id']}")
+    for kor_id, kor_item in kor_dict.items():
+        eng_item = eng_dict.get(kor_id)
+        if not eng_item:
+            print(f"Warning: ID {kor_id} missing in English data.")
+            continue
 
         merged_entries = []
-        for kor_entry, eng_entry in zip(kor_item["entries"], eng_item["entries"]):
-            if kor_entry["id"] != eng_entry["id"]:
-                raise ValueError(f"Mismatched Entry IDs: {kor_entry['id']} vs {eng_entry['id']}")
+        for kor_entry in kor_item["entries"]:
+            eng_entry = next((e for e in eng_item["entries"] if e["id"] == kor_entry["id"]), None)
+            if not eng_entry:
+                print(f"Warning: Entry ID {kor_entry['id']} missing in English data for {kor_id}.")
+                continue
 
             # 병합된 entry 생성
             merged_entry = {
@@ -29,13 +36,14 @@ def merge_json(kor_data, eng_data):
             merged_entries.append(merged_entry)
 
         merged_result.append({
-            "id": kor_item["id"],
+            "id": kor_id,
             "labelKor": kor_item["label"],
             "labelEng": eng_item["label"],
             "entries": merged_entries
         })
 
     return {"result": merged_result}
+
 
 # 메인 실행
 def stats_merged():

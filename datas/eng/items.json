@@ -5284,6 +5284,12 @@
                     "type": "Elegant Glaive"
                 },
                 {
+                    "type": "Savage Greataxe"
+                },
+                {
+                    "type": "Rending Halberd"
+                },
+                {
                     "type": "Felled Greatclub"
                 },
                 {
@@ -5482,30 +5488,6 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Hook Axe",
                     "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
@@ -5514,16 +5496,8 @@
                     }
                 },
                 {
-                    "type": "Bearded Axe",
-                    "text": "INCOMPLETE Bearded Axe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Splitting Greataxe",
-                    "text": "INCOMPLETE Splitting Greataxe",
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5538,14 +5512,6 @@
                     }
                 },
                 {
-                    "type": "Rippled Greatsword",
-                    "text": "INCOMPLETE Rippled Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Dull Hatchet",
                     "text": "INCOMPLETE Dull Hatchet",
                     "name": "INCOMPLETE",
@@ -5554,8 +5520,40 @@
                     }
                 },
                 {
-                    "type": "Hunting Spear",
-                    "text": "INCOMPLETE Hunting Spear",
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Splitting Greataxe",
+                    "text": "INCOMPLETE Splitting Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Rippled Greatsword",
+                    "text": "INCOMPLETE Rippled Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5570,8 +5568,40 @@
                     }
                 },
                 {
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Iron Greatsword",
                     "text": "INCOMPLETE Iron Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Bearded Axe",
+                    "text": "INCOMPLETE Bearded Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Moon Dagger",
+                    "text": "INCOMPLETE Moon Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Hunting Spear",
+                    "text": "INCOMPLETE Hunting Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5610,24 +5640,8 @@
                     }
                 },
                 {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Broad Greatsword",
                     "text": "INCOMPLETE Broad Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Moon Dagger",
-                    "text": "INCOMPLETE Moon Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

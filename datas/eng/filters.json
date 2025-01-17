@@ -373,7 +373,7 @@
                 },
                 {
                     "id": "rune_sockets",
-                    "text": "Empty Rune Sockets",
+                    "text": "Rune Sockets",
                     "minMax": true
                 }
             ]
@@ -651,7 +651,11 @@
                         "options": [
                             {
                                 "id": null,
-                                "text": "Relative"
+                                "text": "Exalted Orb Equivalent"
+                            },
+                            {
+                                "id": "exalted_divine",
+                                "text": "Exalted or Divine Orbs"
                             },
                             {
                                 "id": "aug",

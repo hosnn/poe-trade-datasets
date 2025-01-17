@@ -2836,8 +2836,8 @@
                 },
                 {
                     "type": "Raider Plate",
-                    "text": "The Immortan Raider Plate",
-                    "name": "The Immortan",
+                    "text": "The Road Warrior Raider Plate",
+                    "name": "The Road Warrior",
                     "flags": {
                         "unique": true
                     }
@@ -4870,6 +4870,9 @@
                     "type": "Precursor Tablet"
                 },
                 {
+                    "type": "Overseer Precursor Tablet"
+                },
+                {
                     "type": "Ritual Precursor Tablet"
                 },
                 {
@@ -5488,16 +5491,16 @@
                     }
                 },
                 {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5512,14 +5515,6 @@
                     }
                 },
                 {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Executioner Greataxe",
                     "text": "INCOMPLETE Executioner Greataxe",
                     "name": "INCOMPLETE",
@@ -5528,24 +5523,8 @@
                     }
                 },
                 {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Splitting Greataxe",
-                    "text": "INCOMPLETE Splitting Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5560,16 +5539,24 @@
                     }
                 },
                 {
-                    "type": "Arched Greataxe",
-                    "text": "INCOMPLETE Arched Greataxe",
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Rippled Greatsword",
-                    "text": "INCOMPLETE Rippled Greatsword",
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Splitting Greataxe",
+                    "text": "INCOMPLETE Splitting Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5594,6 +5581,22 @@
                 {
                     "type": "Iron Greatsword",
                     "text": "INCOMPLETE Iron Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Rippled Greatsword",
+                    "text": "INCOMPLETE Rippled Greatsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

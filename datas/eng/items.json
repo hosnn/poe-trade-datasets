@@ -5499,16 +5499,16 @@
                     }
                 },
                 {
-                    "type": "Executioner Greataxe",
-                    "text": "INCOMPLETE Executioner Greataxe",
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5523,8 +5523,24 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
+                    "type": "Executioner Greataxe",
+                    "text": "INCOMPLETE Executioner Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5563,8 +5579,8 @@
                     }
                 },
                 {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
+                    "type": "Holy Flail",
+                    "text": "INCOMPLETE Holy Flail",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5573,14 +5589,6 @@
                 {
                     "type": "Bearded Axe",
                     "text": "INCOMPLETE Bearded Axe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5613,14 +5621,6 @@
                 {
                     "type": "Hunting Spear",
                     "text": "INCOMPLETE Hunting Spear",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Holy Flail",
-                    "text": "INCOMPLETE Holy Flail",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

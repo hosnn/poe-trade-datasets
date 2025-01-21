@@ -5483,16 +5483,16 @@
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5579,6 +5579,14 @@
                     }
                 },
                 {
+                    "type": "Chain Flail",
+                    "text": "INCOMPLETE Chain Flail",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Holy Flail",
                     "text": "INCOMPLETE Holy Flail",
                     "name": "INCOMPLETE",
@@ -5653,14 +5661,6 @@
                 {
                     "type": "Broad Greatsword",
                     "text": "INCOMPLETE Broad Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Chain Flail",
-                    "text": "INCOMPLETE Chain Flail",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

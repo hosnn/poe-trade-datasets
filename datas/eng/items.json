@@ -5483,14 +5483,6 @@
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Ironhead Spear",
                     "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
@@ -5499,8 +5491,8 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5515,8 +5507,8 @@
                     }
                 },
                 {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5531,8 +5523,8 @@
                     }
                 },
                 {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5555,14 +5547,6 @@
                     }
                 },
                 {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Chain Flail",
                     "text": "INCOMPLETE Chain Flail",
                     "name": "INCOMPLETE",
@@ -5579,16 +5563,16 @@
                     }
                 },
                 {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
+                    "type": "Bearded Axe",
+                    "text": "INCOMPLETE Bearded Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Bearded Axe",
-                    "text": "INCOMPLETE Bearded Axe",
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5603,8 +5587,24 @@
                     }
                 },
                 {
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Skinning Knife",
                     "text": "INCOMPLETE Skinning Knife",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

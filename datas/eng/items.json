@@ -5483,24 +5483,16 @@
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Dull Hatchet",
                     "text": "INCOMPLETE Dull Hatchet",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5523,6 +5515,14 @@
                     }
                 },
                 {
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Crone Knife",
                     "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
@@ -5531,16 +5531,16 @@
                     }
                 },
                 {
-                    "type": "Splitting Greataxe",
-                    "text": "INCOMPLETE Splitting Greataxe",
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Arched Greataxe",
-                    "text": "INCOMPLETE Arched Greataxe",
+                    "type": "Splitting Greataxe",
+                    "text": "INCOMPLETE Splitting Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5563,6 +5563,14 @@
                     }
                 },
                 {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Bearded Axe",
                     "text": "INCOMPLETE Bearded Axe",
                     "name": "INCOMPLETE",
@@ -5571,8 +5579,8 @@
                     }
                 },
                 {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5597,14 +5605,6 @@
                 {
                     "type": "Skinning Knife",
                     "text": "INCOMPLETE Skinning Knife",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

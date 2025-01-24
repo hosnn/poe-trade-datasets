@@ -72,7 +72,7 @@
                             },
                             {
                                 "id": "weapon.warstaff",
-                                "text": "Quarterstaff"
+                                "text": "육척봉"
                             },
                             {
                                 "id": "weapon.ranged",
@@ -534,7 +534,7 @@
                 },
                 {
                     "id": "unidentified_tier",
-                    "text": "Unidentified Tier",
+                    "text": "미확인 등급",
                     "minMax": true
                 }
             ]
@@ -691,7 +691,7 @@
                             },
                             {
                                 "id": "annul",
-                                "text": "Orb of Annulment"
+                                "text": "소멸의 오브"
                             },
                             {
                                 "id": "mirror",

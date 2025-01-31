@@ -5483,16 +5483,16 @@
                     }
                 },
                 {
-                    "type": "무딘 손도끼",
-                    "text": "미완성 무딘 손도끼",
+                    "type": "철창날 창",
+                    "text": "미완성 철창날 창",
                     "name": "미완성",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "철창날 창",
-                    "text": "미완성 철창날 창",
+                    "type": "무딘 손도끼",
+                    "text": "미완성 무딘 손도끼",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5509,14 +5509,6 @@
                 {
                     "type": "사형 집행자 대도끼",
                     "text": "미완성 사형 집행자 대도끼",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "노파 단도",
-                    "text": "미완성 노파 단도",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5541,6 +5533,14 @@
                 {
                     "type": "분할의 대도끼",
                     "text": "미완성 분할의 대도끼",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "노파 단도",
+                    "text": "미완성 노파 단도",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5579,14 +5579,6 @@
                     }
                 },
                 {
-                    "type": "단순한 단검",
-                    "text": "미완성 단순한 단검",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "무두질용 단도",
                     "text": "미완성 무두질용 단도",
                     "name": "미완성",
@@ -5613,6 +5605,14 @@
                 {
                     "type": "철 대검",
                     "text": "미완성 철 대검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "단순한 단검",
+                    "text": "미완성 단순한 단검",
                     "name": "미완성",
                     "flags": {
                         "unique": true

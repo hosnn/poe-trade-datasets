@@ -5483,16 +5483,16 @@
                     }
                 },
                 {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5509,14 +5509,6 @@
                 {
                     "type": "Executioner Greataxe",
                     "text": "INCOMPLETE Executioner Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5541,6 +5533,14 @@
                 {
                     "type": "Splitting Greataxe",
                     "text": "INCOMPLETE Splitting Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5579,14 +5579,6 @@
                     }
                 },
                 {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Skinning Knife",
                     "text": "INCOMPLETE Skinning Knife",
                     "name": "INCOMPLETE",
@@ -5613,6 +5605,14 @@
                 {
                     "type": "Iron Greatsword",
                     "text": "INCOMPLETE Iron Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

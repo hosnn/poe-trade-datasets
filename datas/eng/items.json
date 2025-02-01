@@ -5523,22 +5523,6 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Splitting Greataxe",
-                    "text": "INCOMPLETE Splitting Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Crone Knife",
                     "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
@@ -5557,6 +5541,14 @@
                 {
                     "type": "Holy Flail",
                     "text": "INCOMPLETE Holy Flail",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5587,6 +5579,22 @@
                     }
                 },
                 {
+                    "type": "Iron Greatsword",
+                    "text": "INCOMPLETE Iron Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Hook Axe",
                     "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
@@ -5603,16 +5611,8 @@
                     }
                 },
                 {
-                    "type": "Iron Greatsword",
-                    "text": "INCOMPLETE Iron Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
+                    "type": "Splitting Greataxe",
+                    "text": "INCOMPLETE Splitting Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

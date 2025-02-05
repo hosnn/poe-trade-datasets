@@ -5499,14 +5499,6 @@
                     }
                 },
                 {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Corroded Longsword",
                     "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
@@ -5515,16 +5507,16 @@
                     }
                 },
                 {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5555,8 +5547,8 @@
                     }
                 },
                 {
-                    "type": "Executioner Greataxe",
-                    "text": "INCOMPLETE Executioner Greataxe",
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5571,6 +5563,14 @@
                     }
                 },
                 {
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Skinning Knife",
                     "text": "INCOMPLETE Skinning Knife",
                     "name": "INCOMPLETE",
@@ -5579,8 +5579,8 @@
                     }
                 },
                 {
-                    "type": "Arched Greataxe",
-                    "text": "INCOMPLETE Arched Greataxe",
+                    "type": "Executioner Greataxe",
+                    "text": "INCOMPLETE Executioner Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

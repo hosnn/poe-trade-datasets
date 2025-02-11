@@ -5571,14 +5571,6 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Executioner Greataxe",
                     "text": "INCOMPLETE Executioner Greataxe",
                     "name": "INCOMPLETE",
@@ -5605,6 +5597,14 @@
                 {
                     "type": "Bearded Axe",
                     "text": "INCOMPLETE Bearded Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

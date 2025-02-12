@@ -5483,16 +5483,16 @@
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5507,16 +5507,16 @@
                     }
                 },
                 {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Arched Greataxe",
-                    "text": "INCOMPLETE Arched Greataxe",
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5571,14 +5571,6 @@
                     }
                 },
                 {
-                    "type": "Executioner Greataxe",
-                    "text": "INCOMPLETE Executioner Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Iron Greatsword",
                     "text": "INCOMPLETE Iron Greatsword",
                     "name": "INCOMPLETE",
@@ -5613,6 +5605,14 @@
                 {
                     "type": "Splitting Greataxe",
                     "text": "INCOMPLETE Splitting Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Executioner Greataxe",
+                    "text": "INCOMPLETE Executioner Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

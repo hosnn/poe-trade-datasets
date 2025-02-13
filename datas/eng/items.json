@@ -5491,16 +5491,16 @@
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

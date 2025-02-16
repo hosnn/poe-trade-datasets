@@ -5483,16 +5483,16 @@
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
+                    "type": "Dull Hatchet",
+                    "text": "INCOMPLETE Dull Hatchet",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Dull Hatchet",
-                    "text": "INCOMPLETE Dull Hatchet",
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5509,14 +5509,6 @@
                 {
                     "type": "Arched Greataxe",
                     "text": "INCOMPLETE Arched Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5571,6 +5563,22 @@
                     }
                 },
                 {
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Iron Greatsword",
                     "text": "INCOMPLETE Iron Greatsword",
                     "name": "INCOMPLETE",
@@ -5589,14 +5597,6 @@
                 {
                     "type": "Bearded Axe",
                     "text": "INCOMPLETE Bearded Axe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

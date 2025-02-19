@@ -5571,8 +5571,8 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
+                    "type": "Executioner Greataxe",
+                    "text": "INCOMPLETE Executioner Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5603,16 +5603,16 @@
                     }
                 },
                 {
-                    "type": "Splitting Greataxe",
-                    "text": "INCOMPLETE Splitting Greataxe",
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Executioner Greataxe",
-                    "text": "INCOMPLETE Executioner Greataxe",
+                    "type": "Splitting Greataxe",
+                    "text": "INCOMPLETE Splitting Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

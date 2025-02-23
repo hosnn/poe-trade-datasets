@@ -5531,6 +5531,14 @@
                     }
                 },
                 {
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Rippled Greatsword",
                     "text": "INCOMPLETE Rippled Greatsword",
                     "name": "INCOMPLETE",
@@ -5557,14 +5565,6 @@
                 {
                     "type": "Broadsword",
                     "text": "INCOMPLETE Broadsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

@@ -5515,6 +5515,14 @@
                     }
                 },
                 {
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Chain Flail",
                     "text": "INCOMPLETE Chain Flail",
                     "name": "INCOMPLETE",
@@ -5541,14 +5549,6 @@
                 {
                     "type": "Rippled Greatsword",
                     "text": "INCOMPLETE Rippled Greatsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

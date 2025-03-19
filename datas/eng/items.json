@@ -1333,6 +1333,9 @@
                     "type": "Expert Goldcast Cuffs"
                 },
                 {
+                    "type": "Golden Visage"
+                },
+                {
                     "type": "Shabby Hood"
                 },
                 {
@@ -2134,6 +2137,14 @@
                     "type": "Elite Greathelm",
                     "text": "Deidbell Elite Greathelm",
                     "name": "Deidbell",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Golden Visage",
+                    "text": "Demigod's Virtue Golden Visage",
+                    "name": "Demigod's Virtue",
                     "flags": {
                         "unique": true
                     }

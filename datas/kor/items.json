@@ -5526,14 +5526,6 @@
                     }
                 },
                 {
-                    "type": "노파 단도",
-                    "text": "미완성 노파 단도",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "사슬 도리깨",
                     "text": "미완성 사슬 도리깨",
                     "name": "미완성",
@@ -5550,8 +5542,24 @@
                     }
                 },
                 {
+                    "type": "까맣게 탄 절단도",
+                    "text": "미완성 까맣게 탄 절단도",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "파문 대검",
                     "text": "미완성 파문 대검",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "노파 단도",
+                    "text": "미완성 노파 단도",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -5568,14 +5576,6 @@
                 {
                     "type": "넓적검",
                     "text": "미완성 넓적검",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "까맣게 탄 절단도",
-                    "text": "미완성 까맣게 탄 절단도",
                     "name": "미완성",
                     "flags": {
                         "unique": true

@@ -5526,14 +5526,6 @@
                     }
                 },
                 {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Chain Flail",
                     "text": "INCOMPLETE Chain Flail",
                     "name": "INCOMPLETE",
@@ -5550,8 +5542,24 @@
                     }
                 },
                 {
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Rippled Greatsword",
                     "text": "INCOMPLETE Rippled Greatsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5568,14 +5576,6 @@
                 {
                     "type": "Broadsword",
                     "text": "INCOMPLETE Broadsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

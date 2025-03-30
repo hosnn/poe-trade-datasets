@@ -5518,14 +5518,6 @@
                     }
                 },
                 {
-                    "type": "Charred Shortsword",
-                    "text": "INCOMPLETE Charred Shortsword",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Arched Greataxe",
                     "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
@@ -5544,6 +5536,14 @@
                 {
                     "type": "Holy Flail",
                     "text": "INCOMPLETE Holy Flail",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Charred Shortsword",
+                    "text": "INCOMPLETE Charred Shortsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

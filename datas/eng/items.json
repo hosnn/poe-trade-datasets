@@ -5606,14 +5606,6 @@
                     }
                 },
                 {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Bearded Axe",
                     "text": "INCOMPLETE Bearded Axe",
                     "name": "INCOMPLETE",
@@ -5632,6 +5624,14 @@
                 {
                     "type": "Moon Dagger",
                     "text": "INCOMPLETE Moon Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

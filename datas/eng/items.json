@@ -5502,16 +5502,16 @@
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

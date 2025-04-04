@@ -253,6 +253,10 @@
                             {
                                 "id": "currency.soulcore",
                                 "text": "Soul Core"
+                            },
+                            {
+                                "id": "currency.talisman",
+                                "text": "Talisman"
                             }
                         ]
                     }

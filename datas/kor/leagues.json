@@ -1,6 +1,16 @@
 {
     "result": [
         {
+            "id": "Dawn of the Hunt",
+            "realm": "poe2",
+            "text": "사냥의 서막"
+        },
+        {
+            "id": "HC Dawn of the Hunt",
+            "realm": "poe2",
+            "text": "HC Dawn of the Hunt"
+        },
+        {
             "id": "Standard",
             "realm": "poe2",
             "text": "스탠다드"

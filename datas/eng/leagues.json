@@ -1,6 +1,16 @@
 {
     "result": [
         {
+            "id": "Dawn of the Hunt",
+            "realm": "poe2",
+            "text": "Dawn of the Hunt"
+        },
+        {
+            "id": "HC Dawn of the Hunt",
+            "realm": "poe2",
+            "text": "HC Dawn of the Hunt"
+        },
+        {
             "id": "Standard",
             "realm": "poe2",
             "text": "Standard"

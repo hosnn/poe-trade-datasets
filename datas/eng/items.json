@@ -586,16 +586,16 @@
                     "type": "Quilted Vest"
                 },
                 {
-                    "type": "Advanced Quilted Vest"
+                    "type": "Patchwork Vest"
                 },
                 {
                     "type": "Pathfinder Coat"
                 },
                 {
-                    "type": "Advanced Pathfinder Coat"
+                    "type": "Hunting Coat"
                 },
                 {
-                    "type": "Expert Pathfinder Coat"
+                    "type": "Swiftstalker Coat"
                 },
                 {
                     "type": "Shrouded Vest"
@@ -604,76 +604,76 @@
                     "type": "Rhoahide Coat"
                 },
                 {
-                    "type": "Advanced Rhoahide Coat"
+                    "type": "Riding Coat"
                 },
                 {
                     "type": "Studded Vest"
                 },
                 {
-                    "type": "Advanced Studded Vest"
+                    "type": "Layered Vest"
                 },
                 {
-                    "type": "Expert Studded Vest"
+                    "type": "Slipstrike Vest"
                 },
                 {
                     "type": "Scout's Vest"
                 },
                 {
-                    "type": "Advanced Scout's Vest"
+                    "type": "Runner Vest"
                 },
                 {
                     "type": "Serpentscale Coat"
                 },
                 {
-                    "type": "Advanced Serpentscale Coat"
+                    "type": "Lizardscale Coat"
                 },
                 {
-                    "type": "Expert Serpentscale Coat"
+                    "type": "Wyrmscale Coat"
                 },
                 {
                     "type": "Hermit Garb"
                 },
                 {
-                    "type": "Advanced Hermit Garb"
+                    "type": "Ascetic Garb"
                 },
                 {
                     "type": "Waxed Jacket"
                 },
                 {
-                    "type": "Advanced Waxed Jacket"
+                    "type": "Oiled Jacket"
                 },
                 {
-                    "type": "Expert Waxed Jacket"
+                    "type": "Sleek Jacket"
                 },
                 {
                     "type": "Marabout Garb"
                 },
                 {
-                    "type": "Advanced Marabout Garb"
+                    "type": "Evangelist Garb"
                 },
                 {
                     "type": "Wayfarer Jacket"
                 },
                 {
-                    "type": "Advanced Wayfarer Jacket"
+                    "type": "Itinerant Jacket"
                 },
                 {
-                    "type": "Expert Wayfarer Jacket"
+                    "type": "Rambler Jacket"
                 },
                 {
                     "type": "Anchorite Garb"
                 },
                 {
-                    "type": "Advanced Anchorite Garb"
+                    "type": "Hatungo Garb"
                 },
                 {
                     "type": "Scalper's Jacket"
                 },
                 {
-                    "type": "Advanced Scalper's Jacket"
+                    "type": "Hawker's Jacket"
                 },
                 {
-                    "type": "Expert Scalper's Jacket"
+                    "type": "Falconer's Jacket"
                 },
                 {
                     "type": "Tattered Robe"
@@ -682,16 +682,16 @@
                     "type": "Feathered Robe"
                 },
                 {
-                    "type": "Advanced Feathered Robe"
+                    "type": "Avian Robe"
                 },
                 {
                     "type": "Hexer's Robe"
                 },
                 {
-                    "type": "Advanced Hexer's Robe"
+                    "type": "Cursespeaker's Robe"
                 },
                 {
-                    "type": "Expert Hexer's Robe"
+                    "type": "Vile Robe"
                 },
                 {
                     "type": "Bone Raiment"
@@ -700,31 +700,31 @@
                     "type": "Silk Robe"
                 },
                 {
-                    "type": "Advanced Silk Robe"
+                    "type": "Luxurious Robe"
                 },
                 {
                     "type": "Keth Raiment"
                 },
                 {
-                    "type": "Advanced Keth Raiment"
+                    "type": "River Raiment"
                 },
                 {
-                    "type": "Expert Keth Raiment"
+                    "type": "Flowing Raiment"
                 },
                 {
                     "type": "Votive Raiment"
                 },
                 {
-                    "type": "Advanced Votive Raiment"
+                    "type": "Adherent's Raiment"
                 },
                 {
                     "type": "Altar Robe"
                 },
                 {
-                    "type": "Advanced Altar Robe"
+                    "type": "Ceremonial Robe"
                 },
                 {
-                    "type": "Expert Altar Robe"
+                    "type": "Sacramental Robe"
                 },
                 {
                     "type": "Rusted Cuirass"
@@ -739,16 +739,16 @@
                     "type": "Fur Plate"
                 },
                 {
-                    "type": "Advanced Fur Plate"
+                    "type": "Barbarian Plate"
                 },
                 {
                     "type": "Iron Cuirass"
                 },
                 {
-                    "type": "Advanced Iron Cuirass"
+                    "type": "Rugged Cuirass"
                 },
                 {
-                    "type": "Expert Iron Cuirass"
+                    "type": "Soldier Cuirass"
                 },
                 {
                     "type": "Raider Plate"
@@ -757,76 +757,76 @@
                     "type": "Maraketh Cuirass"
                 },
                 {
-                    "type": "Advanced Maraketh Cuirass"
+                    "type": "Sandsworn Cuirass"
                 },
                 {
                     "type": "Steel Plate"
                 },
                 {
-                    "type": "Advanced Steel Plate"
+                    "type": "Elegant Plate"
                 },
                 {
-                    "type": "Expert Steel Plate"
+                    "type": "Ornate Plate"
                 },
                 {
                     "type": "Full Plate"
                 },
                 {
-                    "type": "Advanced Full Plate"
+                    "type": "Heavy Plate"
                 },
                 {
                     "type": "Vaal Cuirass"
                 },
                 {
-                    "type": "Advanced Vaal Cuirass"
+                    "type": "Stone Cuirass"
                 },
                 {
-                    "type": "Expert Vaal Cuirass"
+                    "type": "Utzaal Cuirass"
                 },
                 {
                     "type": "Chain Mail"
                 },
                 {
-                    "type": "Advanced Chain Mail"
+                    "type": "Ring Mail"
                 },
                 {
                     "type": "Rogue Armour"
                 },
                 {
-                    "type": "Advanced Rogue Armour"
+                    "type": "Scoundrel Armour"
                 },
                 {
-                    "type": "Expert Rogue Armour"
+                    "type": "Dastard Armour"
                 },
                 {
                     "type": "Vagabond Armour"
                 },
                 {
-                    "type": "Advanced Vagabond Armour"
+                    "type": "Wanderer Armour"
                 },
                 {
                     "type": "Cloaked Mail"
                 },
                 {
-                    "type": "Expert Cloaked Mail"
+                    "type": "Shrouded Mail"
                 },
                 {
-                    "type": "Advanced Cloaked Mail"
+                    "type": "Mantled Mail"
                 },
                 {
                     "type": "Explorer Armour"
                 },
                 {
-                    "type": "Advanced Explorer Armour"
+                    "type": "Trailblazer Armour"
                 },
                 {
                     "type": "Scale Mail"
                 },
                 {
-                    "type": "Advanced Scale Mail"
+                    "type": "Golden Mail"
                 },
                 {
-                    "type": "Expert Scale Mail"
+                    "type": "Death Mail"
                 },
                 {
                     "type": "Knight Armour"
@@ -841,46 +841,46 @@
                     "type": "Pilgrim Vestments"
                 },
                 {
-                    "type": "Advanced Pilgrim Vestments"
+                    "type": "Templar Vestments"
                 },
                 {
                     "type": "Pelt Mantle"
                 },
                 {
-                    "type": "Advanced Pelt Mantle"
+                    "type": "Bearskin Mantle"
                 },
                 {
-                    "type": "Expert Pelt Mantle"
+                    "type": "Wolfskin Mantle"
                 },
                 {
                     "type": "Mail Vestments"
                 },
                 {
-                    "type": "Advanced Mail Vestments"
+                    "type": "Chain Vestments"
                 },
                 {
                     "type": "Shaman Mantle"
                 },
                 {
-                    "type": "Advanced Shaman Mantle"
+                    "type": "Occultist Mantle"
                 },
                 {
-                    "type": "Expert Shaman Mantle"
+                    "type": "Conjurer Mantle"
                 },
                 {
                     "type": "Ironclad Vestments"
                 },
                 {
-                    "type": "Advanced Ironclad Vestments"
+                    "type": "Plated Vestments"
                 },
                 {
                     "type": "Sacrificial Mantle"
                 },
                 {
-                    "type": "Advanced Sacrificial Mantle"
+                    "type": "Heartcarver Mantle"
                 },
                 {
-                    "type": "Expert Sacrificial Mantle"
+                    "type": "Death Mantle"
                 },
                 {
                     "type": "Gilded Vestments"
@@ -892,61 +892,61 @@
                     "type": "Laced Boots"
                 },
                 {
-                    "type": "Advanced Laced Boots"
+                    "type": "Bound Boots"
                 },
                 {
-                    "type": "Expert Laced Boots"
+                    "type": "Cinched Boots"
                 },
                 {
                     "type": "Embossed Boots"
                 },
                 {
-                    "type": "Advanced Embossed Boots"
+                    "type": "Sleek Boots"
                 },
                 {
                     "type": "Steeltoe Boots"
                 },
                 {
-                    "type": "Advanced Steeltoe Boots"
+                    "type": "Studded Boots"
                 },
                 {
-                    "type": "Expert Steeltoe Boots"
+                    "type": "Cavalry Boots"
                 },
                 {
                     "type": "Lizardscale Boots"
                 },
                 {
-                    "type": "Advanced Lizardscale Boots"
+                    "type": "Serpentscale Boots"
                 },
                 {
-                    "type": "Expert Lizardscale Boots"
+                    "type": "Dragonscale Boots"
                 },
                 {
                     "type": "Frayed Shoes"
                 },
                 {
-                    "type": "Advanced Frayed Shoes"
+                    "type": "Wayfarer Shoes"
                 },
                 {
-                    "type": "Expert Frayed Shoes"
+                    "type": "Wanderer Shoes"
                 },
                 {
                     "type": "Threaded Shoes"
                 },
                 {
-                    "type": "Advanced Threaded Shoes"
+                    "type": "Silverbuckled Shoes"
                 },
                 {
-                    "type": "Expert Threaded Shoes"
+                    "type": "Charmed Shoes"
                 },
                 {
                     "type": "Hunting Shoes"
                 },
                 {
-                    "type": "Advanced Hunting Shoes"
+                    "type": "Treerunner Shoes"
                 },
                 {
-                    "type": "Expert Hunting Shoes"
+                    "type": "Quickslip Shoes"
                 },
                 {
                     "type": "Velour Shoes"
@@ -958,34 +958,34 @@
                     "type": "Wrapped Sandals"
                 },
                 {
-                    "type": "Advanced Wrapped Sandals"
+                    "type": "Laced Sandals"
                 },
                 {
-                    "type": "Expert Wrapped Sandals"
+                    "type": "Bound Sandals"
                 },
                 {
                     "type": "Lattice Sandals"
                 },
                 {
-                    "type": "Advanced Lattice Sandals"
+                    "type": "Bangled Sandals"
                 },
                 {
                     "type": "Silk Slippers"
                 },
                 {
-                    "type": "Advanced Silk Slippers"
+                    "type": "Elegant Slippers"
                 },
                 {
-                    "type": "Expert Silk Slippers"
+                    "type": "Luxurious Slippers"
                 },
                 {
                     "type": "Feathered Sandals"
                 },
                 {
-                    "type": "Advanced Feathered Sandals"
+                    "type": "Dunerunner Sandals"
                 },
                 {
-                    "type": "Expert Feathered Sandals"
+                    "type": "Sandsworn Sandals"
                 },
                 {
                     "type": "Rough Greaves"
@@ -994,61 +994,61 @@
                     "type": "Iron Greaves"
                 },
                 {
-                    "type": "Advanced Iron Greaves"
+                    "type": "Plated Greaves"
                 },
                 {
-                    "type": "Expert Iron Greaves"
+                    "type": "Bulwark Greaves"
                 },
                 {
                     "type": "Bronze Greaves"
                 },
                 {
-                    "type": "Advanced Bronze Greaves"
+                    "type": "Lionheart Greaves"
                 },
                 {
                     "type": "Trimmed Greaves"
                 },
                 {
-                    "type": "Advanced Trimmed Greaves"
+                    "type": "Elegant Greaves"
                 },
                 {
-                    "type": "Expert Trimmed Greaves"
+                    "type": "Ornate Greaves"
                 },
                 {
                     "type": "Stone Greaves"
                 },
                 {
-                    "type": "Advanced Stone Greaves"
+                    "type": "Carved Greaves"
                 },
                 {
-                    "type": "Expert Stone Greaves"
+                    "type": "Vaal Greaves"
                 },
                 {
                     "type": "Mail Sabatons"
                 },
                 {
-                    "type": "Advanced Mail Sabatons"
+                    "type": "Soldiering Sabatons"
                 },
                 {
-                    "type": "Expert Mail Sabatons"
+                    "type": "Veteran Sabatons"
                 },
                 {
                     "type": "Braced Sabatons"
                 },
                 {
-                    "type": "Advanced Braced Sabatons"
+                    "type": "Goldwork Sabatons"
                 },
                 {
-                    "type": "Expert Braced Sabatons"
+                    "type": "Noble Sabatons"
                 },
                 {
                     "type": "Stacked Sabatons"
                 },
                 {
-                    "type": "Advanced Stacked Sabatons"
+                    "type": "Bastion Sabatons"
                 },
                 {
-                    "type": "Expert Stacked Sabatons"
+                    "type": "Fortress Sabatons"
                 },
                 {
                     "type": "Grand Cuisses"
@@ -1057,28 +1057,28 @@
                     "type": "Padded Leggings"
                 },
                 {
-                    "type": "Advanced Padded Leggings"
+                    "type": "Adherent Leggings"
                 },
                 {
-                    "type": "Expert Padded Leggings"
+                    "type": "Faithful Leggings"
                 },
                 {
                     "type": "Secured Leggings"
                 },
                 {
-                    "type": "Advanced Secured Leggings"
+                    "type": "Bound Leggings"
                 },
                 {
-                    "type": "Expert Secured Leggings"
+                    "type": "Apostle Leggings"
                 },
                 {
                     "type": "Pelt Leggings"
                 },
                 {
-                    "type": "Advanced Pelt Leggings"
+                    "type": "Shamanistic Leggings"
                 },
                 {
-                    "type": "Expert Pelt Leggings"
+                    "type": "Warlock Leggings"
                 },
                 {
                     "type": "Twig Focus"
@@ -1087,16 +1087,16 @@
                     "type": "Woven Focus"
                 },
                 {
-                    "type": "Advanced Woven Focus"
+                    "type": "Wreath Focus"
                 },
                 {
                     "type": "Antler Focus"
                 },
                 {
-                    "type": "Advanced Antler Focus"
+                    "type": "Staghorn Focus"
                 },
                 {
-                    "type": "Expert Antler Focus"
+                    "type": "Druidic Focus"
                 },
                 {
                     "type": "Engraved Focus"
@@ -1105,31 +1105,31 @@
                     "type": "Tonal Focus"
                 },
                 {
-                    "type": "Advanced Tonal Focus"
+                    "type": "Jingling Focus"
                 },
                 {
                     "type": "Crystal Focus"
                 },
                 {
-                    "type": "Advanced Crystal Focus"
+                    "type": "Arrayed Focus"
                 },
                 {
-                    "type": "Expert Crystal Focus"
+                    "type": "Leyline Focus"
                 },
                 {
                     "type": "Voodoo Focus"
                 },
                 {
-                    "type": "Advanced Voodoo Focus"
+                    "type": "Cultist Focus"
                 },
                 {
                     "type": "Plumed Focus"
                 },
                 {
-                    "type": "Advanced Plumed Focus"
+                    "type": "Hallowed Focus"
                 },
                 {
-                    "type": "Expert Plumed Focus"
+                    "type": "Sacred Focus"
                 },
                 {
                     "type": "Suede Bracers"
@@ -1138,34 +1138,34 @@
                     "type": "Firm Bracers"
                 },
                 {
-                    "type": "Advanced Firm Bracers"
+                    "type": "Hunting Bracers"
                 },
                 {
-                    "type": "Expert Firm Bracers"
+                    "type": "Stalking Bracers"
                 },
                 {
                     "type": "Bound Bracers"
                 },
                 {
-                    "type": "Advanced Bound Bracers"
+                    "type": "Swift Bracers"
                 },
                 {
                     "type": "Sectioned Bracers"
                 },
                 {
-                    "type": "Advanced Sectioned Bracers"
+                    "type": "Refined Bracers"
                 },
                 {
-                    "type": "Expert Sectioned Bracers"
+                    "type": "Grand Bracers"
                 },
                 {
                     "type": "Spined Bracers"
                 },
                 {
-                    "type": "Advanced Spined Bracers"
+                    "type": "Spiked Bracers"
                 },
                 {
-                    "type": "Expert Spined Bracers"
+                    "type": "Barbed Bracers"
                 },
                 {
                     "type": "Fine Bracers"
@@ -1174,28 +1174,28 @@
                     "type": "Gauze Wraps"
                 },
                 {
-                    "type": "Advanced Gauze Wraps"
+                    "type": "Bandage Wraps"
                 },
                 {
-                    "type": "Expert Gauze Wraps"
+                    "type": "War Wraps"
                 },
                 {
                     "type": "Linen Wraps"
                 },
                 {
-                    "type": "Advanced Linen Wraps"
+                    "type": "Cambric Wraps"
                 },
                 {
-                    "type": "Expert Linen Wraps"
+                    "type": "Elegant Wraps"
                 },
                 {
                     "type": "Spiral Wraps"
                 },
                 {
-                    "type": "Advanced Spiral Wraps"
+                    "type": "Adorned Wraps"
                 },
                 {
-                    "type": "Expert Spiral Wraps"
+                    "type": "Vaal Wraps"
                 },
                 {
                     "type": "Furtive Wraps"
@@ -1207,34 +1207,34 @@
                     "type": "Sombre Gloves"
                 },
                 {
-                    "type": "Advanced Sombre Gloves"
+                    "type": "Ominous Gloves"
                 },
                 {
-                    "type": "Expert Sombre Gloves"
+                    "type": "Grim Gloves"
                 },
                 {
                     "type": "Stitched Gloves"
                 },
                 {
-                    "type": "Advanced Stitched Gloves"
+                    "type": "Embroidered Gloves"
                 },
                 {
                     "type": "Jewelled Gloves"
                 },
                 {
-                    "type": "Advanced Jewelled Gloves"
+                    "type": "Baroque Gloves"
                 },
                 {
-                    "type": "Expert Jewelled Gloves"
+                    "type": "Opulent Gloves"
                 },
                 {
                     "type": "Intricate Gloves"
                 },
                 {
-                    "type": "Advanced Intricate Gloves"
+                    "type": "Gold Gloves"
                 },
                 {
-                    "type": "Expert Intricate Gloves"
+                    "type": "Vaal Gloves"
                 },
                 {
                     "type": "Stocky Mitts"
@@ -1243,61 +1243,61 @@
                     "type": "Riveted Mitts"
                 },
                 {
-                    "type": "Advanced Riveted Mitts"
+                    "type": "Plated Mitts"
                 },
                 {
-                    "type": "Expert Riveted Mitts"
+                    "type": "Knightly Mitts"
                 },
                 {
                     "type": "Tempered Mitts"
                 },
                 {
-                    "type": "Advanced Tempered Mitts"
+                    "type": "Elegant Mitts"
                 },
                 {
                     "type": "Bolstered Mitts"
                 },
                 {
-                    "type": "Advanced Bolstered Mitts"
+                    "type": "Ancient Mitts"
                 },
                 {
-                    "type": "Expert Bolstered Mitts"
+                    "type": "Ornate Mitts"
                 },
                 {
                     "type": "Moulded Mitts"
                 },
                 {
-                    "type": "Advanced Moulded Mitts"
+                    "type": "Feathered Mitts"
                 },
                 {
-                    "type": "Expert Moulded Mitts"
+                    "type": "Vaal Mitts"
                 },
                 {
                     "type": "Ringmail Gauntlets"
                 },
                 {
-                    "type": "Advanced Ringmail Gauntlets"
+                    "type": "Ironmail Gauntlets"
                 },
                 {
-                    "type": "Expert Ringmail Gauntlets"
+                    "type": "Steelmail Gauntlets"
                 },
                 {
                     "type": "Layered Gauntlets"
                 },
                 {
-                    "type": "Advanced Layered Gauntlets"
+                    "type": "Captain Gauntlets"
                 },
                 {
-                    "type": "Expert Layered Gauntlets"
+                    "type": "Commander Gauntlets"
                 },
                 {
                     "type": "Doubled Gauntlets"
                 },
                 {
-                    "type": "Advanced Doubled Gauntlets"
+                    "type": "Zealot Gauntlets"
                 },
                 {
-                    "type": "Expert Doubled Gauntlets"
+                    "type": "Cultist Gauntlets"
                 },
                 {
                     "type": "Burnished Gauntlets"
@@ -1309,28 +1309,28 @@
                     "type": "Rope Cuffs"
                 },
                 {
-                    "type": "Advanced Rope Cuffs"
+                    "type": "Braided Cuffs"
                 },
                 {
-                    "type": "Expert Rope Cuffs"
+                    "type": "Bound Cuffs"
                 },
                 {
                     "type": "Aged Cuffs"
                 },
                 {
-                    "type": "Advanced Aged Cuffs"
+                    "type": "Heirloom Cuffs"
                 },
                 {
-                    "type": "Expert Aged Cuffs"
+                    "type": "Ancient Cuffs"
                 },
                 {
                     "type": "Goldcast Cuffs"
                 },
                 {
-                    "type": "Advanced Goldcast Cuffs"
+                    "type": "Ornate Cuffs"
                 },
                 {
-                    "type": "Expert Goldcast Cuffs"
+                    "type": "Gleaming Cuffs"
                 },
                 {
                     "type": "Golden Visage"
@@ -1345,40 +1345,40 @@
                     "type": "Armoured Cap"
                 },
                 {
-                    "type": "Advanced Shabby Hood"
+                    "type": "Rotted Hood"
                 },
                 {
                     "type": "Felt Cap"
                 },
                 {
-                    "type": "Advanced Felt Cap"
+                    "type": "Wool Cap"
                 },
                 {
-                    "type": "Expert Felt Cap"
+                    "type": "Woven Cap"
                 },
                 {
                     "type": "Lace Hood"
                 },
                 {
-                    "type": "Advanced Lace Hood"
+                    "type": "Narrow Hood"
                 },
                 {
                     "type": "Swathed Cap"
                 },
                 {
-                    "type": "Advanced Swathed Cap"
+                    "type": "Wrapped Cap"
                 },
                 {
-                    "type": "Expert Swathed Cap"
+                    "type": "Desert Cap"
                 },
                 {
                     "type": "Hunter Hood"
                 },
                 {
-                    "type": "Advanced Hunter Hood"
+                    "type": "Deerstalker Hood"
                 },
                 {
-                    "type": "Expert Hunter Hood"
+                    "type": "Trapper Hood"
                 },
                 {
                     "type": "Viper Cap"
@@ -1387,40 +1387,40 @@
                     "type": "Hewn Mask"
                 },
                 {
-                    "type": "Advanced Hewn Mask"
+                    "type": "Oak Mask"
                 },
                 {
                     "type": "Face Mask"
                 },
                 {
-                    "type": "Advanced Face Mask"
+                    "type": "Bandit Mask"
                 },
                 {
-                    "type": "Expert Face Mask"
+                    "type": "Brigand Mask"
                 },
                 {
                     "type": "Hooded Mask"
                 },
                 {
-                    "type": "Advanced Hooded Mask"
+                    "type": "Skulking Mask"
                 },
                 {
                     "type": "Veiled Mask"
                 },
                 {
-                    "type": "Advanced Veiled Mask"
+                    "type": "Pariah Mask"
                 },
                 {
-                    "type": "Expert Veiled Mask"
+                    "type": "Faridun Mask"
                 },
                 {
                     "type": "Tribal Mask"
                 },
                 {
-                    "type": "Advanced Tribal Mask"
+                    "type": "Avian Mask"
                 },
                 {
-                    "type": "Expert Tribal Mask"
+                    "type": "Soaring Mask"
                 },
                 {
                     "type": "Solid Mask"
@@ -1429,82 +1429,88 @@
                     "type": "Twig Circlet"
                 },
                 {
-                    "type": "Advanced Twig Circlet"
+                    "type": "Druidic Circlet"
                 },
                 {
                     "type": "Wicker Tiara"
                 },
                 {
-                    "type": "Advanced Wicker Tiara"
+                    "type": "Avian Tiara"
                 },
                 {
-                    "type": "Expert Wicker Tiara"
+                    "type": "Skycrown Tiara"
                 },
                 {
                     "type": "Beaded Circlet"
                 },
                 {
-                    "type": "Advanced Beaded Circlet"
+                    "type": "Desert Circlet"
                 },
                 {
                     "type": "Chain Tiara"
                 },
                 {
-                    "type": "Advanced Chain Tiara"
+                    "type": "Sandsworn Tiara"
                 },
                 {
-                    "type": "Expert Chain Tiara"
+                    "type": "Sorcerous Tiara"
                 },
                 {
                     "type": "Feathered Tiara"
                 },
                 {
-                    "type": "Advanced Feathered Tiara"
+                    "type": "Jungle Tiara"
                 },
                 {
-                    "type": "Expert Feathered Tiara"
+                    "type": "Kamasan Tiara"
                 },
                 {
                     "type": "Gold Circlet"
                 },
                 {
+                    "type": "Coral Circlet"
+                },
+                {
+                    "type": "Jade Tiara"
+                },
+                {
                     "type": "Rusted Greathelm"
                 },
                 {
-                    "type": "Advanced Rusted Greathelm"
+                    "type": "Corroded Greathelm"
                 },
                 {
                     "type": "Soldier Greathelm"
                 },
                 {
-                    "type": "Advanced Soldier Greathelm"
+                    "type": "Mercenary Greathelm"
                 },
                 {
-                    "type": "Expert Soldier Greathelm"
+                    "type": "Warmonger Greathelm"
                 },
                 {
                     "type": "Wrapped Greathelm"
                 },
                 {
-                    "type": "Advanced Wrapped Greathelm"
+                    "type": "Homeguard Greathelm"
                 },
                 {
                     "type": "Spired Greathelm"
                 },
                 {
-                    "type": "Advanced Spired Greathelm"
+                    "type": "Elegant Greathelm"
                 },
                 {
-                    "type": "Expert Spired Greathelm"
+                    "type": "Masked Greathelm"
                 },
                 {
                     "type": "Elite Greathelm"
                 },
                 {
-                    "type": "Advanced Elite Greathelm"
+                    "type": "Noble Greathelm"
                 },
                 {
-                    "type": "Expert Elite Greathelm"
+                    "type": "Paragon Greathelm"
                 },
                 {
                     "type": "Warrior Greathelm"
@@ -1513,40 +1519,40 @@
                     "type": "Brimmed Helm"
                 },
                 {
-                    "type": "Advanced Brimmed Helm"
+                    "type": "Domed Helm"
                 },
                 {
                     "type": "Guarded Helm"
                 },
                 {
-                    "type": "Advanced Guarded Helm"
+                    "type": "Engraved Helm"
                 },
                 {
-                    "type": "Expert Guarded Helm"
+                    "type": "Warded Helm"
                 },
                 {
                     "type": "Visored Helm"
                 },
                 {
-                    "type": "Advanced Visored Helm"
+                    "type": "Soldier Helm"
                 },
                 {
                     "type": "Cowled Helm"
                 },
                 {
-                    "type": "Advanced Cowled Helm"
+                    "type": "Cabalist Helm"
                 },
                 {
-                    "type": "Expert Cowled Helm"
+                    "type": "Cryptic Helm"
                 },
                 {
                     "type": "Shielded Helm"
                 },
                 {
-                    "type": "Advanced Shielded Helm"
+                    "type": "Gladiatoral Helm"
                 },
                 {
-                    "type": "Expert Shielded Helm"
+                    "type": "Champion Helm"
                 },
                 {
                     "type": "Closed Helm"
@@ -1558,43 +1564,58 @@
                     "type": "Iron Crown"
                 },
                 {
-                    "type": "Advanced Iron Crown"
+                    "type": "Mailed Crown"
                 },
                 {
                     "type": "Horned Crown"
                 },
                 {
-                    "type": "Advanced Horned Crown"
+                    "type": "Forest Crown"
                 },
                 {
-                    "type": "Expert Horned Crown"
+                    "type": "Druidic Crown"
                 },
                 {
                     "type": "Cultist Crown"
                 },
                 {
-                    "type": "Advanced Cultist Crown"
+                    "type": "Zealot Crown"
                 },
                 {
                     "type": "Martyr Crown"
                 },
                 {
-                    "type": "Advanced Martyr Crown"
+                    "type": "Hallowed Crown"
                 },
                 {
-                    "type": "Expert Martyr Crown"
+                    "type": "Saintly Crown"
                 },
                 {
                     "type": "Heavy Crown"
                 },
                 {
-                    "type": "Advanced Heavy Crown"
+                    "type": "Inquisitor Crown"
                 },
                 {
-                    "type": "Expert Heavy Crown"
+                    "type": "Divine Crown"
                 },
                 {
                     "type": "Spiritbone Crown"
+                },
+                {
+                    "type": "Leather Buckler"
+                },
+                {
+                    "type": "Wooden Buckler"
+                },
+                {
+                    "type": "Spiked Buckler"
+                },
+                {
+                    "type": "Gutspike Buckler"
+                },
+                {
+                    "type": "Edged Buckler"
                 },
                 {
                     "type": "Splintered Tower Shield"
@@ -1603,16 +1624,16 @@
                     "type": "Painted Tower Shield"
                 },
                 {
-                    "type": "Advanced Painted Tower Shield"
+                    "type": "Aged Tower Shield"
                 },
                 {
                     "type": "Braced Tower Shield"
                 },
                 {
-                    "type": "Advanced Braced Tower Shield"
+                    "type": "Metalworked Tower Shield"
                 },
                 {
-                    "type": "Expert Braced Tower Shield"
+                    "type": "Royal Tower Shield"
                 },
                 {
                     "type": "Barricade Tower Shield"
@@ -1621,31 +1642,31 @@
                     "type": "Effigial Tower Shield"
                 },
                 {
-                    "type": "Advanced Effigial Tower Shield"
+                    "type": "Cultist Tower Shield"
                 },
                 {
                     "type": "Rampart Tower Shield"
                 },
                 {
-                    "type": "Advanced Rampart Tower Shield"
+                    "type": "Bulwark Tower Shield"
                 },
                 {
-                    "type": "Expert Rampart Tower Shield"
+                    "type": "Fortress Tower Shield"
                 },
                 {
                     "type": "Heraldric Tower Shield"
                 },
                 {
-                    "type": "Advanced Heraldric Tower Shield"
+                    "type": "Noble Tower Shield"
                 },
                 {
                     "type": "Stone Tower Shield"
                 },
                 {
-                    "type": "Advanced Stone Tower Shield"
+                    "type": "Goldworked Tower Shield"
                 },
                 {
-                    "type": "Expert Stone Tower Shield"
+                    "type": "Vaal Tower Shield"
                 },
                 {
                     "type": "Crucible Tower Shield"
@@ -1654,91 +1675,91 @@
                     "type": "Hardwood Targe"
                 },
                 {
-                    "type": "Advanced Hardwood Targe"
+                    "type": "Ironwood Targe"
                 },
                 {
                     "type": "Pelage Targe"
                 },
                 {
-                    "type": "Advanced Pelage Targe"
+                    "type": "Fur-lined Targe"
                 },
                 {
-                    "type": "Expert Pelage Targe"
+                    "type": "Mammoth Targe"
                 },
                 {
                     "type": "Studded Targe"
                 },
                 {
-                    "type": "Advanced Studded Targe"
+                    "type": "Mercenary Targe"
                 },
                 {
                     "type": "Crescent Targe"
                 },
                 {
-                    "type": "Advanced Crescent Targe"
+                    "type": "Polished Targe"
                 },
                 {
-                    "type": "Expert Crescent Targe"
+                    "type": "Baroque Targe"
                 },
                 {
                     "type": "Chiseled Targe"
                 },
                 {
-                    "type": "Advanced Chiseled Targe"
+                    "type": "Stone Targe"
                 },
                 {
                     "type": "Feathered Targe"
                 },
                 {
-                    "type": "Advanced Feathered Targe"
+                    "type": "Avian Targe"
                 },
                 {
-                    "type": "Expert Feathered Targe"
+                    "type": "Soaring Targe"
                 },
                 {
                     "type": "Blazon Crest Shield"
                 },
                 {
-                    "type": "Advanced Blazon Crest Shield"
+                    "type": "Painted Crest Shield"
                 },
                 {
                     "type": "Sigil Crest Shield"
                 },
                 {
-                    "type": "Advanced Sigil Crest Shield"
+                    "type": "Engraved Crest Shield"
                 },
                 {
-                    "type": "Expert Sigil Crest Shield"
+                    "type": "Intricate Crest Shield"
                 },
                 {
                     "type": "Emblem Crest Shield"
                 },
                 {
-                    "type": "Advanced Emblem Crest Shield"
+                    "type": "Descry Crest Shield"
                 },
                 {
                     "type": "Jingling Crest Shield"
                 },
                 {
-                    "type": "Advanced Jingling Crest Shield"
+                    "type": "Dekharan Crest Shield"
                 },
                 {
-                    "type": "Expert Jingling Crest Shield"
+                    "type": "Sekheman Crest Shield"
                 },
                 {
                     "type": "Sectarian Crest Shield"
                 },
                 {
-                    "type": "Advanced Sectarian Crest Shield"
+                    "type": "Quartered Crest Shield"
                 },
                 {
                     "type": "Omen Crest Shield"
                 },
                 {
-                    "type": "Advanced Omen Crest Shield"
+                    "type": "Glowering Crest Shield"
                 },
                 {
-                    "type": "Expert Omen Crest Shield"
+                    "type": "Vaal Crest Shield"
                 },
                 {
                     "type": "Broadhead Quiver"
@@ -2086,6 +2107,14 @@
                     }
                 },
                 {
+                    "type": "Coral Circlet",
+                    "text": "Crown of Eyes Coral Circlet",
+                    "name": "Crown of Eyes",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Cultist Crown",
                     "text": "Crown of the Pale King Cultist Crown",
                     "name": "Crown of the Pale King",
@@ -2185,6 +2214,22 @@
                     "type": "Scale Mail",
                     "text": "Doryani's Prototype Scale Mail",
                     "name": "Doryani's Prototype",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Bolstered Mitts",
+                    "text": "Dreadfist Bolstered Mitts",
+                    "name": "Dreadfist",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Leather Buckler",
+                    "text": "Dunkelhalt Leather Buckler",
+                    "name": "Dunkelhalt",
                     "flags": {
                         "unique": true
                     }
@@ -2566,6 +2611,14 @@
                     }
                 },
                 {
+                    "type": "Wooden Buckler",
+                    "text": "Nocturne Wooden Buckler",
+                    "name": "Nocturne",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Suede Bracers",
                     "text": "Northpaw Suede Bracers",
                     "name": "Northpaw",
@@ -2702,6 +2755,14 @@
                     }
                 },
                 {
+                    "type": "Jade Tiara",
+                    "text": "Scold's Bridle Jade Tiara",
+                    "name": "Scold's Bridle",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Tonal Focus",
                     "text": "Serpent's Lesson Tonal Focus",
                     "name": "Serpent's Lesson",
@@ -2721,6 +2782,14 @@
                     "type": "Marabout Garb",
                     "text": "Sierran Inheritance Marabout Garb",
                     "name": "Sierran Inheritance",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Spiked Buckler",
+                    "text": "Silverthorne Spiked Buckler",
+                    "name": "Silverthorne",
                     "flags": {
                         "unique": true
                     }
@@ -3351,31 +3420,79 @@
                     "type": "Vision Rune"
                 },
                 {
+                    "type": "Lesser Vision Rune"
+                },
+                {
                     "type": "Glacial Rune"
+                },
+                {
+                    "type": "Lesser Glacial Rune"
                 },
                 {
                     "type": "Iron Rune"
                 },
                 {
+                    "type": "Greater Iron Rune"
+                },
+                {
+                    "type": "Lesser Iron Rune"
+                },
+                {
                     "type": "Desert Rune"
+                },
+                {
+                    "type": "Greater Desert Rune"
+                },
+                {
+                    "type": "Lesser Desert Rune"
                 },
                 {
                     "type": "Body Rune"
                 },
                 {
+                    "type": "Greater Body Rune"
+                },
+                {
+                    "type": "Lesser Body Rune"
+                },
+                {
                     "type": "Rebirth Rune"
+                },
+                {
+                    "type": "Greater Rebirth Rune"
+                },
+                {
+                    "type": "Lesser Rebirth Rune"
                 },
                 {
                     "type": "Storm Rune"
                 },
                 {
+                    "type": "Greater Storm Rune"
+                },
+                {
+                    "type": "Lesser Storm Rune"
+                },
+                {
                     "type": "Mind Rune"
+                },
+                {
+                    "type": "Greater Mind Rune"
                 },
                 {
                     "type": "Inspiration Rune"
                 },
                 {
+                    "type": "Greater Inspiration Rune"
+                },
+                {
+                    "type": "Lesser Inspiration Rune"
+                },
+                {
                     "type": "Stone Rune"
+                },
+                {
+                    "type": "Lesser Stone Rune"
                 },
                 {
                     "type": "Soul Core of Opiloti"
@@ -3421,6 +3538,9 @@
                 },
                 {
                     "type": "Soul Core of Atmohua"
+                },
+                {
+                    "type": "Serpent Talisman"
                 }
             ]
         },
@@ -3519,9 +3639,25 @@
                     "type": "Ultimate Mana Flask"
                 },
                 {
+                    "type": "Sapphire Charm",
+                    "text": "Breath of the Mountains Sapphire Charm",
+                    "name": "Breath of the Mountains",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Ultimate Mana Flask",
                     "text": "Melting Maelstrom Ultimate Mana Flask",
                     "name": "Melting Maelstrom",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Ruby Charm",
+                    "text": "Ngamahu's Chosen Ruby Charm",
+                    "name": "Ngamahu's Chosen",
                     "flags": {
                         "unique": true
                     }
@@ -3607,6 +3743,9 @@
                     "type": "Explosive Shot"
                 },
                 {
+                    "type": "Explosive Spear"
+                },
+                {
                     "type": "Fireball"
                 },
                 {
@@ -3650,6 +3789,9 @@
                 },
                 {
                     "type": "Hand of Chayula"
+                },
+                {
+                    "type": "Herald of Blood"
                 },
                 {
                     "type": "Herald of Plague"
@@ -3775,6 +3917,9 @@
                     "type": "Toxic Growth"
                 },
                 {
+                    "type": "Twister"
+                },
+                {
                     "type": "Unearth"
                 },
                 {
@@ -3823,6 +3968,9 @@
                     "type": "Barrier Invocation"
                 },
                 {
+                    "type": "Bind Spectre"
+                },
+                {
                     "type": "Blasphemy"
                 },
                 {
@@ -3866,6 +4014,9 @@
                 },
                 {
                     "type": "Detonate Dead"
+                },
+                {
+                    "type": "Disengage"
                 },
                 {
                     "type": "Earthquake"
@@ -4024,9 +4175,6 @@
                     "type": "Skeletal Storm Mage"
                 },
                 {
-                    "type": "Skeletal Warrior"
-                },
-                {
                     "type": "Sniper's Mark"
                 },
                 {
@@ -4067,6 +4215,9 @@
                 },
                 {
                     "type": "Whirling Assault"
+                },
+                {
+                    "type": "Whirling Slash"
                 },
                 {
                     "type": "Wind Blast"
@@ -4496,6 +4647,9 @@
                 },
                 {
                     "type": "Ablation"
+                },
+                {
+                    "type": "Ambrosia"
                 },
                 {
                     "type": "Ammo Conservation"
@@ -4971,19 +5125,19 @@
                     "type": "Smithing Hammer"
                 },
                 {
-                    "type": "Advanced Smithing Hammer"
+                    "type": "Calescent Hammer"
                 },
                 {
-                    "type": "Expert Smithing Hammer"
+                    "type": "Molten Hammer"
                 },
                 {
                     "type": "Slim Mace"
                 },
                 {
-                    "type": "Advanced Slim Mace"
+                    "type": "Flared Mace"
                 },
                 {
-                    "type": "Expert Slim Mace"
+                    "type": "Flanged Mace"
                 },
                 {
                     "type": "Spiked Club"
@@ -4992,46 +5146,58 @@
                     "type": "Warpick"
                 },
                 {
-                    "type": "Advanced Warpick"
+                    "type": "Battle Pick"
                 },
                 {
-                    "type": "Expert Warpick"
+                    "type": "Strife Pick"
                 },
                 {
                     "type": "Plated Mace"
                 },
                 {
-                    "type": "Advanced Plated Mace"
+                    "type": "Marching Mace"
                 },
                 {
-                    "type": "Expert Plated Mace"
+                    "type": "Crown Mace"
                 },
                 {
                     "type": "Brigand Mace"
                 },
                 {
-                    "type": "Advanced Brigand Mace"
+                    "type": "Bandit Mace"
                 },
                 {
-                    "type": "Expert Brigand Mace"
+                    "type": "Marauding Mace"
                 },
                 {
                     "type": "Construct Hammer"
                 },
                 {
-                    "type": "Advanced Construct Hammer"
+                    "type": "Structured Hammer"
                 },
                 {
-                    "type": "Expert Construct Hammer"
+                    "type": "Fortified Hammer"
                 },
                 {
                     "type": "Hardwood Spear"
                 },
                 {
+                    "type": "Striking Spear"
+                },
+                {
+                    "type": "Helix Spear"
+                },
+                {
                     "type": "Ironhead Spear"
                 },
                 {
+                    "type": "Orichalcum Spear"
+                },
+                {
                     "type": "Hunting Spear"
+                },
+                {
+                    "type": "Coursing Spear"
                 },
                 {
                     "type": "Winged Spear"
@@ -5040,7 +5206,19 @@
                     "type": "War Spear"
                 },
                 {
+                    "type": "Flying Spear"
+                },
+                {
                     "type": "Forked Spear"
+                },
+                {
+                    "type": "Jagged Spear"
+                },
+                {
+                    "type": "Spiked Spear"
+                },
+                {
+                    "type": "Grand Spear"
                 },
                 {
                     "type": "Shortsword"
@@ -5085,25 +5263,28 @@
                     "type": "Volatile Wand"
                 },
                 {
+                    "type": "Acrid Wand"
+                },
+                {
                     "type": "Crude Bow"
                 },
                 {
                     "type": "Shortbow"
                 },
                 {
-                    "type": "Advanced Shortbow"
+                    "type": "Snakewood Shortbow"
                 },
                 {
-                    "type": "Expert Shortbow"
+                    "type": "Ironwood Shortbow"
                 },
                 {
                     "type": "Warden Bow"
                 },
                 {
-                    "type": "Advanced Warden Bow"
+                    "type": "Protector Bow"
                 },
                 {
-                    "type": "Expert Warden Bow"
+                    "type": "Guardian Bow"
                 },
                 {
                     "type": "Recurve Bow"
@@ -5112,37 +5293,37 @@
                     "type": "Composite Bow"
                 },
                 {
-                    "type": "Advanced Composite Bow"
+                    "type": "Rider Bow"
                 },
                 {
-                    "type": "Expert Composite Bow"
+                    "type": "Cavalry Bow"
                 },
                 {
                     "type": "Dualstring Bow"
                 },
                 {
-                    "type": "Advanced Dualstring Bow"
+                    "type": "Twin Bow"
                 },
                 {
-                    "type": "Expert Dualstring Bow"
+                    "type": "Gemini Bow"
                 },
                 {
                     "type": "Cultist Bow"
                 },
                 {
-                    "type": "Advanced Cultist Bow"
+                    "type": "Adherent Bow"
                 },
                 {
-                    "type": "Expert Cultist Bow"
+                    "type": "Fanatic Bow"
                 },
                 {
                     "type": "Zealot Bow"
                 },
                 {
-                    "type": "Advanced Zealot Bow"
+                    "type": "Militant Bow"
                 },
                 {
-                    "type": "Expert Zealot Bow"
+                    "type": "Warmonger Bow"
                 },
                 {
                     "type": "Makeshift Crossbow"
@@ -5151,37 +5332,37 @@
                     "type": "Tense Crossbow"
                 },
                 {
-                    "type": "Advanced Tense Crossbow"
+                    "type": "Taut Crossbow"
                 },
                 {
-                    "type": "Expert Tense Crossbow"
+                    "type": "Flexed Crossbow"
                 },
                 {
                     "type": "Sturdy Crossbow"
                 },
                 {
-                    "type": "Advanced Sturdy Crossbow"
+                    "type": "Robust Crossbow"
                 },
                 {
-                    "type": "Expert Sturdy Crossbow"
+                    "type": "Stout Crossbow"
                 },
                 {
                     "type": "Varnished Crossbow"
                 },
                 {
-                    "type": "Advanced Varnished Crossbow"
+                    "type": "Painted Crossbow"
                 },
                 {
-                    "type": "Expert Varnished Crossbow"
+                    "type": "Engraved Crossbow"
                 },
                 {
                     "type": "Dyad Crossbow"
                 },
                 {
-                    "type": "Advanced Dyad Crossbow"
+                    "type": "Twin Crossbow"
                 },
                 {
-                    "type": "Expert Dyad Crossbow"
+                    "type": "Gemini Crossbow"
                 },
                 {
                     "type": "Alloy Crossbow"
@@ -5190,19 +5371,19 @@
                     "type": "Bombard Crossbow"
                 },
                 {
-                    "type": "Advanced Bombard Crossbow"
+                    "type": "Cannonade Crossbow"
                 },
                 {
-                    "type": "Expert Bombard Crossbow"
+                    "type": "Siege Crossbow"
                 },
                 {
                     "type": "Construct Crossbow"
                 },
                 {
-                    "type": "Advanced Forlorn Crossbow"
+                    "type": "Bleak Crossbow"
                 },
                 {
-                    "type": "Expert Forlorn Crossbow"
+                    "type": "Desolate Crossbow"
                 },
                 {
                     "type": "Wrapped Quarterstaff"
@@ -5214,37 +5395,37 @@
                     "type": "Long Quarterstaff"
                 },
                 {
-                    "type": "Advanced Long Quarterstaff"
+                    "type": "Reaching Quarterstaff"
                 },
                 {
-                    "type": "Expert Long Quarterstaff"
+                    "type": "Striking Quarterstaff"
                 },
                 {
                     "type": "Gothic Quarterstaff"
                 },
                 {
-                    "type": "Advanced Gothic Quarterstaff"
+                    "type": "Barbarous Quarterstaff"
                 },
                 {
-                    "type": "Expert Gothic Quarterstaff"
+                    "type": "Sinister Quarterstaff"
                 },
                 {
                     "type": "Crackling Quarterstaff"
                 },
                 {
-                    "type": "Advanced Crackling Quarterstaff"
+                    "type": "Arcing Quarterstaff"
                 },
                 {
-                    "type": "Expert Crackling Quarterstaff"
+                    "type": "Bolting Quarterstaff"
                 },
                 {
                     "type": "Crescent Quarterstaff"
                 },
                 {
-                    "type": "Advanced Crescent Quarterstaff"
+                    "type": "Waxing Quarterstaff"
                 },
                 {
-                    "type": "Expert Crescent Quarterstaff"
+                    "type": "Lunar Quarterstaff"
                 },
                 {
                     "type": "Steelpoint Quarterstaff"
@@ -5253,19 +5434,19 @@
                     "type": "Slicing Quarterstaff"
                 },
                 {
-                    "type": "Advanced Slicing Quarterstaff"
+                    "type": "Bladed Quarterstaff"
                 },
                 {
-                    "type": "Expert Slicing Quarterstaff"
+                    "type": "Razor Quarterstaff"
                 },
                 {
                     "type": "Barrier Quarterstaff"
                 },
                 {
-                    "type": "Advanced Barrier Quarterstaff"
+                    "type": "Guardian Quarterstaff"
                 },
                 {
-                    "type": "Expert Barrier Quarterstaff"
+                    "type": "Aegis Quarterstaff"
                 },
                 {
                     "type": "Ashen Staff"
@@ -5310,19 +5491,19 @@
                     "type": "Oak Greathammer"
                 },
                 {
-                    "type": "Advanced Oak Greathammer"
+                    "type": "Snakewood Greathammer"
                 },
                 {
-                    "type": "Expert Oak Greathammer"
+                    "type": "Ironwood Greathammer"
                 },
                 {
                     "type": "Forge Maul"
                 },
                 {
-                    "type": "Advanced Forge Maul"
+                    "type": "Blacksmith Maul"
                 },
                 {
-                    "type": "Expert Forge Maul"
+                    "type": "Anvil Maul"
                 },
                 {
                     "type": "Studded Greatclub"
@@ -5331,37 +5512,37 @@
                     "type": "Cultist Greathammer"
                 },
                 {
-                    "type": "Advanced Cultist Greathammer"
+                    "type": "Zealot Greathammer"
                 },
                 {
-                    "type": "Expert Cultist Greathammer"
+                    "type": "Fanatic Greathammer"
                 },
                 {
                     "type": "Temple Maul"
                 },
                 {
-                    "type": "Advanced Temple Maul"
+                    "type": "Solemn Maul"
                 },
                 {
-                    "type": "Expert Temple Maul"
+                    "type": "Sacred Maul"
                 },
                 {
                     "type": "Leaden Greathammer"
                 },
                 {
-                    "type": "Advanced Leaden Greathammer"
+                    "type": "Heavy Greathammer"
                 },
                 {
-                    "type": "Expert Leaden Greathammer"
+                    "type": "Massive Greathammer"
                 },
                 {
                     "type": "Crumbling Maul"
                 },
                 {
-                    "type": "Advanced Crumbling Maul"
+                    "type": "Disintegrating Maul"
                 },
                 {
-                    "type": "Expert Crumbling Maul"
+                    "type": "Ruination Maul"
                 },
                 {
                     "type": "Corroded Longsword"
@@ -5417,6 +5598,14 @@
                     "type": "Wyrm Quarterstaff",
                     "text": "Collapsing Horizon Wyrm Quarterstaff",
                     "name": "Collapsing Horizon",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "War Spear",
+                    "text": "Daevata's Wind War Spear",
+                    "name": "Daevata's Wind",
                     "flags": {
                         "unique": true
                     }
@@ -5502,16 +5691,16 @@
                     }
                 },
                 {
-                    "type": "Corroded Longsword",
-                    "text": "INCOMPLETE Corroded Longsword",
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
+                    "type": "Corroded Longsword",
+                    "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5550,6 +5739,14 @@
                     }
                 },
                 {
+                    "type": "Executioner Greataxe",
+                    "text": "INCOMPLETE Executioner Greataxe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Rippled Greatsword",
                     "text": "INCOMPLETE Rippled Greatsword",
                     "name": "INCOMPLETE",
@@ -5582,14 +5779,6 @@
                     }
                 },
                 {
-                    "type": "Executioner Greataxe",
-                    "text": "INCOMPLETE Executioner Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Iron Greatsword",
                     "text": "INCOMPLETE Iron Greatsword",
                     "name": "INCOMPLETE",
@@ -5600,6 +5789,14 @@
                 {
                     "type": "Simple Dagger",
                     "text": "INCOMPLETE Simple Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5624,14 +5821,6 @@
                 {
                     "type": "Moon Dagger",
                     "text": "INCOMPLETE Moon Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5822,14 +6011,6 @@
                     }
                 },
                 {
-                    "type": "Forked Spear",
-                    "text": "Solar Lance Forked Spear",
-                    "name": "Solar Lance",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Recurve Bow",
                     "text": "Splinterheart Recurve Bow",
                     "name": "Splinterheart",
@@ -5841,6 +6022,14 @@
                     "type": "Hardwood Spear",
                     "text": "Splinter of Loratta Hardwood Spear",
                     "name": "Splinter of Loratta",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Forked Spear",
+                    "text": "Tangletongue Forked Spear",
+                    "name": "Tangletongue",
                     "flags": {
                         "unique": true
                     }
@@ -5902,6 +6091,14 @@
                     }
                 },
                 {
+                    "type": "Withered Wand",
+                    "text": "The Wicked Quill Withered Wand",
+                    "name": "The Wicked Quill",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Spiked Club",
                     "text": "Trenchtimbre Spiked Club",
                     "name": "Trenchtimbre",
@@ -5913,6 +6110,14 @@
                     "type": "Forge Maul",
                     "text": "Trephina Forge Maul",
                     "name": "Trephina",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Ironhead Spear",
+                    "text": "Tyranny's Grip Ironhead Spear",
+                    "name": "Tyranny's Grip",
                     "flags": {
                         "unique": true
                     }

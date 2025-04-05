@@ -35,6 +35,15 @@
                     "type": "Solar Amulet"
                 },
                 {
+                    "type": "Dusk Amulet"
+                },
+                {
+                    "type": "Gloam Amulet"
+                },
+                {
+                    "type": "Tenebrous Amulet"
+                },
+                {
                     "type": "Rawhide Belt"
                 },
                 {
@@ -107,6 +116,18 @@
                     "type": "Breach Ring"
                 },
                 {
+                    "type": "Dusk Ring"
+                },
+                {
+                    "type": "Gloam Ring"
+                },
+                {
+                    "type": "Penumbra Ring"
+                },
+                {
+                    "type": "Tenebrous Ring"
+                },
+                {
                     "type": "Gold Ring",
                     "text": "Andvarius Gold Ring",
                     "name": "Andvarius",
@@ -126,6 +147,14 @@
                     "type": "Solar Amulet",
                     "text": "Beacon of Azis Solar Amulet",
                     "name": "Beacon of Azis",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Double Belt",
+                    "text": "Bijouborne Double Belt",
+                    "name": "Bijouborne",
                     "flags": {
                         "unique": true
                     }
@@ -243,6 +272,14 @@
                     }
                 },
                 {
+                    "type": "Pearl Ring",
+                    "text": "Evergrasping Ring Pearl Ring",
+                    "name": "Evergrasping Ring",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Gold Amulet",
                     "text": "Eye of Chayula Gold Amulet",
                     "name": "Eye of Chayula",
@@ -267,9 +304,25 @@
                     }
                 },
                 {
+                    "type": "Prismatic Ring",
+                    "text": "Gifts from Above Prismatic Ring",
+                    "name": "Gifts from Above",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Lazuli Ring",
                     "text": "Glowswarm Lazuli Ring",
                     "name": "Glowswarm",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Plate Belt",
+                    "text": "Goregirdle Plate Belt",
+                    "name": "Goregirdle",
                     "flags": {
                         "unique": true
                     }
@@ -286,6 +339,14 @@
                     "type": "Pearl Ring",
                     "text": "Heartbound Loop Pearl Ring",
                     "name": "Heartbound Loop",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Iron Ring",
+                    "text": "Icefang Orbit Iron Ring",
+                    "name": "Icefang Orbit",
                     "flags": {
                         "unique": true
                     }
@@ -403,6 +464,14 @@
                     }
                 },
                 {
+                    "type": "Iron Ring",
+                    "text": "Prized Pain Iron Ring",
+                    "name": "Prized Pain",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Amber Amulet",
                     "text": "Revered Resin Amber Amulet",
                     "name": "Revered Resin",
@@ -475,6 +544,14 @@
                     }
                 },
                 {
+                    "type": "Lapis Amulet",
+                    "text": "Stone of Lazhwar Lapis Amulet",
+                    "name": "Stone of Lazhwar",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Stellar Amulet",
                     "text": "Strugglescream Stellar Amulet",
                     "name": "Strugglescream",
@@ -539,9 +616,33 @@
                     }
                 },
                 {
+                    "type": "Iron Ring",
+                    "text": "Venopuncture Iron Ring",
+                    "name": "Venopuncture",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Gold Ring",
                     "text": "Ventor's Gamble Gold Ring",
                     "name": "Ventor's Gamble",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Emerald Ring",
+                    "text": "Vigilant View Emerald Ring",
+                    "name": "Vigilant View",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Heavy Belt",
+                    "text": "Waistgate Heavy Belt",
+                    "name": "Waistgate",
                     "flags": {
                         "unique": true
                     }
@@ -558,6 +659,14 @@
                     "type": "Amber Amulet",
                     "text": "Xoph's Blood Amber Amulet",
                     "name": "Xoph's Blood",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Bloodstone Amulet",
+                    "text": "Yoke of Suffering Bloodstone Amulet",
+                    "name": "Yoke of Suffering",
                     "flags": {
                         "unique": true
                     }
@@ -581,6 +690,9 @@
                 },
                 {
                     "type": "Smuggler Coat"
+                },
+                {
+                    "type": "Strider Vest"
                 },
                 {
                     "type": "Quilted Vest"
@@ -679,6 +791,15 @@
                     "type": "Tattered Robe"
                 },
                 {
+                    "type": "Plated Raiment"
+                },
+                {
+                    "type": "Havoc Raiment"
+                },
+                {
+                    "type": "Enlightened Robe"
+                },
+                {
                     "type": "Feathered Robe"
                 },
                 {
@@ -725,6 +846,9 @@
                 },
                 {
                     "type": "Sacramental Robe"
+                },
+                {
+                    "type": "Elementalist Robe"
                 },
                 {
                     "type": "Rusted Cuirass"
@@ -787,6 +911,9 @@
                     "type": "Chain Mail"
                 },
                 {
+                    "type": "Heroic Armour"
+                },
+                {
                     "type": "Ring Mail"
                 },
                 {
@@ -832,6 +959,9 @@
                     "type": "Knight Armour"
                 },
                 {
+                    "type": "Lamellar Mail"
+                },
+                {
                     "type": "Grand Regalia"
                 },
                 {
@@ -839,6 +969,9 @@
                 },
                 {
                     "type": "Pilgrim Vestments"
+                },
+                {
+                    "type": "Corvus Mantle"
                 },
                 {
                     "type": "Templar Vestments"
@@ -881,6 +1014,12 @@
                 },
                 {
                     "type": "Death Mantle"
+                },
+                {
+                    "type": "Cleric Vestments"
+                },
+                {
+                    "type": "Tideseer Mantle"
                 },
                 {
                     "type": "Gilded Vestments"
@@ -1237,6 +1376,9 @@
                     "type": "Vaal Gloves"
                 },
                 {
+                    "type": "Pauascale Gloves"
+                },
+                {
                     "type": "Stocky Mitts"
                 },
                 {
@@ -1273,6 +1415,9 @@
                     "type": "Vaal Mitts"
                 },
                 {
+                    "type": "Titan Mitts"
+                },
+                {
                     "type": "Ringmail Gauntlets"
                 },
                 {
@@ -1298,6 +1443,9 @@
                 },
                 {
                     "type": "Cultist Gauntlets"
+                },
+                {
+                    "type": "Plate Gauntlets"
                 },
                 {
                     "type": "Burnished Gauntlets"
@@ -1331,6 +1479,9 @@
                 },
                 {
                     "type": "Gleaming Cuffs"
+                },
+                {
+                    "type": "Diviner Cuffs"
                 },
                 {
                     "type": "Golden Visage"
@@ -1384,6 +1535,15 @@
                     "type": "Viper Cap"
                 },
                 {
+                    "type": "Corsair Cap"
+                },
+                {
+                    "type": "Leatherbound Hood"
+                },
+                {
+                    "type": "Velvet Cap"
+                },
+                {
                     "type": "Hewn Mask"
                 },
                 {
@@ -1427,6 +1587,9 @@
                 },
                 {
                     "type": "Twig Circlet"
+                },
+                {
+                    "type": "Magus Tiara"
                 },
                 {
                     "type": "Druidic Circlet"
@@ -1516,6 +1679,9 @@
                     "type": "Warrior Greathelm"
                 },
                 {
+                    "type": "Fierce Greathelm"
+                },
+                {
                     "type": "Brimmed Helm"
                 },
                 {
@@ -1556,6 +1722,9 @@
                 },
                 {
                     "type": "Closed Helm"
+                },
+                {
+                    "type": "Decorated Helm"
                 },
                 {
                     "type": "Grand Visage"
@@ -1606,16 +1775,55 @@
                     "type": "Leather Buckler"
                 },
                 {
+                    "type": "Ornate Buckler"
+                },
+                {
+                    "type": "Array Buckler"
+                },
+                {
                     "type": "Wooden Buckler"
+                },
+                {
+                    "type": "Oak Buckler"
+                },
+                {
+                    "type": "Plated Buckler"
+                },
+                {
+                    "type": "Painted Buckler"
+                },
+                {
+                    "type": "Iron Buckler"
+                },
+                {
+                    "type": "Ridged Buckler"
+                },
+                {
+                    "type": "Coiled Buckler"
                 },
                 {
                     "type": "Spiked Buckler"
                 },
                 {
+                    "type": "Spikeward Buckler"
+                },
+                {
                     "type": "Gutspike Buckler"
                 },
                 {
+                    "type": "Ringed Buckler"
+                },
+                {
+                    "type": "Jingling Buckler"
+                },
+                {
                     "type": "Edged Buckler"
+                },
+                {
+                    "type": "Bladeguard Buckler"
+                },
+                {
+                    "type": "Ancient Buckler"
                 },
                 {
                     "type": "Splintered Tower Shield"
@@ -1827,6 +2035,14 @@
                     }
                 },
                 {
+                    "type": "Voodoo Focus",
+                    "text": "Apep's Supremacy Voodoo Focus",
+                    "name": "Apep's Supremacy",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Hermit Garb",
                     "text": "Apron of Emiran Hermit Garb",
                     "name": "Apron of Emiran",
@@ -1971,6 +2187,22 @@
                     }
                 },
                 {
+                    "type": "Iron Buckler",
+                    "text": "Bloodbarrier Iron Buckler",
+                    "name": "Bloodbarrier",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Fierce Greathelm",
+                    "text": "Blood Price Fierce Greathelm",
+                    "name": "Blood Price",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Goldcast Cuffs",
                     "text": "Blueflame Bracers Goldcast Cuffs",
                     "name": "Blueflame Bracers",
@@ -2035,6 +2267,14 @@
                     }
                 },
                 {
+                    "type": "Ornate Buckler",
+                    "text": "Calgyra's Arc Ornate Buckler",
+                    "name": "Calgyra's Arc",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Sombre Gloves",
                     "text": "Candlemaker Sombre Gloves",
                     "name": "Candlemaker",
@@ -2046,6 +2286,14 @@
                     "type": "Engraved Focus",
                     "text": "Carrion Call Engraved Focus",
                     "name": "Carrion Call",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Havoc Raiment",
+                    "text": "Cloak of Defiance Havoc Raiment",
+                    "name": "Cloak of Defiance",
                     "flags": {
                         "unique": true
                     }
@@ -2251,9 +2499,25 @@
                     }
                 },
                 {
+                    "type": "Antler Focus",
+                    "text": "Effigy of Cruelty Antler Focus",
+                    "name": "Effigy of Cruelty",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Hunter Hood",
                     "text": "Elevore Hunter Hood",
                     "name": "Elevore",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Titan Mitts",
+                    "text": "Empire's Grasp Titan Mitts",
+                    "name": "Empire's Grasp",
                     "flags": {
                         "unique": true
                     }
@@ -2270,6 +2534,14 @@
                     "type": "Guarded Helm",
                     "text": "Erian's Cobble Guarded Helm",
                     "name": "Erian's Cobble",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Furtive Wraps",
+                    "text": "Essentia Sanguis Furtive Wraps",
+                    "name": "Essentia Sanguis",
                     "flags": {
                         "unique": true
                     }
@@ -2339,6 +2611,14 @@
                     }
                 },
                 {
+                    "type": "Elementalist Robe",
+                    "text": "Gloamgown Elementalist Robe",
+                    "name": "Gloamgown",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Waxed Jacket",
                     "text": "Gloomform Waxed Jacket",
                     "name": "Gloomform",
@@ -2395,9 +2675,25 @@
                     }
                 },
                 {
+                    "type": "Spiral Wraps",
+                    "text": "Hand of Wisdom and Action Spiral Wraps",
+                    "name": "Hand of Wisdom and Action",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Moulded Mitts",
                     "text": "Hateforge Moulded Mitts",
                     "name": "Hateforge",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Velvet Cap",
+                    "text": "Heatshiver Velvet Cap",
+                    "name": "Heatshiver",
                     "flags": {
                         "unique": true
                     }
@@ -2430,6 +2726,14 @@
                     "type": "Sectioned Bracers",
                     "text": "Idle Hands Sectioned Bracers",
                     "name": "Idle Hands",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Magus Tiara",
+                    "text": "Indigon Magus Tiara",
+                    "name": "Indigon",
                     "flags": {
                         "unique": true
                     }
@@ -2523,6 +2827,14 @@
                     }
                 },
                 {
+                    "type": "Embroidered Gloves",
+                    "text": "Leopold's Applause Embroidered Gloves",
+                    "name": "Leopold's Applause",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Tempered Mitts",
                     "text": "Lochtonial Caress Tempered Mitts",
                     "name": "Lochtonial Caress",
@@ -2606,6 +2918,14 @@
                     "type": "Bone Raiment",
                     "text": "Necromantle Bone Raiment",
                     "name": "Necromantle",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Pauascale Gloves",
+                    "text": "Nightscale Pauascale Gloves",
+                    "name": "Nightscale",
                     "flags": {
                         "unique": true
                     }
@@ -2723,6 +3043,22 @@
                     }
                 },
                 {
+                    "type": "Blunt Quiver",
+                    "text": "Rearguard Blunt Quiver",
+                    "name": "Rearguard",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Heraldric Tower Shield",
+                    "text": "Redblade Banner Heraldric Tower Shield",
+                    "name": "Redblade Banner",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Anchorite Garb",
                     "text": "Redflare Conduit Anchorite Garb",
                     "name": "Redflare Conduit",
@@ -2739,9 +3075,33 @@
                     }
                 },
                 {
+                    "type": "Plated Buckler",
+                    "text": "Rondel de Ezo Plated Buckler",
+                    "name": "Rondel de Ezo",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Corvus Mantle",
+                    "text": "Sacrosanctum Corvus Mantle",
+                    "name": "Sacrosanctum",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Emblem Crest Shield",
                     "text": "Saffell's Frame Emblem Crest Shield",
                     "name": "Saffell's Frame",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Shrouded Vest",
+                    "text": "Sands of Silk Shrouded Vest",
+                    "name": "Sands of Silk",
                     "flags": {
                         "unique": true
                     }
@@ -2787,6 +3147,14 @@
                     }
                 },
                 {
+                    "type": "Enlightened Robe",
+                    "text": "Silks of Veneration Enlightened Robe",
+                    "name": "Silks of Veneration",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Spiked Buckler",
                     "text": "Silverthorne Spiked Buckler",
                     "name": "Silverthorne",
@@ -2827,9 +3195,41 @@
                     }
                 },
                 {
+                    "type": "Sacrificial Mantle",
+                    "text": "Soul Mantle Sacrificial Mantle",
+                    "name": "Soul Mantle",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Leatherbound Hood",
+                    "text": "Starkonja's Head Leatherbound Hood",
+                    "name": "Starkonja's Head",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Array Buckler",
+                    "text": "Sunsplinter Array Buckler",
+                    "name": "Sunsplinter",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Crucible Tower Shield",
                     "text": "Svalinn Crucible Tower Shield",
                     "name": "Svalinn",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Garment",
+                    "text": "Tabula Rasa Garment",
+                    "name": "Tabula Rasa",
                     "flags": {
                         "unique": true
                     }
@@ -2867,9 +3267,33 @@
                     }
                 },
                 {
+                    "type": "Corsair Cap",
+                    "text": "The Black Insignia Corsair Cap",
+                    "name": "The Black Insignia",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Champion Cuirass",
                     "text": "The Brass Dome Champion Cuirass",
                     "name": "The Brass Dome",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Decorated Helm",
+                    "text": "The Bringer of Rain Decorated Helm",
+                    "name": "The Bringer of Rain",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Heroic Armour",
+                    "text": "The Coming Calamity Heroic Armour",
+                    "name": "The Coming Calamity",
                     "flags": {
                         "unique": true
                     }
@@ -2891,6 +3315,14 @@
                     }
                 },
                 {
+                    "type": "Spiritbone Crown",
+                    "text": "The Deepest Tower Spiritbone Crown",
+                    "name": "The Deepest Tower",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Wicker Tiara",
                     "text": "The Devouring Diadem Wicker Tiara",
                     "name": "The Devouring Diadem",
@@ -2902,6 +3334,14 @@
                     "type": "Crystal Focus",
                     "text": "The Eternal Spark Crystal Focus",
                     "name": "The Eternal Spark",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Lamellar Mail",
+                    "text": "The Fallen Formation Lamellar Mail",
+                    "name": "The Fallen Formation",
                     "flags": {
                         "unique": true
                     }
@@ -2934,6 +3374,30 @@
                     "type": "Mail Sabatons",
                     "text": "The Knight-errant Mail Sabatons",
                     "name": "The Knight-errant",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Sacral Quiver",
+                    "text": "The Lethal Draw Sacral Quiver",
+                    "name": "The Lethal Draw",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Cleric Vestments",
+                    "text": "The Mutable Star Cleric Vestments",
+                    "name": "The Mutable Star",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Diviner Cuffs",
+                    "text": "The Prisoner's Manacles Diviner Cuffs",
+                    "name": "The Prisoner's Manacles",
                     "flags": {
                         "unique": true
                     }
@@ -3043,6 +3507,14 @@
                     }
                 },
                 {
+                    "type": "Plate Gauntlets",
+                    "text": "Valako's Vice Plate Gauntlets",
+                    "name": "Valako's Vice",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Martyr Crown",
                     "text": "Veil of the Night Martyr Crown",
                     "name": "Veil of the Night",
@@ -3054,6 +3526,14 @@
                     "type": "Beaded Circlet",
                     "text": "Visage of Ayah Beaded Circlet",
                     "name": "Visage of Ayah",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Plated Raiment",
+                    "text": "Vis Mortis Plated Raiment",
+                    "name": "Vis Mortis",
                     "flags": {
                         "unique": true
                     }
@@ -3091,6 +3571,30 @@
                     }
                 },
                 {
+                    "type": "Tideseer Mantle",
+                    "text": "Waveshaper Tideseer Mantle",
+                    "name": "Waveshaper",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Knight Armour",
+                    "text": "Widow's Reign Knight Armour",
+                    "name": "Widow's Reign",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Barricade Tower Shield",
+                    "text": "Window to Paradise Barricade Tower Shield",
+                    "name": "Window to Paradise",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Feathered Sandals",
                     "text": "Windscream Feathered Sandals",
                     "name": "Windscream",
@@ -3118,6 +3622,22 @@
                     "type": "Painted Tower Shield",
                     "text": "Wulfsbane Painted Tower Shield",
                     "name": "Wulfsbane",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Strider Vest",
+                    "text": "Yriel's Fostering Strider Vest",
+                    "name": "Yriel's Fostering",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Scalper's Jacket",
+                    "text": "Zerphi's Serape Scalper's Jacket",
+                    "name": "Zerphi's Serape",
                     "flags": {
                         "unique": true
                     }
@@ -3202,6 +3722,9 @@
                 },
                 {
                     "type": "Glassblower's Bauble"
+                },
+                {
+                    "type": "Fracturing Orb"
                 },
                 {
                     "type": "Gemcutter's Prism"
@@ -3405,6 +3928,18 @@
                     "type": "Omen of Corruption"
                 },
                 {
+                    "type": "Omen of Reinforcements"
+                },
+                {
+                    "type": "Omen of Answered Prayers"
+                },
+                {
+                    "type": "Omen of Secret Compartments"
+                },
+                {
+                    "type": "Omen of the Hunt"
+                },
+                {
                     "type": "Broken Circle Artifact"
                 },
                 {
@@ -3417,13 +3952,22 @@
                     "type": "Sun Artifact"
                 },
                 {
+                    "type": "Twilight Reliquary Key"
+                },
+                {
                     "type": "Vision Rune"
+                },
+                {
+                    "type": "Greater Vision Rune"
                 },
                 {
                     "type": "Lesser Vision Rune"
                 },
                 {
                     "type": "Glacial Rune"
+                },
+                {
+                    "type": "Greater Glacial Rune"
                 },
                 {
                     "type": "Lesser Glacial Rune"
@@ -3480,6 +4024,9 @@
                     "type": "Greater Mind Rune"
                 },
                 {
+                    "type": "Lesser Mind Rune"
+                },
+                {
                     "type": "Inspiration Rune"
                 },
                 {
@@ -3489,7 +4036,22 @@
                     "type": "Lesser Inspiration Rune"
                 },
                 {
+                    "type": "Greater Rune of Leadership"
+                },
+                {
+                    "type": "Greater Rune of Tithing"
+                },
+                {
+                    "type": "Greater Rune of Alacrity"
+                },
+                {
+                    "type": "Greater Rune of Nobility"
+                },
+                {
                     "type": "Stone Rune"
+                },
+                {
+                    "type": "Greater Stone Rune"
                 },
                 {
                     "type": "Lesser Stone Rune"
@@ -3540,7 +4102,34 @@
                     "type": "Soul Core of Atmohua"
                 },
                 {
+                    "type": "Bear Talisman"
+                },
+                {
+                    "type": "Boar Talisman"
+                },
+                {
+                    "type": "Cat Talisman"
+                },
+                {
+                    "type": "Primate Talisman"
+                },
+                {
+                    "type": "Owl Talisman"
+                },
+                {
+                    "type": "Ox Talisman"
+                },
+                {
+                    "type": "Rabbit Talisman"
+                },
+                {
                     "type": "Serpent Talisman"
+                },
+                {
+                    "type": "Stag Talisman"
+                },
+                {
+                    "type": "Wolf Talisman"
                 }
             ]
         },
@@ -3639,6 +4228,22 @@
                     "type": "Ultimate Mana Flask"
                 },
                 {
+                    "type": "Antidote Charm",
+                    "text": "Arakaali's Gift Antidote Charm",
+                    "name": "Arakaali's Gift",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Dousing Charm",
+                    "text": "Beira's Anguish Dousing Charm",
+                    "name": "Beira's Anguish",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Sapphire Charm",
                     "text": "Breath of the Mountains Sapphire Charm",
                     "name": "Breath of the Mountains",
@@ -3647,9 +4252,25 @@
                     }
                 },
                 {
+                    "type": "Amethyst Charm",
+                    "text": "Forsaken Bangle Amethyst Charm",
+                    "name": "Forsaken Bangle",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Ultimate Mana Flask",
                     "text": "Melting Maelstrom Ultimate Mana Flask",
                     "name": "Melting Maelstrom",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Thawing Charm",
+                    "text": "Nascent Hope Thawing Charm",
+                    "name": "Nascent Hope",
                     "flags": {
                         "unique": true
                     }
@@ -3666,6 +4287,38 @@
                     "type": "Ultimate Life Flask",
                     "text": "Olroth's Resolve Ultimate Life Flask",
                     "name": "Olroth's Resolve",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Staunching Charm",
+                    "text": "Sanguis Heroum Staunching Charm",
+                    "name": "Sanguis Heroum",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Grounding Charm",
+                    "text": "The Black Cat Grounding Charm",
+                    "name": "The Black Cat",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Silver Charm",
+                    "text": "The Fall of the Axe Silver Charm",
+                    "name": "The Fall of the Axe",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Topaz Charm",
+                    "text": "Valako's Roar Topaz Charm",
+                    "name": "Valako's Roar",
                     "flags": {
                         "unique": true
                     }
@@ -3695,6 +4348,9 @@
                     "type": "Blink"
                 },
                 {
+                    "type": "Bloodhound's Mark"
+                },
+                {
                     "type": "Bone Cage"
                 },
                 {
@@ -3711,6 +4367,9 @@
                 },
                 {
                     "type": "Combat Frenzy"
+                },
+                {
+                    "type": "Convalescence"
                 },
                 {
                     "type": "Dark Effigy"
@@ -3734,6 +4393,9 @@
                     "type": "Elemental Invocation"
                 },
                 {
+                    "type": "Elemental Sundering"
+                },
+                {
                     "type": "Emergency Reload"
                 },
                 {
@@ -3744,6 +4406,9 @@
                 },
                 {
                     "type": "Explosive Spear"
+                },
+                {
+                    "type": "Fangs of Frost"
                 },
                 {
                     "type": "Fireball"
@@ -3845,10 +4510,16 @@
                     "type": "Poisonburst Arrow"
                 },
                 {
+                    "type": "Primal Strikes"
+                },
+                {
                     "type": "Profane Ritual"
                 },
                 {
                     "type": "Raging Spirits"
+                },
+                {
+                    "type": "Rake"
                 },
                 {
                     "type": "Rapid Shot"
@@ -3893,6 +4564,9 @@
                     "type": "Soul Offering"
                 },
                 {
+                    "type": "Spear of Solaris"
+                },
+                {
                     "type": "Stampede"
                 },
                 {
@@ -3902,10 +4576,19 @@
                     "type": "Stormcaller Arrow"
                 },
                 {
+                    "type": "Storm Lance"
+                },
+                {
                     "type": "Storm Wave"
                 },
                 {
+                    "type": "Tame Beast"
+                },
+                {
                     "type": "Tempest Bell"
+                },
+                {
+                    "type": "Thunderous Leap"
                 },
                 {
                     "type": "Time of Need"
@@ -3915,6 +4598,9 @@
                 },
                 {
                     "type": "Toxic Growth"
+                },
+                {
+                    "type": "Trinity"
                 },
                 {
                     "type": "Twister"
@@ -3935,7 +4621,13 @@
                     "type": "War Banner"
                 },
                 {
+                    "type": "Whirlwind Lance"
+                },
+                {
                     "type": "Wind Dancer"
+                },
+                {
+                    "type": "Wind Serpent's Fury"
                 },
                 {
                     "type": "Withering Presence"
@@ -3972,6 +4664,9 @@
                 },
                 {
                     "type": "Blasphemy"
+                },
+                {
+                    "type": "Blood Hunt"
                 },
                 {
                     "type": "Bone Offering"
@@ -4073,6 +4768,9 @@
                     "type": "Glacial Cascade"
                 },
                 {
+                    "type": "Glacial Lance"
+                },
+                {
                     "type": "Herald of Ash"
                 },
                 {
@@ -4112,6 +4810,9 @@
                     "type": "Lightning Conduit"
                 },
                 {
+                    "type": "Lightning Spear"
+                },
+                {
                     "type": "Lightning Warp"
                 },
                 {
@@ -4134,6 +4835,12 @@
                 },
                 {
                     "type": "Raise Zombie"
+                },
+                {
+                    "type": "Rapid Assault"
+                },
+                {
+                    "type": "Rhoa Mount"
                 },
                 {
                     "type": "Ripwire Ballista"
@@ -4181,6 +4888,9 @@
                     "type": "Spark"
                 },
                 {
+                    "type": "Spearfield"
+                },
+                {
                     "type": "Spiral Volley"
                 },
                 {
@@ -4197,6 +4907,9 @@
                 },
                 {
                     "type": "Temporal Chains"
+                },
+                {
+                    "type": "Trail of Caltrops"
                 },
                 {
                     "type": "Uncut Skill Gem"
@@ -4325,6 +5038,9 @@
                     "type": "Crescendo"
                 },
                 {
+                    "type": "Deadly Herald"
+                },
+                {
                     "type": "Deadly Poison"
                 },
                 {
@@ -4374,6 +5090,9 @@
                 },
                 {
                     "type": "Envenom"
+                },
+                {
+                    "type": "Essence Harvest"
                 },
                 {
                     "type": "Eternal Flame"
@@ -4571,6 +5290,9 @@
                     "type": "Pin"
                 },
                 {
+                    "type": "Pinpoint Critical"
+                },
+                {
                     "type": "Precision"
                 },
                 {
@@ -4646,7 +5368,19 @@
                     "type": "Withering Touch"
                 },
                 {
+                    "type": "Abiding Hex"
+                },
+                {
                     "type": "Ablation"
+                },
+                {
+                    "type": "Acrimony"
+                },
+                {
+                    "type": "Adhere"
+                },
+                {
+                    "type": "Alignment"
                 },
                 {
                     "type": "Ambrosia"
@@ -4655,10 +5389,16 @@
                     "type": "Ammo Conservation"
                 },
                 {
+                    "type": "Ancestral Call"
+                },
+                {
                     "type": "Ancestral Urgency"
                 },
                 {
                     "type": "Armour Explosion"
+                },
+                {
+                    "type": "Arms Length"
                 },
                 {
                     "type": "Astral Projection"
@@ -4670,7 +5410,28 @@
                     "type": "Bidding"
                 },
                 {
+                    "type": "Blindside"
+                },
+                {
+                    "type": "Blood in the Eyes"
+                },
+                {
+                    "type": "Bone Shrapnel"
+                },
+                {
                     "type": "Break Endurance"
+                },
+                {
+                    "type": "Brink"
+                },
+                {
+                    "type": "Burgeon"
+                },
+                {
+                    "type": "Cadence"
+                },
+                {
+                    "type": "Caltrops"
                 },
                 {
                     "type": "Capacitor"
@@ -4679,10 +5440,37 @@
                     "type": "Chaotic Freeze"
                 },
                 {
+                    "type": "Charged Shots"
+                },
+                {
+                    "type": "Charm Bounty"
+                },
+                {
+                    "type": "Clash"
+                },
+                {
+                    "type": "Commandment"
+                },
+                {
+                    "type": "Commiserate"
+                },
+                {
+                    "type": "Concoct"
+                },
+                {
                     "type": "Considered Casting"
                 },
                 {
+                    "type": "Cool Headed"
+                },
+                {
                     "type": "Corpse Conservation"
+                },
+                {
+                    "type": "Crackling Barrier"
+                },
+                {
+                    "type": "Crazed Minions"
                 },
                 {
                     "type": "Culling Strike"
@@ -4697,19 +5485,61 @@
                     "type": "Danse Macabre"
                 },
                 {
+                    "type": "Dauntless"
+                },
+                {
                     "type": "Dazing Cry"
+                },
+                {
+                    "type": "Dazzle"
+                },
+                {
+                    "type": "Deathmarch"
                 },
                 {
                     "type": "Decaying Hex"
                 },
                 {
+                    "type": "Defy"
+                },
+                {
+                    "type": "Delayed Gratification"
+                },
+                {
+                    "type": "Deliberation"
+                },
+                {
+                    "type": "Derange"
+                },
+                {
+                    "type": "Desperation"
+                },
+                {
+                    "type": "Direstrike"
+                },
+                {
+                    "type": "Dissipate"
+                },
+                {
+                    "type": "Domain"
+                },
+                {
                     "type": "Double Barrel"
+                },
+                {
+                    "type": "Embitter"
                 },
                 {
                     "type": "Energy Retention"
                 },
                 {
+                    "type": "Enormity"
+                },
+                {
                     "type": "Excise"
+                },
+                {
+                    "type": "Excoriate"
                 },
                 {
                     "type": "Execrate"
@@ -4718,19 +5548,40 @@
                     "type": "Expanse"
                 },
                 {
+                    "type": "Expedite"
+                },
+                {
                     "type": "Extraction"
                 },
                 {
                     "type": "Ferocity"
                 },
                 {
+                    "type": "First Blood"
+                },
+                {
+                    "type": "Fluke"
+                },
+                {
                     "type": "Focused Curse"
+                },
+                {
+                    "type": "Freezefork"
                 },
                 {
                     "type": "Fresh Clip"
                 },
                 {
+                    "type": "Gambleshot"
+                },
+                {
                     "type": "Glacier"
+                },
+                {
+                    "type": "Greatwood"
+                },
+                {
+                    "type": "Haemocrystals"
                 },
                 {
                     "type": "Heft"
@@ -4739,19 +5590,31 @@
                     "type": "Hinder"
                 },
                 {
+                    "type": "Hit and Run"
+                },
+                {
                     "type": "Holy Descent"
                 },
                 {
                     "type": "Icicle"
                 },
                 {
+                    "type": "Impale"
+                },
+                {
                     "type": "Impetus"
+                },
+                {
+                    "type": "Incision"
                 },
                 {
                     "type": "Innervate"
                 },
                 {
                     "type": "Intense Agony"
+                },
+                {
+                    "type": "Interlude"
                 },
                 {
                     "type": "Ironwood"
@@ -4766,16 +5629,40 @@
                     "type": "Long Fuse"
                 },
                 {
+                    "type": "Loyalty"
+                },
+                {
+                    "type": "Magnetism"
+                },
+                {
+                    "type": "Malady"
+                },
+                {
                     "type": "Minion Instability"
                 },
                 {
                     "type": "Minion Pact"
                 },
                 {
+                    "type": "Muster"
+                },
+                {
+                    "type": "Mysticism"
+                },
+                {
                     "type": "Nimble Reload"
                 },
                 {
+                    "type": "Outmaneuver"
+                },
+                {
+                    "type": "Overextend"
+                },
+                {
                     "type": "Payload"
+                },
+                {
+                    "type": "Perfection"
                 },
                 {
                     "type": "Potential"
@@ -4784,13 +5671,52 @@
                     "type": "Practiced Combo"
                 },
                 {
+                    "type": "Profanity"
+                },
+                {
+                    "type": "Punch Through"
+                },
+                {
+                    "type": "Pursuit"
+                },
+                {
+                    "type": "Quill Burst"
+                },
+                {
                     "type": "Rageforged"
                 },
                 {
                     "type": "Raging Cry"
                 },
                 {
+                    "type": "Reach"
+                },
+                {
+                    "type": "Rearm"
+                },
+                {
+                    "type": "Refraction"
+                },
+                {
+                    "type": "Retaliate"
+                },
+                {
+                    "type": "Retort"
+                },
+                {
+                    "type": "Retreat"
+                },
+                {
+                    "type": "Reverberate"
+                },
+                {
                     "type": "Ricochet"
+                },
+                {
+                    "type": "Rime"
+                },
+                {
+                    "type": "Rip"
                 },
                 {
                     "type": "Ritualistic Curse"
@@ -4799,25 +5725,118 @@
                     "type": "Rupture"
                 },
                 {
+                    "type": "Rusted Spikes"
+                },
+                {
+                    "type": "Sacrificial Lamb"
+                },
+                {
+                    "type": "Salvo"
+                },
+                {
+                    "type": "See Red"
+                },
+                {
+                    "type": "Shocking Leap"
+                },
+                {
+                    "type": "Single Out"
+                },
+                {
+                    "type": "Spar"
+                },
+                {
+                    "type": "Spectral Volley"
+                },
+                {
                     "type": "Spell Cascade"
+                },
+                {
+                    "type": "Steadfast"
                 },
                 {
                     "type": "Stomping Ground"
                 },
                 {
+                    "type": "Stormchain"
+                },
+                {
                     "type": "Strip Away"
+                },
+                {
+                    "type": "Strong Hearted"
+                },
+                {
+                    "type": "Suffuse"
                 },
                 {
                     "type": "Swift Affliction"
                 },
                 {
+                    "type": "Syzygy"
+                },
+                {
+                    "type": "Tear"
+                },
+                {
+                    "type": "Tireless"
+                },
+                {
                     "type": "Tremors"
+                },
+                {
+                    "type": "Tumult"
+                },
+                {
+                    "type": "Twofold"
+                },
+                {
+                    "type": "Unabating"
+                },
+                {
+                    "type": "Unbending"
+                },
+                {
+                    "type": "Unerring Power"
+                },
+                {
+                    "type": "Unsteady Tempo"
+                },
+                {
+                    "type": "Untouchable"
+                },
+                {
+                    "type": "Unyielding"
                 },
                 {
                     "type": "Upheaval"
                 },
                 {
+                    "type": "Upwelling"
+                },
+                {
+                    "type": "Verglas"
+                },
+                {
+                    "type": "Volatile Power"
+                },
+                {
+                    "type": "Volatility"
+                },
+                {
+                    "type": "Volcanic Eruption"
+                },
+                {
+                    "type": "Volt"
+                },
+                {
+                    "type": "Warm Blooded"
+                },
+                {
                     "type": "Wildshards"
+                },
+                {
+                    "type": "Zenith"
                 }
             ]
         },
@@ -5051,6 +6070,70 @@
                 },
                 {
                     "type": "Victorious Fate"
+                },
+                {
+                    "type": "Delirium Precursor Tablet",
+                    "text": "Clear Skies Delirium Precursor Tablet",
+                    "name": "Clear Skies",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Overseer Precursor Tablet",
+                    "text": "Cruel Hegemony Overseer Precursor Tablet",
+                    "name": "Cruel Hegemony",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Expedition Precursor Tablet",
+                    "text": "Forgotten By Time Expedition Precursor Tablet",
+                    "name": "Forgotten By Time",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Ritual Precursor Tablet",
+                    "text": "Freedom of Faith Ritual Precursor Tablet",
+                    "name": "Freedom of Faith",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Overseer Precursor Tablet",
+                    "text": "Season of the Hunt Overseer Precursor Tablet",
+                    "name": "Season of the Hunt",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Precursor Tablet",
+                    "text": "The Grand Project Precursor Tablet",
+                    "name": "The Grand Project",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Precursor Tablet",
+                    "text": "Visions of Paradise Precursor Tablet",
+                    "name": "Visions of Paradise",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Breach Precursor Tablet",
+                    "text": "Wraeclast Besieged Breach Precursor Tablet",
+                    "name": "Wraeclast Besieged",
+                    "flags": {
+                        "unique": true
+                    }
                 }
             ]
         },
@@ -5116,7 +6199,13 @@
                     "type": "Crescent Axe"
                 },
                 {
+                    "type": "Carving Hatchet"
+                },
+                {
                     "type": "Wooden Club"
+                },
+                {
+                    "type": "Execratus Hammer"
                 },
                 {
                     "type": "Torment Club"
@@ -5182,6 +6271,12 @@
                     "type": "Hardwood Spear"
                 },
                 {
+                    "type": "Seaglass Spear"
+                },
+                {
+                    "type": "Sword Spear"
+                },
+                {
                     "type": "Striking Spear"
                 },
                 {
@@ -5189,6 +6284,9 @@
                 },
                 {
                     "type": "Ironhead Spear"
+                },
+                {
+                    "type": "Steelhead Spear"
                 },
                 {
                     "type": "Orichalcum Spear"
@@ -5200,10 +6298,16 @@
                     "type": "Coursing Spear"
                 },
                 {
+                    "type": "Stalking Spear"
+                },
+                {
                     "type": "Winged Spear"
                 },
                 {
                     "type": "War Spear"
+                },
+                {
+                    "type": "Swift Spear"
                 },
                 {
                     "type": "Flying Spear"
@@ -5212,13 +6316,31 @@
                     "type": "Forked Spear"
                 },
                 {
+                    "type": "Branched Spear"
+                },
+                {
+                    "type": "Pronged Spear"
+                },
+                {
+                    "type": "Barbed Spear"
+                },
+                {
                     "type": "Jagged Spear"
                 },
                 {
                     "type": "Spiked Spear"
                 },
                 {
+                    "type": "Broad Spear"
+                },
+                {
+                    "type": "Massive Spear"
+                },
+                {
                     "type": "Grand Spear"
+                },
+                {
+                    "type": "Crossblade Spear"
                 },
                 {
                     "type": "Shortsword"
@@ -5488,6 +6610,9 @@
                     "type": "Felled Greatclub"
                 },
                 {
+                    "type": "Giant Maul"
+                },
+                {
                     "type": "Oak Greathammer"
                 },
                 {
@@ -5545,6 +6670,9 @@
                     "type": "Ruination Maul"
                 },
                 {
+                    "type": "Pointed Maul"
+                },
+                {
                     "type": "Corroded Longsword"
                 },
                 {
@@ -5587,6 +6715,14 @@
                     }
                 },
                 {
+                    "type": "Hunting Spear",
+                    "text": "Chainsting Hunting Spear",
+                    "name": "Chainsting",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Leaden Greathammer",
                     "text": "Chober Chaber Leaden Greathammer",
                     "name": "Chober Chaber",
@@ -5603,6 +6739,14 @@
                     }
                 },
                 {
+                    "type": "Acrid Wand",
+                    "text": "Cursecarver Acrid Wand",
+                    "name": "Cursecarver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "War Spear",
                     "text": "Daevata's Wind War Spear",
                     "name": "Daevata's Wind",
@@ -5614,6 +6758,14 @@
                     "type": "Dualstring Bow",
                     "text": "Death's Harp Dualstring Bow",
                     "name": "Death's Harp",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Composite Bow",
+                    "text": "Doomfletch Composite Bow",
+                    "name": "Doomfletch",
                     "flags": {
                         "unique": true
                     }
@@ -5715,14 +6867,6 @@
                     }
                 },
                 {
-                    "type": "Arched Greataxe",
-                    "text": "INCOMPLETE Arched Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Chain Flail",
                     "text": "INCOMPLETE Chain Flail",
                     "name": "INCOMPLETE",
@@ -5739,8 +6883,8 @@
                     }
                 },
                 {
-                    "type": "Executioner Greataxe",
-                    "text": "INCOMPLETE Executioner Greataxe",
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5755,14 +6899,6 @@
                     }
                 },
                 {
-                    "type": "Crone Knife",
-                    "text": "INCOMPLETE Crone Knife",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Skinning Knife",
                     "text": "INCOMPLETE Skinning Knife",
                     "name": "INCOMPLETE",
@@ -5771,8 +6907,8 @@
                     }
                 },
                 {
-                    "type": "Broadsword",
-                    "text": "INCOMPLETE Broadsword",
+                    "type": "Executioner Greataxe",
+                    "text": "INCOMPLETE Executioner Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5787,16 +6923,8 @@
                     }
                 },
                 {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
+                    "type": "Crone Knife",
+                    "text": "INCOMPLETE Crone Knife",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5811,6 +6939,14 @@
                     }
                 },
                 {
+                    "type": "Broadsword",
+                    "text": "INCOMPLETE Broadsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Splitting Greataxe",
                     "text": "INCOMPLETE Splitting Greataxe",
                     "name": "INCOMPLETE",
@@ -5819,8 +6955,24 @@
                     }
                 },
                 {
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Moon Dagger",
                     "text": "INCOMPLETE Moon Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -5923,9 +7075,25 @@
                     }
                 },
                 {
+                    "type": "Torment Club",
+                    "text": "Mjölner Torment Club",
+                    "name": "Mjölner",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Steelpoint Quarterstaff",
                     "text": "Nazir's Judgement Steelpoint Quarterstaff",
                     "name": "Nazir's Judgement",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Execratus Hammer",
+                    "text": "Nebuloch Execratus Hammer",
+                    "name": "Nebuloch",
                     "flags": {
                         "unique": true
                     }
@@ -5987,9 +7155,25 @@
                     }
                 },
                 {
+                    "type": "Barbed Spear",
+                    "text": "Saitha's Spear Barbed Spear",
+                    "name": "Saitha's Spear",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Bone Wand",
                     "text": "Sanguine Diviner Bone Wand",
                     "name": "Sanguine Diviner",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Warpick",
+                    "text": "Sculpted Suffering Warpick",
+                    "name": "Sculpted Suffering",
                     "flags": {
                         "unique": true
                     }
@@ -6003,9 +7187,33 @@
                     }
                 },
                 {
+                    "type": "Temple Maul",
+                    "text": "Shyaba Temple Maul",
+                    "name": "Shyaba",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Chiming Staff",
+                    "text": "Sire of Shards Chiming Staff",
+                    "name": "Sire of Shards",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Winged Spear",
                     "text": "Skysliver Winged Spear",
                     "name": "Skysliver",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Zealot Bow",
+                    "text": "Slivertongue Zealot Bow",
+                    "name": "Slivertongue",
                     "flags": {
                         "unique": true
                     }
@@ -6075,6 +7283,22 @@
                     }
                 },
                 {
+                    "type": "Cultist Greathammer",
+                    "text": "The Empty Roar Cultist Greathammer",
+                    "name": "The Empty Roar",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Giant Maul",
+                    "text": "The Hammer of Faith Giant Maul",
+                    "name": "The Hammer of Faith",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Pyrophyte Staff",
                     "text": "The Searing Touch Pyrophyte Staff",
                     "name": "The Searing Touch",
@@ -6099,6 +7323,14 @@
                     }
                 },
                 {
+                    "type": "Pointed Maul",
+                    "text": "Tidebreaker Pointed Maul",
+                    "name": "Tidebreaker",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Spiked Club",
                     "text": "Trenchtimbre Spiked Club",
                     "name": "Trenchtimbre",
@@ -6118,6 +7350,14 @@
                     "type": "Ironhead Spear",
                     "text": "Tyranny's Grip Ironhead Spear",
                     "name": "Tyranny's Grip",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Fanatic Bow",
+                    "text": "Voltaxic Rift Fanatic Bow",
+                    "name": "Voltaxic Rift",
                     "flags": {
                         "unique": true
                     }

@@ -41,6 +41,9 @@
                     "type": "Gloam Amulet"
                 },
                 {
+                    "type": "Penumbra Amulet"
+                },
+                {
                     "type": "Tenebrous Amulet"
                 },
                 {
@@ -195,6 +198,14 @@
                     "type": "Wide Belt",
                     "text": "Brynabas Wide Belt",
                     "name": "Brynabas",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Unset Ring",
+                    "text": "Bursting Decay Unset Ring",
+                    "name": "Bursting Decay",
                     "flags": {
                         "unique": true
                     }
@@ -592,6 +603,14 @@
                     }
                 },
                 {
+                    "type": "Wide Belt",
+                    "text": "The Gnashing Sash Wide Belt",
+                    "name": "The Gnashing Sash",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Lapis Amulet",
                     "text": "The Pandemonius Lapis Amulet",
                     "name": "The Pandemonius",
@@ -693,6 +712,9 @@
                 },
                 {
                     "type": "Strider Vest"
+                },
+                {
+                    "type": "Armoured Vest"
                 },
                 {
                     "type": "Quilted Vest"
@@ -1451,6 +1473,9 @@
                     "type": "Burnished Gauntlets"
                 },
                 {
+                    "type": "Ornate Gauntlets"
+                },
+                {
                     "type": "Grand Manchettes"
                 },
                 {
@@ -1827,6 +1852,9 @@
                 },
                 {
                     "type": "Splintered Tower Shield"
+                },
+                {
+                    "type": "Blacksteel Tower Shield"
                 },
                 {
                     "type": "Painted Tower Shield"
@@ -2291,6 +2319,14 @@
                     }
                 },
                 {
+                    "type": "Blacksteel Tower Shield",
+                    "text": "Chernobog's Pillar Blacksteel Tower Shield",
+                    "name": "Chernobog's Pillar",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Havoc Raiment",
                     "text": "Cloak of Defiance Havoc Raiment",
                     "name": "Cloak of Defiance",
@@ -2390,6 +2426,14 @@
                     "type": "Braced Sabatons",
                     "text": "Darkray Vectors Braced Sabatons",
                     "name": "Darkray Vectors",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Ornate Gauntlets",
+                    "text": "Death Articulated Ornate Gauntlets",
+                    "name": "Death Articulated",
                     "flags": {
                         "unique": true
                     }
@@ -2715,6 +2759,14 @@
                     }
                 },
                 {
+                    "type": "Armoured Vest",
+                    "text": "Hyrri's Ire Armoured Vest",
+                    "name": "Hyrri's Ire",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Mail Vestments",
                     "text": "Icetomb Mail Vestments",
                     "name": "Icetomb",
@@ -3019,6 +3071,14 @@
                     }
                 },
                 {
+                    "type": "Intricate Crest Shield",
+                    "text": "Prism Guardian Intricate Crest Shield",
+                    "name": "Prism Guardian",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Serpentscale Coat",
                     "text": "Quatl's Molt Serpentscale Coat",
                     "name": "Quatl's Molt",
@@ -3038,6 +3098,14 @@
                     "type": "Lace Hood",
                     "text": "Radiant Grief Lace Hood",
                     "name": "Radiant Grief",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Sacred Focus",
+                    "text": "Rathpith Globe Sacred Focus",
+                    "name": "Rathpith Globe",
                     "flags": {
                         "unique": true
                     }
@@ -3682,6 +3750,9 @@
                     "type": "Vaal Orb"
                 },
                 {
+                    "type": "Essence of Insanity"
+                },
+                {
                     "type": "Mirror of Kalandra"
                 },
                 {
@@ -4111,6 +4182,9 @@
                     "type": "Cat Talisman"
                 },
                 {
+                    "type": "Fox Talisman"
+                },
+                {
                     "type": "Primate Talisman"
                 },
                 {
@@ -4260,6 +4334,14 @@
                     }
                 },
                 {
+                    "type": "Stone Charm",
+                    "text": "For Utopia Stone Charm",
+                    "name": "For Utopia",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Ultimate Mana Flask",
                     "text": "Melting Maelstrom Ultimate Mana Flask",
                     "name": "Melting Maelstrom",
@@ -4287,6 +4369,14 @@
                     "type": "Ultimate Life Flask",
                     "text": "Olroth's Resolve Ultimate Life Flask",
                     "name": "Olroth's Resolve",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Golden Charm",
+                    "text": "Rite of Passage Golden Charm",
+                    "name": "Rite of Passage",
                     "flags": {
                         "unique": true
                     }
@@ -5389,6 +5479,9 @@
                     "type": "Ammo Conservation"
                 },
                 {
+                    "type": "Ancestral Aid"
+                },
+                {
                     "type": "Ancestral Call"
                 },
                 {
@@ -5405,6 +5498,12 @@
                 },
                 {
                     "type": "Auto Reload"
+                },
+                {
+                    "type": "Barbs"
+                },
+                {
+                    "type": "Battershout"
                 },
                 {
                     "type": "Bidding"
@@ -5435,6 +5534,9 @@
                 },
                 {
                     "type": "Capacitor"
+                },
+                {
+                    "type": "Catharsis"
                 },
                 {
                     "type": "Chaotic Freeze"
@@ -5506,6 +5608,9 @@
                     "type": "Delayed Gratification"
                 },
                 {
+                    "type": "Delayed Reaction"
+                },
+                {
                     "type": "Deliberation"
                 },
                 {
@@ -5557,7 +5662,16 @@
                     "type": "Ferocity"
                 },
                 {
+                    "type": "Figurehead"
+                },
+                {
                     "type": "First Blood"
+                },
+                {
+                    "type": "Flamepierce"
+                },
+                {
+                    "type": "Flow"
                 },
                 {
                     "type": "Fluke"
@@ -5689,6 +5803,9 @@
                     "type": "Raging Cry"
                 },
                 {
+                    "type": "Rally"
+                },
+                {
                     "type": "Reach"
                 },
                 {
@@ -5777,6 +5894,9 @@
                 },
                 {
                     "type": "Tear"
+                },
+                {
+                    "type": "Thornskin"
                 },
                 {
                     "type": "Tireless"
@@ -6166,6 +6286,9 @@
                     "type": "Splintered Flail"
                 },
                 {
+                    "type": "Tearing Flail"
+                },
+                {
                     "type": "Chain Flail"
                 },
                 {
@@ -6179,6 +6302,9 @@
                 },
                 {
                     "type": "Slender Flail"
+                },
+                {
+                    "type": "Ring Flail"
                 },
                 {
                     "type": "Dull Hatchet"
@@ -6346,6 +6472,9 @@
                     "type": "Shortsword"
                 },
                 {
+                    "type": "Commander Sword"
+                },
+                {
                     "type": "Broadsword"
                 },
                 {
@@ -6356,6 +6485,9 @@
                 },
                 {
                     "type": "Charred Shortsword"
+                },
+                {
+                    "type": "Sickle Sword"
                 },
                 {
                     "type": "Rattling Sceptre"
@@ -6589,6 +6721,12 @@
                     "type": "Splitting Greataxe"
                 },
                 {
+                    "type": "Ceremonial Halberd"
+                },
+                {
+                    "type": "Monument Greataxe"
+                },
+                {
                     "type": "Light Halberd"
                 },
                 {
@@ -6676,6 +6814,15 @@
                     "type": "Corroded Longsword"
                 },
                 {
+                    "type": "Ancient Greatblade"
+                },
+                {
+                    "type": "Flanged Greatblade"
+                },
+                {
+                    "type": "Regalia Longsword"
+                },
+                {
                     "type": "Iron Greatsword"
                 },
                 {
@@ -6689,6 +6836,12 @@
                 },
                 {
                     "type": "Arced Longsword"
+                },
+                {
+                    "type": "Obsidian Greatsword"
+                },
+                {
+                    "type": "Keen Greatsword"
                 },
                 {
                     "type": "Shortsword",
@@ -7214,6 +7367,14 @@
                     "type": "Zealot Bow",
                     "text": "Slivertongue Zealot Bow",
                     "name": "Slivertongue",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Helix Spear",
+                    "text": "Spire of Ire Helix Spear",
+                    "name": "Spire of Ire",
                     "flags": {
                         "unique": true
                     }

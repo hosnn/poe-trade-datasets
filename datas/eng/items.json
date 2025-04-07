@@ -3750,6 +3750,12 @@
                     "type": "Vaal Orb"
                 },
                 {
+                    "type": "Essence of Delirium"
+                },
+                {
+                    "type": "Essence of Horror"
+                },
+                {
                     "type": "Essence of Insanity"
                 },
                 {
@@ -4021,6 +4027,9 @@
                 },
                 {
                     "type": "Sun Artifact"
+                },
+                {
+                    "type": "Ritualistic Reliquary Key"
                 },
                 {
                     "type": "Twilight Reliquary Key"
@@ -6307,7 +6316,13 @@
                     "type": "Ring Flail"
                 },
                 {
+                    "type": "Guarded Flail"
+                },
+                {
                     "type": "Dull Hatchet"
+                },
+                {
+                    "type": "Fury Cleaver"
                 },
                 {
                     "type": "Hook Axe"
@@ -6473,6 +6488,9 @@
                 },
                 {
                     "type": "Commander Sword"
+                },
+                {
+                    "type": "Dark Blade"
                 },
                 {
                     "type": "Broadsword"
@@ -6836,6 +6854,9 @@
                 },
                 {
                     "type": "Arced Longsword"
+                },
+                {
+                    "type": "Stone Greatsword"
                 },
                 {
                     "type": "Obsidian Greatsword"

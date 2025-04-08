@@ -3756,6 +3756,9 @@
                     "type": "Essence of Horror"
                 },
                 {
+                    "type": "Essence of Hysteria"
+                },
+                {
                     "type": "Essence of Insanity"
                 },
                 {
@@ -4029,7 +4032,13 @@
                     "type": "Sun Artifact"
                 },
                 {
+                    "type": "Xesht's Reliquary Key"
+                },
+                {
                     "type": "Ritualistic Reliquary Key"
+                },
+                {
+                    "type": "The Trialmaster's Reliquary Key"
                 },
                 {
                     "type": "Twilight Reliquary Key"
@@ -4469,6 +4478,9 @@
                 },
                 {
                     "type": "Convalescence"
+                },
+                {
+                    "type": "Cull The Weak"
                 },
                 {
                     "type": "Dark Effigy"
@@ -6295,7 +6307,13 @@
                     "type": "Splintered Flail"
                 },
                 {
+                    "type": "Icicle Flail"
+                },
+                {
                     "type": "Tearing Flail"
+                },
+                {
+                    "type": "Great Flail"
                 },
                 {
                     "type": "Chain Flail"
@@ -6761,6 +6779,9 @@
                 },
                 {
                     "type": "Rending Halberd"
+                },
+                {
+                    "type": "Jagged Greataxe"
                 },
                 {
                     "type": "Felled Greatclub"

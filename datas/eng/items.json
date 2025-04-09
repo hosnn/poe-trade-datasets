@@ -4035,6 +4035,9 @@
                     "type": "Xesht's Reliquary Key"
                 },
                 {
+                    "type": "Olroth's Reliquary Key"
+                },
+                {
                     "type": "Ritualistic Reliquary Key"
                 },
                 {
@@ -6316,6 +6319,9 @@
                     "type": "Great Flail"
                 },
                 {
+                    "type": "Abyssal Flail"
+                },
+                {
                     "type": "Chain Flail"
                 },
                 {
@@ -7126,6 +7132,14 @@
                     }
                 },
                 {
+                    "type": "Simple Dagger",
+                    "text": "INCOMPLETE Simple Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Bearded Axe",
                     "text": "INCOMPLETE Bearded Axe",
                     "name": "INCOMPLETE",
@@ -7144,14 +7158,6 @@
                 {
                     "type": "Splitting Greataxe",
                     "text": "INCOMPLETE Splitting Greataxe",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Simple Dagger",
-                    "text": "INCOMPLETE Simple Dagger",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

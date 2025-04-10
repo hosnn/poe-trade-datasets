@@ -4038,7 +4038,13 @@
                     "type": "Olroth's Reliquary Key"
                 },
                 {
+                    "type": "The Arbiter's Reliquary Key"
+                },
+                {
                     "type": "Ritualistic Reliquary Key"
+                },
+                {
+                    "type": "Zarokh's Reliquary Key: Against the Darkness"
                 },
                 {
                     "type": "The Trialmaster's Reliquary Key"
@@ -6289,6 +6295,9 @@
                     "type": "Glass Shank"
                 },
                 {
+                    "type": "Parrying Dagger"
+                },
+                {
                     "type": "Crone Knife"
                 },
                 {
@@ -6347,6 +6356,9 @@
                 },
                 {
                     "type": "Fury Cleaver"
+                },
+                {
+                    "type": "Dread Hatchet"
                 },
                 {
                     "type": "Hook Axe"
@@ -6866,6 +6878,9 @@
                 },
                 {
                     "type": "Regalia Longsword"
+                },
+                {
+                    "type": "Ultra Greatsword"
                 },
                 {
                     "type": "Iron Greatsword"

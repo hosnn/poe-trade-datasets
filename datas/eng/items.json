@@ -4071,6 +4071,15 @@
                     "type": "Lesser Glacial Rune"
                 },
                 {
+                    "type": "Adept Rune"
+                },
+                {
+                    "type": "Greater Adept Rune"
+                },
+                {
+                    "type": "Lesser Adept Rune"
+                },
+                {
                     "type": "Iron Rune"
                 },
                 {
@@ -4087,6 +4096,15 @@
                 },
                 {
                     "type": "Lesser Desert Rune"
+                },
+                {
+                    "type": "Resolve Rune"
+                },
+                {
+                    "type": "Greater Resolve Rune"
+                },
+                {
+                    "type": "Lesser Resolve Rune"
                 },
                 {
                     "type": "Body Rune"
@@ -4144,6 +4162,15 @@
                 },
                 {
                     "type": "Greater Rune of Nobility"
+                },
+                {
+                    "type": "Robust Rune"
+                },
+                {
+                    "type": "Greater Robust Rune"
+                },
+                {
+                    "type": "Lesser Robust Rune"
                 },
                 {
                     "type": "Stone Rune"
@@ -5752,6 +5779,9 @@
                     "type": "Incision"
                 },
                 {
+                    "type": "Inhibitor"
+                },
+                {
                     "type": "Innervate"
                 },
                 {
@@ -6544,6 +6574,9 @@
                     "type": "Sickle Sword"
                 },
                 {
+                    "type": "Cutlass"
+                },
+                {
                     "type": "Rattling Sceptre"
                 },
                 {
@@ -6773,6 +6806,9 @@
                 },
                 {
                     "type": "Splitting Greataxe"
+                },
+                {
+                    "type": "Ember Greataxe"
                 },
                 {
                     "type": "Ceremonial Halberd"

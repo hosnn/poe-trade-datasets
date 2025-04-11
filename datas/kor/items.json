@@ -4077,6 +4077,15 @@
                     "type": "하위 빙하 룬"
                 },
                 {
+                    "type": "Adept Rune"
+                },
+                {
+                    "type": "Greater Adept Rune"
+                },
+                {
+                    "type": "Lesser Adept Rune"
+                },
+                {
                     "type": "철 룬"
                 },
                 {
@@ -4093,6 +4102,15 @@
                 },
                 {
                     "type": "하위 사막 룬"
+                },
+                {
+                    "type": "Resolve Rune"
+                },
+                {
+                    "type": "Greater Resolve Rune"
+                },
+                {
+                    "type": "Lesser Resolve Rune"
                 },
                 {
                     "type": "육신 룬"
@@ -4150,6 +4168,15 @@
                 },
                 {
                     "type": "고결성의 상위 룬"
+                },
+                {
+                    "type": "Robust Rune"
+                },
+                {
+                    "type": "Greater Robust Rune"
+                },
+                {
+                    "type": "Lesser Robust Rune"
                 },
                 {
                     "type": "돌 룬"
@@ -5758,6 +5785,9 @@
                     "type": "절개"
                 },
                 {
+                    "type": "Inhibitor"
+                },
+                {
                     "type": "자극"
                 },
                 {
@@ -6550,6 +6580,9 @@
                     "type": "낫 검"
                 },
                 {
+                    "type": "커틀라스"
+                },
+                {
                     "type": "덜컹대는 셉터"
                 },
                 {
@@ -6779,6 +6812,9 @@
                 },
                 {
                     "type": "분할의 대도끼"
+                },
+                {
+                    "type": "잉걸불 대도끼"
                 },
                 {
                     "type": "의식용 미늘창"

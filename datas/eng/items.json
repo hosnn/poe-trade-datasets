@@ -4035,6 +4035,9 @@
                     "type": "Xesht's Reliquary Key"
                 },
                 {
+                    "type": "Tangmazu's Reliquary Key"
+                },
+                {
                     "type": "Olroth's Reliquary Key"
                 },
                 {
@@ -6328,6 +6331,9 @@
                     "type": "Parrying Dagger"
                 },
                 {
+                    "type": "Arcane Dirk"
+                },
+                {
                     "type": "Crone Knife"
                 },
                 {
@@ -6388,6 +6394,9 @@
                     "type": "Fury Cleaver"
                 },
                 {
+                    "type": "Profane Cleaver"
+                },
+                {
                     "type": "Dread Hatchet"
                 },
                 {
@@ -6407,6 +6416,9 @@
                 },
                 {
                     "type": "Carving Hatchet"
+                },
+                {
+                    "type": "Sacrificial Axe"
                 },
                 {
                     "type": "Wooden Club"
@@ -6551,6 +6563,9 @@
                 },
                 {
                     "type": "Shortsword"
+                },
+                {
+                    "type": "Runic Shortsword"
                 },
                 {
                     "type": "Commander Sword"
@@ -6836,6 +6851,9 @@
                 },
                 {
                     "type": "Jagged Greataxe"
+                },
+                {
+                    "type": "Reaver Glaive"
                 },
                 {
                     "type": "Felled Greatclub"

@@ -6334,6 +6334,9 @@
                     "type": "Arcane Dirk"
                 },
                 {
+                    "type": "Cinquedea"
+                },
+                {
                     "type": "Crone Knife"
                 },
                 {
@@ -7113,14 +7116,6 @@
                     }
                 },
                 {
-                    "type": "Ironhead Spear",
-                    "text": "INCOMPLETE Ironhead Spear",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Corroded Longsword",
                     "text": "INCOMPLETE Corroded Longsword",
                     "name": "INCOMPLETE",
@@ -7129,8 +7124,24 @@
                     }
                 },
                 {
+                    "type": "Ironhead Spear",
+                    "text": "INCOMPLETE Ironhead Spear",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Charred Shortsword",
                     "text": "INCOMPLETE Charred Shortsword",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Arched Greataxe",
+                    "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -7147,14 +7158,6 @@
                 {
                     "type": "Holy Flail",
                     "text": "INCOMPLETE Holy Flail",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Arched Greataxe",
-                    "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

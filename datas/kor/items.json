@@ -2438,8 +2438,8 @@
                 },
                 {
                     "type": "화려한 건틀릿",
-                    "text": "Death Articulated 화려한 건틀릿",
-                    "name": "Death Articulated",
+                    "text": "또렷하게 들려오는 죽음 화려한 건틀릿",
+                    "name": "또렷하게 들려오는 죽음",
                     "flags": {
                         "unique": true
                     }
@@ -4366,8 +4366,8 @@
                 },
                 {
                     "type": "해독 호신부",
-                    "text": "Arakaali's Gift 해독 호신부",
-                    "name": "Arakaali's Gift",
+                    "text": "아라칼리의 선물 해독 호신부",
+                    "name": "아라칼리의 선물",
                     "flags": {
                         "unique": true
                     }
@@ -4382,24 +4382,24 @@
                 },
                 {
                     "type": "사파이어 호신부",
-                    "text": "Breath of the Mountains 사파이어 호신부",
-                    "name": "Breath of the Mountains",
+                    "text": "산맥의 숨결 사파이어 호신부",
+                    "name": "산맥의 숨결",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "type": "자수정 호신부",
-                    "text": "Forsaken Bangle 자수정 호신부",
-                    "name": "Forsaken Bangle",
+                    "text": "버림받은 팔찌 자수정 호신부",
+                    "name": "버림받은 팔찌",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "type": "돌 호신부",
-                    "text": "For Utopia 돌 호신부",
-                    "name": "For Utopia",
+                    "text": "유토피아를 위해 돌 호신부",
+                    "name": "유토피아를 위해",
                     "flags": {
                         "unique": true
                     }
@@ -4414,8 +4414,8 @@
                 },
                 {
                     "type": "해동 호신부",
-                    "text": "Nascent Hope 해동 호신부",
-                    "name": "Nascent Hope",
+                    "text": "태동하는 희망 해동 호신부",
+                    "name": "태동하는 희망",
                     "flags": {
                         "unique": true
                     }
@@ -4438,24 +4438,24 @@
                 },
                 {
                     "type": "황금 호신부",
-                    "text": "Rite of Passage 황금 호신부",
-                    "name": "Rite of Passage",
+                    "text": "통과의례 황금 호신부",
+                    "name": "통과의례",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "type": "지혈 호신부",
-                    "text": "Sanguis Heroum 지혈 호신부",
-                    "name": "Sanguis Heroum",
+                    "text": "상귀스 헤로움 지혈 호신부",
+                    "name": "상귀스 헤로움",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "type": "접지 호신부",
-                    "text": "The Black Cat 접지 호신부",
-                    "name": "The Black Cat",
+                    "text": "검은 고양이 접지 호신부",
+                    "name": "검은 고양이",
                     "flags": {
                         "unique": true
                     }
@@ -4470,8 +4470,8 @@
                 },
                 {
                     "type": "토파즈 호신부",
-                    "text": "Valako's Roar 토파즈 호신부",
-                    "name": "Valako's Roar",
+                    "text": "발라코의 포효 토파즈 호신부",
+                    "name": "발라코의 포효",
                     "flags": {
                         "unique": true
                     }
@@ -5836,7 +5836,7 @@
                     "type": "가뿐한 재장전"
                 },
                 {
-                    "type": "Outmaneuver"
+                    "type": "허 찌르기"
                 },
                 {
                     "type": "무리"
@@ -5926,7 +5926,7 @@
                     "type": "감전 도약"
                 },
                 {
-                    "type": "Single Out"
+                    "type": "지목"
                 },
                 {
                     "type": "대련"
@@ -5974,7 +5974,7 @@
                     "type": "진동"
                 },
                 {
-                    "type": "Tumult"
+                    "type": "격동"
                 },
                 {
                     "type": "배가"
@@ -6310,16 +6310,16 @@
                 },
                 {
                     "type": "선도자 서판",
-                    "text": "Visions of Paradise 선도자 서판",
-                    "name": "Visions of Paradise",
+                    "text": "낙원의 환영 선도자 서판",
+                    "name": "낙원의 환영",
                     "flags": {
                         "unique": true
                     }
                 },
                 {
                     "type": "균열 선도자 서판",
-                    "text": "Wraeclast Besieged 균열 선도자 서판",
-                    "name": "Wraeclast Besieged",
+                    "text": "포위당한 레이클라스트 균열 선도자 서판",
+                    "name": "포위당한 레이클라스트",
                     "flags": {
                         "unique": true
                     }
@@ -6389,6 +6389,9 @@
                 },
                 {
                     "type": "날씬한 도리깨"
+                },
+                {
+                    "type": "돌 도리깨"
                 },
                 {
                     "type": "고리 도리깨"
@@ -7146,14 +7149,6 @@
                     }
                 },
                 {
-                    "type": "아치형 대도끼",
-                    "text": "미완성 아치형 대도끼",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "사슬 도리깨",
                     "text": "미완성 사슬 도리깨",
                     "name": "미완성",
@@ -7164,6 +7159,14 @@
                 {
                     "type": "신성한 도리깨",
                     "text": "미완성 신성한 도리깨",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "아치형 대도끼",
+                    "text": "미완성 아치형 대도끼",
                     "name": "미완성",
                     "flags": {
                         "unique": true

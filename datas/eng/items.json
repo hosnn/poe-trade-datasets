@@ -6355,6 +6355,9 @@
                     "type": "Obsidian Dagger"
                 },
                 {
+                    "type": "Mail Breaker"
+                },
+                {
                     "type": "Splintered Flail"
                 },
                 {
@@ -7151,14 +7154,6 @@
                     }
                 },
                 {
-                    "type": "Holy Flail",
-                    "text": "INCOMPLETE Holy Flail",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
                     "type": "Arched Greataxe",
                     "text": "INCOMPLETE Arched Greataxe",
                     "name": "INCOMPLETE",
@@ -7241,6 +7236,14 @@
                 {
                     "type": "Moon Dagger",
                     "text": "INCOMPLETE Moon Dagger",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Holy Flail",
+                    "text": "INCOMPLETE Holy Flail",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

@@ -7214,6 +7214,14 @@
                     }
                 },
                 {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Bearded Axe",
                     "text": "INCOMPLETE Bearded Axe",
                     "name": "INCOMPLETE",
@@ -7256,14 +7264,6 @@
                 {
                     "type": "Holy Flail",
                     "text": "INCOMPLETE Holy Flail",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true

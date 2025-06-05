@@ -346,6 +346,12 @@
                     "minMax": true
                 },
                 {
+                    "id": "reload_time",
+                    "text": "Reload Time",
+                    "minMax": true,
+                    "halfSpan": true
+                },
+                {
                     "id": "ar",
                     "text": "Armour",
                     "tip": "Includes base value, local modifiers, and maximum quality",
@@ -411,7 +417,7 @@
         },
         {
             "id": "map_filters",
-            "title": "Waystone Filters",
+            "title": "Endgame Filters",
             "hidden": true,
             "filters": [
                 {
@@ -423,6 +429,30 @@
                     "id": "map_bonus",
                     "text": "Waystone Drop Chance",
                     "minMax": true
+                },
+                {
+                    "id": "ultimatum_hint",
+                    "text": "Ultimatum Trial Hint",
+                    "option": {
+                        "options": [
+                            {
+                                "id": null,
+                                "text": "Any"
+                            },
+                            {
+                                "id": "Victorious",
+                                "text": "Victorious"
+                            },
+                            {
+                                "id": "Cowardly",
+                                "text": "Cowardly"
+                            },
+                            {
+                                "id": "Deadly",
+                                "text": "Deadly"
+                            }
+                        ]
+                    }
                 }
             ]
         },

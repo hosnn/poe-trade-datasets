@@ -436,7 +436,7 @@
         },
         {
             "id": "Talismans",
-            "label": "Talismans",
+            "label": "부적",
             "entries": [
                 {
                     "id": "bear-talisman",
@@ -1121,7 +1121,7 @@
         },
         {
             "id": "VaultKeys",
-            "label": "Reliquary Keys",
+            "label": "성유물 보관실 열쇠",
             "entries": [
                 {
                     "id": "twilight-reliquary-key",

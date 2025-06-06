@@ -1608,6 +1608,9 @@
                     "type": "단단한 가면"
                 },
                 {
+                    "type": "죽음 가면"
+                },
+                {
                     "type": "잔가지 관"
                 },
                 {
@@ -2289,6 +2292,14 @@
                     }
                 },
                 {
+                    "type": "준비된 화살통",
+                    "text": "페란두스 회전문 준비된 화살통",
+                    "name": "페란두스 회전문",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "화려한 버클러",
                     "text": "칼기라의 원호 화려한 버클러",
                     "name": "칼기라의 원호",
@@ -2340,6 +2351,14 @@
                     "type": "사슬 갑옷",
                     "text": "붉은색의 외투 사슬 갑옷",
                     "name": "붉은색의 외투",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "독사 모자",
+                    "text": "목 죄이는 명령 독사 모자",
+                    "name": "목 죄이는 명령",
                     "flags": {
                         "unique": true
                     }
@@ -2945,9 +2964,25 @@
                     }
                 },
                 {
+                    "type": "죽음 가면",
+                    "text": "의회의 정신 죽음 가면",
+                    "name": "의회의 정신",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "우수한 예복",
                     "text": "모리오르 인빅투스 우수한 예복",
                     "name": "모리오르 인빅투스",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "맹독성 화살통",
+                    "text": "진창 수갱 맹독성 화살통",
+                    "name": "진창 수갱",
                     "flags": {
                         "unique": true
                     }
@@ -4152,13 +4187,76 @@
                     "type": "통솔의 상위 룬"
                 },
                 {
+                    "type": "Craiceann's Rune of Warding"
+                },
+                {
+                    "type": "Saqawal's Rune of Memory"
+                },
+                {
+                    "type": "Saqawal's Rune of Erosion"
+                },
+                {
+                    "type": "Farrul's Rune of the Hunt"
+                },
+                {
+                    "type": "Craiceann's Rune of Recovery"
+                },
+                {
+                    "type": "Courtesan Mannan's Rune of Cruelty"
+                },
+                {
+                    "type": "Thane Grannell's Rune of Mastery"
+                },
+                {
+                    "type": "Fenumus' Rune of Spinning"
+                },
+                {
+                    "type": "Countess Seske's Rune of Archery"
+                },
+                {
+                    "type": "Thane Girt's Rune of Wildness"
+                },
+                {
                     "type": "십일조의 상위 룬"
+                },
+                {
+                    "type": "Fenumus' Rune of Draining"
+                },
+                {
+                    "type": "Thane Myrk's Rune of Summer"
+                },
+                {
+                    "type": "Lady Hestra's Rune of Winter"
+                },
+                {
+                    "type": "Thane Leld's Rune of Spring"
+                },
+                {
+                    "type": "The Greatwolf's Rune of Claws"
+                },
+                {
+                    "type": "The Greatwolf's Rune of Willpower"
                 },
                 {
                     "type": "기민성의 상위 룬"
                 },
                 {
                     "type": "고결성의 상위 룬"
+                },
+                {
+                    "type": "Hedgewitch Assandra's Rune of Wisdom"
+                },
+                {
+                    "type": "Saqawal's Rune of the Sky"
+                },
+                {
+                    "type": "Fenumus' Rune of Agony"
+                },
+                {
+                    "type": "Farrul's Rune of Grace"
+                },
+                {
+                    "type": "Farrul's Rune of the Chase"
                 },
                 {
                     "type": "왕성한 룬"
@@ -4218,6 +4316,51 @@
                     "type": "조펙의 영혼 핵"
                 },
                 {
+                    "type": "Hayoxi's Soul Core of Heatproofing"
+                },
+                {
+                    "type": "Xopec's Soul Core of Power"
+                },
+                {
+                    "type": "Estazunti's Soul Core of Convalescence"
+                },
+                {
+                    "type": "Tacati's Soul Core of Affliction"
+                },
+                {
+                    "type": "Cholotl's Soul Core of War"
+                },
+                {
+                    "type": "Citaqualotl's Soul Core of Foulness"
+                },
+                {
+                    "type": "Xipocado's Soul Core of Dominion"
+                },
+                {
+                    "type": "Zalatl's Soul Core of Insulation"
+                },
+                {
+                    "type": "Topotante's Soul Core of Dampening"
+                },
+                {
+                    "type": "Atmohua's Soul Core of Retreat"
+                },
+                {
+                    "type": "Quipolatl's Soul Core of Flow"
+                },
+                {
+                    "type": "Tzamoto's Soul Core of Ferocity"
+                },
+                {
+                    "type": "Uromoti's Soul Core of Attenuation"
+                },
+                {
+                    "type": "Opiloti's Soul Core of Assault"
+                },
+                {
+                    "type": "Guatelitzi's Soul Core of Endurance"
+                },
+                {
                     "type": "퀴폴라틀의 영혼 핵"
                 },
                 {
@@ -4249,6 +4392,27 @@
                 },
                 {
                     "type": "독사 부적"
+                },
+                {
+                    "type": "Talisman of Sirrius"
+                },
+                {
+                    "type": "Talisman of Thruldana"
+                },
+                {
+                    "type": "Talisman of Grold"
+                },
+                {
+                    "type": "Talisman of Eeshta"
+                },
+                {
+                    "type": "Talisman of Egrin"
+                },
+                {
+                    "type": "Talisman of Maxarius"
+                },
+                {
+                    "type": "Talisman of Ralakesh"
                 },
                 {
                     "type": "수사슴 부적"
@@ -6249,6 +6413,9 @@
                     "type": "승리의 운명"
                 },
                 {
+                    "type": "Inscribed Ultimatum"
+                },
+                {
                     "type": "환영 선도자 서판",
                     "text": "맑은 하늘 환영 선도자 서판",
                     "name": "맑은 하늘",
@@ -6625,6 +6792,9 @@
                     "type": "성소 셉터"
                 },
                 {
+                    "type": "Shrine Sceptre"
+                },
+                {
                     "type": "말라버린 마법봉"
                 },
                 {
@@ -6644,6 +6814,9 @@
                 },
                 {
                     "type": "조잡한 활"
+                },
+                {
+                    "type": "무거운 활"
                 },
                 {
                     "type": "단궁"
@@ -6838,6 +7011,9 @@
                     "type": "차임벨 지팡이"
                 },
                 {
+                    "type": "Permafrost Staff"
+                },
+                {
                     "type": "분할의 대도끼"
                 },
                 {
@@ -6982,6 +7158,14 @@
                     "type": "예리한 대검"
                 },
                 {
+                    "type": "착취 마법봉",
+                    "text": "고상한 불화 착취 마법봉",
+                    "name": "고상한 불화",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "절단도",
                     "text": "푸른혀 절단도",
                     "name": "푸른혀",
@@ -7110,6 +7294,30 @@
                     }
                 },
                 {
+                    "type": "성소 셉터",
+                    "text": "Guiding Palm of the Eye 성소 셉터",
+                    "name": "Guiding Palm of the Eye",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "성소 셉터",
+                    "text": "Guiding Palm of the Heart 성소 셉터",
+                    "name": "Guiding Palm of the Heart",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "성소 셉터",
+                    "text": "Guiding Palm of the Mind 성소 셉터",
+                    "name": "Guiding Palm of the Mind",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "쓰러진 대곤봉",
                     "text": "돼지사냥 쓰러진 대곤봉",
                     "name": "돼지사냥",
@@ -7190,6 +7398,14 @@
                     }
                 },
                 {
+                    "type": "갈고리 도끼",
+                    "text": "미완성 갈고리 도끼",
+                    "name": "미완성",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "철 대검",
                     "text": "미완성 철 대검",
                     "name": "미완성",
@@ -7208,14 +7424,6 @@
                 {
                     "type": "단순한 단검",
                     "text": "미완성 단순한 단검",
-                    "name": "미완성",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "갈고리 도끼",
-                    "text": "미완성 갈고리 도끼",
                     "name": "미완성",
                     "flags": {
                         "unique": true
@@ -7350,6 +7558,14 @@
                     }
                 },
                 {
+                    "type": "무거운 활",
+                    "text": "라이온아이의 섬광 무거운 활",
+                    "name": "라이온아이의 섬광",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "초승달 육척봉",
                     "text": "마챠 초승달 육척봉",
                     "name": "마챠",
@@ -7393,6 +7609,14 @@
                     "type": "고통 곤봉",
                     "text": "올로바사라 고통 곤봉",
                     "name": "올로바사라",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Shrine Sceptre",
+                    "text": "Palm of the Dreamer Shrine Sceptre",
+                    "name": "Palm of the Dreamer",
                     "flags": {
                         "unique": true
                     }
@@ -7598,6 +7822,14 @@
                     }
                 },
                 {
+                    "type": "황량한 석궁",
+                    "text": "위대한 설계 황량한 석궁",
+                    "name": "위대한 설계",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "불저항 지팡이",
                     "text": "이글거리는 손길 불저항 지팡이",
                     "name": "이글거리는 손길",
@@ -7609,6 +7841,14 @@
                     "type": "고딕 육척봉",
                     "text": "보초 고딕 육척봉",
                     "name": "보초",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Permafrost Staff",
+                    "text": "속삭이는 얼음 Permafrost Staff",
+                    "name": "속삭이는 얼음",
                     "flags": {
                         "unique": true
                     }

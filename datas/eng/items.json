@@ -1611,6 +1611,9 @@
                     "type": "Solid Mask"
                 },
                 {
+                    "type": "Death Mask"
+                },
+                {
                     "type": "Twig Circlet"
                 },
                 {
@@ -2295,6 +2298,14 @@
                     }
                 },
                 {
+                    "type": "Primed Quiver",
+                    "text": "Cadiro's Gambit Primed Quiver",
+                    "name": "Cadiro's Gambit",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Ornate Buckler",
                     "text": "Calgyra's Arc Ornate Buckler",
                     "name": "Calgyra's Arc",
@@ -2346,6 +2357,14 @@
                     "type": "Chain Mail",
                     "text": "Coat of Red Chain Mail",
                     "name": "Coat of Red",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Viper Cap",
+                    "text": "Constricting Command Viper Cap",
+                    "name": "Constricting Command",
                     "flags": {
                         "unique": true
                     }
@@ -2951,9 +2970,25 @@
                     }
                 },
                 {
+                    "type": "Death Mask",
+                    "text": "Mind of the Council Death Mask",
+                    "name": "Mind of the Council",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Grand Regalia",
                     "text": "Morior Invictus Grand Regalia",
                     "name": "Morior Invictus",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Toxic Quiver",
+                    "text": "Murkshaft Toxic Quiver",
+                    "name": "Murkshaft",
                     "flags": {
                         "unique": true
                     }
@@ -4158,13 +4193,76 @@
                     "type": "Greater Rune of Leadership"
                 },
                 {
+                    "type": "Craiceann's Rune of Warding"
+                },
+                {
+                    "type": "Saqawal's Rune of Memory"
+                },
+                {
+                    "type": "Saqawal's Rune of Erosion"
+                },
+                {
+                    "type": "Farrul's Rune of the Hunt"
+                },
+                {
+                    "type": "Craiceann's Rune of Recovery"
+                },
+                {
+                    "type": "Courtesan Mannan's Rune of Cruelty"
+                },
+                {
+                    "type": "Thane Grannell's Rune of Mastery"
+                },
+                {
+                    "type": "Fenumus' Rune of Spinning"
+                },
+                {
+                    "type": "Countess Seske's Rune of Archery"
+                },
+                {
+                    "type": "Thane Girt's Rune of Wildness"
+                },
+                {
                     "type": "Greater Rune of Tithing"
+                },
+                {
+                    "type": "Fenumus' Rune of Draining"
+                },
+                {
+                    "type": "Thane Myrk's Rune of Summer"
+                },
+                {
+                    "type": "Lady Hestra's Rune of Winter"
+                },
+                {
+                    "type": "Thane Leld's Rune of Spring"
+                },
+                {
+                    "type": "The Greatwolf's Rune of Claws"
+                },
+                {
+                    "type": "The Greatwolf's Rune of Willpower"
                 },
                 {
                     "type": "Greater Rune of Alacrity"
                 },
                 {
                     "type": "Greater Rune of Nobility"
+                },
+                {
+                    "type": "Hedgewitch Assandra's Rune of Wisdom"
+                },
+                {
+                    "type": "Saqawal's Rune of the Sky"
+                },
+                {
+                    "type": "Fenumus' Rune of Agony"
+                },
+                {
+                    "type": "Farrul's Rune of Grace"
+                },
+                {
+                    "type": "Farrul's Rune of the Chase"
                 },
                 {
                     "type": "Robust Rune"
@@ -4224,6 +4322,51 @@
                     "type": "Soul Core of Xopec"
                 },
                 {
+                    "type": "Hayoxi's Soul Core of Heatproofing"
+                },
+                {
+                    "type": "Xopec's Soul Core of Power"
+                },
+                {
+                    "type": "Estazunti's Soul Core of Convalescence"
+                },
+                {
+                    "type": "Tacati's Soul Core of Affliction"
+                },
+                {
+                    "type": "Cholotl's Soul Core of War"
+                },
+                {
+                    "type": "Citaqualotl's Soul Core of Foulness"
+                },
+                {
+                    "type": "Xipocado's Soul Core of Dominion"
+                },
+                {
+                    "type": "Zalatl's Soul Core of Insulation"
+                },
+                {
+                    "type": "Topotante's Soul Core of Dampening"
+                },
+                {
+                    "type": "Atmohua's Soul Core of Retreat"
+                },
+                {
+                    "type": "Quipolatl's Soul Core of Flow"
+                },
+                {
+                    "type": "Tzamoto's Soul Core of Ferocity"
+                },
+                {
+                    "type": "Uromoti's Soul Core of Attenuation"
+                },
+                {
+                    "type": "Opiloti's Soul Core of Assault"
+                },
+                {
+                    "type": "Guatelitzi's Soul Core of Endurance"
+                },
+                {
                     "type": "Soul Core of Quipolatl"
                 },
                 {
@@ -4255,6 +4398,27 @@
                 },
                 {
                     "type": "Serpent Talisman"
+                },
+                {
+                    "type": "Talisman of Sirrius"
+                },
+                {
+                    "type": "Talisman of Thruldana"
+                },
+                {
+                    "type": "Talisman of Grold"
+                },
+                {
+                    "type": "Talisman of Eeshta"
+                },
+                {
+                    "type": "Talisman of Egrin"
+                },
+                {
+                    "type": "Talisman of Maxarius"
+                },
+                {
+                    "type": "Talisman of Ralakesh"
                 },
                 {
                     "type": "Stag Talisman"
@@ -6655,6 +6819,9 @@
                     "type": "Crude Bow"
                 },
                 {
+                    "type": "Heavy Bow"
+                },
+                {
                     "type": "Shortbow"
                 },
                 {
@@ -6850,6 +7017,9 @@
                     "type": "Chiming Staff"
                 },
                 {
+                    "type": "Permafrost Staff"
+                },
+                {
                     "type": "Splitting Greataxe"
                 },
                 {
@@ -6994,6 +7164,14 @@
                     "type": "Keen Greatsword"
                 },
                 {
+                    "type": "Siphoning Wand",
+                    "text": "Adonia's Ego Siphoning Wand",
+                    "name": "Adonia's Ego",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Shortsword",
                     "text": "Bluetongue Shortsword",
                     "name": "Bluetongue",
@@ -7122,6 +7300,30 @@
                     }
                 },
                 {
+                    "type": "Shrine Sceptre",
+                    "text": "Guiding Palm of the Eye Shrine Sceptre",
+                    "name": "Guiding Palm of the Eye",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Shrine Sceptre",
+                    "text": "Guiding Palm of the Heart Shrine Sceptre",
+                    "name": "Guiding Palm of the Heart",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Shrine Sceptre",
+                    "text": "Guiding Palm of the Mind Shrine Sceptre",
+                    "name": "Guiding Palm of the Mind",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Felled Greatclub",
                     "text": "Hoghunt Felled Greatclub",
                     "name": "Hoghunt",
@@ -7202,6 +7404,14 @@
                     }
                 },
                 {
+                    "type": "Hook Axe",
+                    "text": "INCOMPLETE Hook Axe",
+                    "name": "INCOMPLETE",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Iron Greatsword",
                     "text": "INCOMPLETE Iron Greatsword",
                     "name": "INCOMPLETE",
@@ -7220,14 +7430,6 @@
                 {
                     "type": "Simple Dagger",
                     "text": "INCOMPLETE Simple Dagger",
-                    "name": "INCOMPLETE",
-                    "flags": {
-                        "unique": true
-                    }
-                },
-                {
-                    "type": "Hook Axe",
-                    "text": "INCOMPLETE Hook Axe",
                     "name": "INCOMPLETE",
                     "flags": {
                         "unique": true
@@ -7362,6 +7564,14 @@
                     }
                 },
                 {
+                    "type": "Heavy Bow",
+                    "text": "Lioneye's Glare Heavy Bow",
+                    "name": "Lioneye's Glare",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Crescent Quarterstaff",
                     "text": "Matsya Crescent Quarterstaff",
                     "name": "Matsya",
@@ -7405,6 +7615,14 @@
                     "type": "Torment Club",
                     "text": "Olrovasara Torment Club",
                     "name": "Olrovasara",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Shrine Sceptre",
+                    "text": "Palm of the Dreamer Shrine Sceptre",
+                    "name": "Palm of the Dreamer",
                     "flags": {
                         "unique": true
                     }
@@ -7610,6 +7828,14 @@
                     }
                 },
                 {
+                    "type": "Desolate Crossbow",
+                    "text": "The Last Lament Desolate Crossbow",
+                    "name": "The Last Lament",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
                     "type": "Pyrophyte Staff",
                     "text": "The Searing Touch Pyrophyte Staff",
                     "name": "The Searing Touch",
@@ -7621,6 +7847,14 @@
                     "type": "Gothic Quarterstaff",
                     "text": "The Sentry Gothic Quarterstaff",
                     "name": "The Sentry",
+                    "flags": {
+                        "unique": true
+                    }
+                },
+                {
+                    "type": "Permafrost Staff",
+                    "text": "The Whispering Ice Permafrost Staff",
+                    "name": "The Whispering Ice",
                     "flags": {
                         "unique": true
                     }
